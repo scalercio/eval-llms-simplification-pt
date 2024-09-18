@@ -1,2 +1,3 @@
 requests        
 python-dotenv
+easse@ git+https://github.com/feralvam/easse.git
