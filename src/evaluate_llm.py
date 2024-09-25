@@ -8,6 +8,12 @@ import json
 import argparse
 import os
 from src.config import get_openai_api_key
+from src.utils import calculate_metrics
+import re
+
+# Função para remover caracteres de substituição Unicode inválidos
+def remove_invalid_unicode(text):
+    return re.sub(r'[\ud800-\udfff]', '', text)
 
 tipo_ex = ["sintática", "ordem", "redundante_lexical", "anáfora"]
 prompts = {'feng': f"Substitua a frase complexa por uma frase simples. \
@@ -34,7 +40,7 @@ exemplars = {
         ]
 }
 
-def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engine):
+def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engine, seed):
     # Criação do prompt com a frase complexa recebida como argumento
     #prompt = (
     #    f"Substitua a frase complexa por uma frase simples. "
@@ -48,7 +54,7 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
         "messages": [
             {
                 "role": "system",
-                "content": "You are a helpful assistant."
+                "content": "Você é um assistente simplificador de textos."
             },
             {
                 "role": "user",
@@ -74,6 +80,7 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
         "temperature": temp,
         "max_tokens": max_tokens,
         "top_p": topp,
+        "seed": seed,
         "stream": False
     }
 
@@ -90,18 +97,28 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
     if response.status_code == 200:
         data = response.json()
         #print(type(data)) #<class 'dict'>
-        content = data['choices'][0]['message']['content']
-        json_object = json.loads(content)
-        print(json_object['simplified_phrase'])
-        return json_object.get("simplified_phrase", "")
+        content = data['choices'][0]['message']['content'].strip()
+        #print(content) #<class 'str'>
+        if content[-1] not in '}':
+            content = content[:-1]+'}'
+        try:
+            json_object = json.loads(content)
+        except json.JSONDecodeError as e:
+            print("Invalid JSON syntax:", e)
+            print(content)
+            content = '{ "simplified_phrase": "hallucination"}'
+            json_object = json.loads(content)         
+        
+        #print(json_object['simplified_phrase'])
+        return remove_invalid_unicode(json_object.get("simplified_phrase", ""))
     else:
         return {"error": f"Request failed with status code {response.status_code}"}
 
-def generate_examples_one_by_one(endpoint, originals, prompt, ofile, max_len, temp, topp, engine):
+def generate_examples_one_by_one(endpoint, originals, prompt, ofile, max_len, temp, topp, engine, seed):
     id = 1
     with open(ofile, 'a', encoding='utf-8') as f:
         for original in originals[:-1]:
-            simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine)
+            simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
             #print(simpler)
             instance = {"id": id, "original":original, "simplified": simpler}
             json.dump(instance, f, ensure_ascii=False, indent=4)
@@ -109,7 +126,7 @@ def generate_examples_one_by_one(endpoint, originals, prompt, ofile, max_len, te
             id += 1
             
         original = originals[-1]
-        simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine)
+        simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
             #print(simpler)
         instance = {"id": id, "original":original, "simplified": simpler}
         json.dump(instance, f, ensure_ascii=False, indent=4)
@@ -140,21 +157,21 @@ def process_file_and_simplify(endpoint, input_file_path, model_name):
             # Nome do arquivo de saída
             ofile = f"simplified_{tipo}_{seed}.json"
             output_file_path = os.path.join(output_dir, ofile)
+            if not os.path.exists(output_file_path):
             
-            prompt = get_prompt_one_shot(prompts["feng"], exemplars[tipo])
-            print(prompt)
-            
-            with open(output_file_path, 'w', encoding='utf-8') as f:
-                    f.write('[\n')
+                prompt = get_prompt_one_shot(prompts["feng"], exemplars[tipo])
+                print(prompt)
 
-            #print(originals)
-            total = generate_examples_one_by_one(endpoint, sentences, prompt, output_file_path, 100, 1, 0.9, model_name)
-            
-            #total = generate_examples_one_by_one(originals, prompt1, ofile)
-            print(total)
-        
-            with open(output_file_path, 'a', encoding='utf-8') as f:
-                f.write(']')
+                with open(output_file_path, 'w', encoding='utf-8') as f:
+                        f.write('[\n')
+
+                #print(originals)
+                total = generate_examples_one_by_one(endpoint, sentences, prompt, output_file_path, 1024, 1, 0.9, model_name, seed)
+
+                print(total)
+
+                with open(output_file_path, 'a', encoding='utf-8') as f:
+                    f.write(']')
     
     # Simplificando cada sentença e escrevendo no arquivo de saída
     #with open(output_file_path, 'w', encoding='utf-8') as output_file:
@@ -167,6 +184,7 @@ def process_file_and_simplify(endpoint, input_file_path, model_name):
     #            print(f"Simplificado: {simplified_sentence}")
 
     print(f"Todas as sentenças foram simplificadas e salvas em {output_file_path}")
+    return sentences
 
 def get_model_name_from_endpoint(endpoint):
     try:
@@ -191,8 +209,9 @@ def main(endpoint, input_file_path, reference_path):
     
     model_name = get_model_name_from_endpoint(endpoint + 'models')
     print(model_name.split("/")[-1])
-    process_file_and_simplify(endpoint, input_file_path, model_name)
-    
+    sentences = process_file_and_simplify(endpoint, input_file_path, model_name)
+    results = calculate_metrics(model_name, reference_path, tipo_ex, seeds, sentences)
+    print(results)    
 
 
 if __name__ == "__main__":
