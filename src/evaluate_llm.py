@@ -7,9 +7,10 @@ import requests
 import json
 import argparse
 import os
-from src.config import get_openai_api_key
+from src.config import get_openai_api_key, get_maritaca_api_key
 from src.utils import calculate_metrics
 import re
+import openai
 
 # Função para remover caracteres de substituição Unicode inválidos
 def remove_invalid_unicode(text):
@@ -39,6 +40,7 @@ exemplars = {
             
         ]
 }
+open_ai_model = "gpt-4o-mini"
 
 def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engine, seed):
     # Criação do prompt com a frase complexa recebida como argumento
@@ -65,7 +67,7 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
             "type": "json_schema",
             "json_schema": {
                 "name": "simplification_response",
-                "strict": "true",
+                "strict": True  ,
                 "schema": {
                     "type": "object",
                     "properties": {
@@ -73,6 +75,7 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
                             "type": "string"
                         }
                     },
+                    "additionalProperties": False,
                     "required": ["simplified_phrase"]
                 }
             }
@@ -87,7 +90,7 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
     # Cabeçalhos da requisição
     headers = {
         "Content-Type": "application/json",
-        #"Authorization": f"Bearer {get_openai_api_key()}"
+        "Authorization": f"Bearer {get_openai_api_key()}"
     }
 
     # Fazendo a requisição POST para o endpoint
@@ -114,11 +117,65 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
     else:
         return {"error": f"Request failed with status code {response.status_code}"}
 
+def request_maritaca_api(endpoint, original, prompt, max_tokens, temp, topp, engine, seed):
+    client = openai.OpenAI(
+        api_key=get_maritaca_api_key(),
+        base_url=endpoint,
+    )
+
+    # JSON payload com o prompt criado dinamicamente
+    payload = {
+        "model": engine,
+        "messages": [
+            {
+                "role": "system",
+                "content": "Você é um assistente simplificador de textos."
+            },
+            {
+                "role": "user",
+                "content": f"{prompt} \n\nFrase complexa: {original} \n\n Frase Simples: \n\n",
+            }
+        ],
+        #"response_format": {
+        #    "type": "json_schema",
+        #    "json_schema": {
+        #        "name": "simplification_response",
+        #        "strict": True  ,
+        #        "schema": {
+        #            "type": "object",
+        #            "properties": {
+        #                "simplified_phrase": {
+        #                    "type": "string"
+        #                }
+        #            },
+        #            "additionalProperties": False,
+        #            "required": ["simplified_phrase"]
+        #        }
+        #    }
+        #},
+        "temperature": temp,
+        "max_tokens": max_tokens,
+        "top_p": topp,
+        "seed": seed,
+        "stream": False
+    }
+
+    response = client.chat.completions.create(**payload)
+
+    #print(response.choices[0].message.content)
+
+    content = response.choices[0].message.content.strip()        
+        
+    return remove_invalid_unicode(content)
+
 def generate_examples_one_by_one(endpoint, originals, prompt, ofile, max_len, temp, topp, engine, seed):
     id = 1
     with open(ofile, 'a', encoding='utf-8') as f:
         for original in originals[:-1]:
-            simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
+            if 'sabia' in engine:
+                simpler = request_maritaca_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
+            else:
+                simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
             #print(simpler)
             instance = {"id": id, "original":original, "simplified": simpler}
             json.dump(instance, f, ensure_ascii=False, indent=4)
@@ -126,7 +183,10 @@ def generate_examples_one_by_one(endpoint, originals, prompt, ofile, max_len, te
             id += 1
             
         original = originals[-1]
-        simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
+        if 'sabia' in engine:
+            simpler = request_maritaca_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
+        else:
+            simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
             #print(simpler)
         instance = {"id": id, "original":original, "simplified": simpler}
         json.dump(instance, f, ensure_ascii=False, indent=4)
@@ -139,7 +199,7 @@ def get_prompt_one_shot(prompt, pair):
     return prompt + pares
 
 
-def process_file_and_simplify(endpoint, input_file_path, model_name):
+def process_file_and_simplify(endpoint, input_file_path, model_name, dataset):
     # Verifica se o arquivo existe
     if not os.path.isfile(input_file_path):
         raise FileNotFoundError(f"O arquivo {input_file_path} não foi encontrado.")
@@ -149,7 +209,7 @@ def process_file_and_simplify(endpoint, input_file_path, model_name):
         sentences = f.readlines()
 
     # Criando diretório para saída, se não existir
-    output_dir = "simplified_outputs" + "/" + model_name.split("/")[-1]
+    output_dir = "simplified_outputs" + "/" + dataset + "/" + model_name.split("/")[-1]
     os.makedirs(output_dir, exist_ok=True)
 
     for seed in seeds:
@@ -205,23 +265,29 @@ def get_model_name_from_endpoint(endpoint):
     except Exception as e:
         return f"Ocorreu um erro: {str(e)}"
 
-def main(endpoint, input_file_path, reference_path):
+def main(endpoint, input_file_path, reference_path, dataset):
     
-    model_name = get_model_name_from_endpoint(endpoint + 'models')
+    if 'openai' in endpoint:
+        model_name = open_ai_model
+    elif 'maritaca' in endpoint:
+        model_name = 'sabia-2-small'
+    else:
+        model_name = get_model_name_from_endpoint(endpoint + 'models')
     print(model_name.split("/")[-1])
-    sentences = process_file_and_simplify(endpoint, input_file_path, model_name)
-    results = calculate_metrics(model_name, reference_path, tipo_ex, seeds, sentences)
+    sentences = process_file_and_simplify(endpoint, input_file_path, model_name, dataset)
+    results = calculate_metrics(model_name, reference_path, tipo_ex, seeds, sentences, dataset)
     print(results)    
 
 
 if __name__ == "__main__":
     # Utilizando argparse para capturar o endpoint e o caminho do arquivo
-    parser = argparse.ArgumentParser(description='Simplifica frases complexas de um arquivo usando o OpenAI API.')
-    parser.add_argument('endpoint', type=str, help='O URL do endpoint OpenAI')
+    parser = argparse.ArgumentParser(description='Simplifica frases complexas de um arquivo usando uma API.')
+    parser.add_argument('endpoint', type=str, help='O URL do endpoint da API')
     parser.add_argument('input_file', type=str, help='O caminho para o arquivo contendo frases complexas')
     parser.add_argument('ref_file', type=str, help='O caminho para o arquivo contendo frases referências')
+    parser.add_argument('dataset', type=str, help='Dataset Usado')
 
     args = parser.parse_args()
 
     # Processa o arquivo de entrada e gera o arquivo de saída com as sentenças simplificadas
-    main(args.endpoint, args.input_file, args.ref_file)
+    main(args.endpoint, args.input_file, args.ref_file, args.dataset)
