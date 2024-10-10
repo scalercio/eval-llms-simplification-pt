@@ -1,0 +1,2381 @@
+[
+{
+    "id": 1,
+    "original": "Esse equipamento deve ser utilizado por duas pessoas.\n",
+    "simplified": "Esse equipamento deve ser usado por dois. Pode ser usado por duas pessoas."
+},
+{
+    "id": 2,
+    "original": "Aguarde seu colega se posicionar do outro lado do tubo.\n",
+    "simplified": "Aguarde seu colega se posicionar na outra extremidade do tubo."
+},
+{
+    "id": 3,
+    "original": "Aperte o botão.\tUm exaustor será ligado no lado oposto do tubo, criando um diferencial de pressão em seu interior.\n",
+    "simplified": "Aperte o botão e um sistema de limpeza será ativado."
+},
+{
+    "id": 4,
+    "original": "Isso faz com que as bolinhas de isopor no interior do tubo se movimentem da região de maior pressão para a de menor pressão.\n",
+    "simplified": "As bolinhas se movimentam das áreas mais apertadas para as menos apertadas."
+},
+{
+    "id": 5,
+    "original": "Você já foi empurrado por uma lufada de ar em um dia ventoso?\n",
+    "simplified": "Sim."
+},
+{
+    "id": 6,
+    "original": "Partindo do mesmo princípio, as grandes diferenças de pressão no ar em nossa atmosfera são capazes de produzir ventos muito fortes, capazes de empurrar até mesmo edificações.\n",
+    "simplified": "As forças do ar podem produzir grandes ventos e até mesmo arrancar as construções."
+},
+{
+    "id": 7,
+    "original": "Observe a variação da temperatura ao longo do tubo e identifique onde o tubo está seco, onde está úmido e onde está coberto de gelo.\n",
+    "simplified": "Veja como a temperatura muda ao longo do tubo. Vê se há lugares secos, úmidos ou com gelo."
+},
+{
+    "id": 8,
+    "original": "Você já notou que, no inverno, vemos água “brotando” de azulejos ou ainda carros com vidros embaçados?\n",
+    "simplified": "Você já percebeu que os azulejos esvaziam de água no inverno?"
+},
+{
+    "id": 9,
+    "original": "Esses processos estão diretamente relacionados ao ponto de orvalho.\n",
+    "simplified": "Essa é uma questão difícil e ainda não foi resolvida."
+},
+{
+    "id": 10,
+    "original": "A temperatura do ponto de orvalho também é de grande valia para a realização da previsão do tempo, especialmente para se conhecer a umidade relativa do ar.\n",
+    "simplified": "A temperatura do ponto de orvalho também é útil para a previsão do tempo. Sabe qual é o nível de umidade no ar?"
+},
+{
+    "id": 11,
+    "original": "Aperte o botão para ligar o equipamento e gire o disco óptico.\n",
+    "simplified": "Gire o disco óptico enquanto você aperta o botão para ligar o equipamento."
+},
+{
+    "id": 12,
+    "original": "Observe as direções seguidas pelo feixe de luz incidente (antes da lente) e pelo feixe emergente (depois da lente), no disco óptico.\n",
+    "simplified": "O feixe de luz passa pela primeira lente, fazendo uma direção curva. Ele sai pela segunda lente, fazendo outra direção curva, formando a imagem do objeto em uma tela. "
+},
+{
+    "id": 13,
+    "original": "O feixe incidente é um feixe paralelo.\n",
+    "simplified": "O feixe é paralelo"
+},
+{
+    "id": 14,
+    "original": "Ao passar pela lente, torna-se um feixe emergente convergente, devido à refração.\n",
+    "simplified": "Torna um feixe que se fecha"
+},
+{
+    "id": 15,
+    "original": "Os raios luminosos do feixe emergente vão convergir para um mesmo ponto, o qual chamamos de foco.\n",
+    "simplified": "A luz do raio converge em um único ponto."
+},
+{
+    "id": 16,
+    "original": "Em um olho que apresenta hipermetropia, a imagem dos objetos PRÓXIMOS forma-se antes da retina.\n",
+    "simplified": "Em um olho com hipermetropia, os objetos próximos parecem mais perto do que o esperado."
+},
+{
+    "id": 17,
+    "original": "Para corrigir a hipermetropia, usam-se lentes convergentes.\n",
+    "simplified": "Usam lentes que fazem as imagens se convergirem para o olho."
+},
+{
+    "id": 18,
+    "original": "Com o auxílio da lupa, observe os pequenos invertebrados cujos detalhes são impossíveis de se verificar a olho nu.\n",
+    "simplified": "Com uma ótica de zoom e com a ajuda da lupa, é possível ver os detalhes dos invertebrados pequenos."
+},
+{
+    "id": 19,
+    "original": "Todos eles fazem parte do grupo dos Artrópodes, como também é o caso das baratas, das borboletas, dos mosquitos e dos gafanhotos.\n",
+    "simplified": "As artrópodes incluem as baratas, borboletas, mosquitos e gafanhotos."
+},
+{
+    "id": 20,
+    "original": "Os artrópodes são o grupo mais diversificado do planeta – com mais de 1,5 milhão de espécies descritas – e apresentam, de forma geral, corpo segmentado, exoesqueleto rígido e membros articulados.\n",
+    "simplified": "Os artrópodes são o grupo mais diversificado do planeta. Tem mais de 1,5 milhão de espécies. Eles têm corpo, um esqueleto rígido e membros articulados."
+},
+{
+    "id": 21,
+    "original": "Os artrópodes estão presentes no nosso cotidiano e provavelmente não há um dia em que você não tenha algum tipo de contato com eles.\n",
+    "simplified": "Os artrópodes são bastante presentes em nossas vidas diárias. Provavelmente, você encontra algum exemplo todos os dias."
+},
+{
+    "id": 22,
+    "original": "Alguns são considerados parasitas, ou seja, aproveitam-se de outro organismo para sobreviver, como é o caso das pulgas e dos carrapatos.\n",
+    "simplified": "algumas espécies são consideradas parasitas. Elas se alimentam do outro organismo."
+},
+{
+    "id": 23,
+    "original": "Os parasitas, assim como certos mosquitos, podem causar doenças em muitas outras espécies de animais, incluindo seres humanos.\n",
+    "simplified": "Certos insectos podem transmitir doenças em muitos outros animais e até mesmo em humanos."
+},
+{
+    "id": 24,
+    "original": "Por isso é necessário manter uma rotina de higiene em nossas casas, jardins e animais de estimação.\n",
+    "simplified": "Nossos animais precisam ser limpos regularmente."
+},
+{
+    "id": 25,
+    "original": "Afaste uma bola das outras e solte-a.\n",
+    "simplified": "Afaste a bola dos outros e solta-a."
+},
+{
+    "id": 26,
+    "original": "Durante as colisões, podemos observar perdas de energia entre os objetos.\n",
+    "simplified": "Pode-se perder energia durante uma colisão."
+},
+{
+    "id": 27,
+    "original": "Contudo, se essas perdas forem muito pequenas, a energia do movimento (cinética) é contínua, caracterizando a colisão elástica.\n",
+    "simplified": "A energia cinética é contínua, e ocorre sempre após uma colisão elástica, mesmo se forem pequenas as perdas."
+},
+{
+    "id": 28,
+    "original": "Quando você afastou a primeira bola e a soltou, ela transferiu energia do movimento para as demais até chegar a última.\n",
+    "simplified": "Quando você afastou a primeira bola, a energia passou das outras para a última."
+},
+{
+    "id": 29,
+    "original": "A energia transferida pela primeira bola é suficiente para que a última bola se mova.\n",
+    "simplified": "A primeira bola transferiu o suficiente energia para a última bola se mover."
+},
+{
+    "id": 30,
+    "original": "Quando você afasta duas bolas, a energia do movimento duplica, provocando o deslocamento de duas bolas.\n",
+    "simplified": "Quando você remove a tensão de uma cadeia, a energia do sistema muda. Aqui estô uma explicatía mais simples: Quando você tirar um pedaço da rede, o movimento das bolas no sistema vai para os outros pedaços da rede, mudando seu estado de movimento. Isso provoca o deslocamento do outro pedaço da rede, causando a duplicação da energia."
+},
+{
+    "id": 31,
+    "original": "Basicamente o jogo se define por uma sucessão desse tipo de colisão, transferindo energia entre as bolinhas para derrubá-las nos buracos da mesa.\n",
+    "simplified": "O jogo é sobre as bolinhas caídas nos buracos"
+},
+{
+    "id": 32,
+    "original": "Mergulhando um objeto em um recipiente cheio d’água, ele será pressionado pela água, mas nem todas as partes do objeto estarão submetidas à mesma pressão.\n",
+    "simplified": "Enquanto o objeto está mergulhado na água, a pressão da água é exercida sobre ele. Não todas as suas partes serão pressionadas da mesma forma."
+},
+{
+    "id": 33,
+    "original": "A pressão aumenta com a profundidade, ou seja, a parte do objeto que estiver na porção mais profunda do recipiente estará sujeita a uma pressão maior.\n",
+    "simplified": "A pressão aumenta conforme a profundidade."
+},
+{
+    "id": 34,
+    "original": "Essa diferença de pressão produz uma força resultante para cima, que recebe o nome de empuxo.\n",
+    "simplified": "Cada vez que o ar é comprimido, se afasta da parede e sai pela fresta, para ficar no espaço entre as paredes. Além disso, a pressão do ar sobre as paredes faz com que o ar que est§ na sala fique mais perto das paredes. Esse empuxo faz com que o ar se mova para dentro da sala."
+},
+{
+    "id": 35,
+    "original": "É o empuxo que faz com que os corpos possam boiar.\n",
+    "simplified": "O empuxo faz com que os corpos possam ficar no topo da água"
+},
+{
+    "id": 36,
+    "original": "Entretanto, como explicar que corpos muito maiores, como navios e dirigíveis, conseguem boiar, respectivamente, na água e no ar?\n",
+    "simplified": "Navios e dirigiveis podem boiar porque eles são mais leves que a água. O ar é muito menos denso. Eles podem manter-se flutuando na superfície da água, ou em altitudes elevadas."
+},
+{
+    "id": 37,
+    "original": "Para que um objeto boie, é preciso que ele desloque um volume de fluido grande o suficiente para exercer um empuxo capaz de equilibrar seu peso.\n",
+    "simplified": "Um objeto precisa mover uma quantidade de fluido grande para se movimentar. O empuxo deve ser maior que sua própria massa."
+},
+{
+    "id": 38,
+    "original": "A quantidade de água deslocada por um navio é suficientemente grande para que o empuxo exercido pela água faça com que ele boie, diferentemente do que ocorre com uma moeda, que, embora seja muito mais leve, não desloca água suficiente para ter seu peso equilibrado pelo empuxo.\n",
+    "simplified": "Um navio pode boiar porque ele desloca muita água, mas uma moeda não pode. Embora seja muito leve."
+},
+{
+    "id": 39,
+    "original": "Na parte de trás do experimento, há uma barra oca de metal com um feixe de fios de cabelo em seu interior.\n",
+    "simplified": "um feixe de cabelo no interior da barra de metal"
+},
+{
+    "id": 40,
+    "original": "Os fios de cabelo se contraem em dias secos e esticam em dias úmidos.\n",
+    "simplified": "Os cabelos ficam mais comprimidos nos dias secos e esticam nos dias úmidos."
+},
+{
+    "id": 41,
+    "original": "Como os fios de cabelo estão presos ao ponteiro do higrômetro, a variação de umidade faz o ponteiro se mover, possibilitando assim a leitura do índice de umidade relativa do ar no momento.\n",
+    "simplified": "A movimentação do ponteiro depende da variação da umidade no ambiente."
+},
+{
+    "id": 42,
+    "original": "Procure comparar a umidade relativa do ar indicada pelo higrômetro de cabelo com a indicada pelo aparelho que se encontra atrás da estação meteorológica.\n",
+    "simplified": "Procure comparar o nível de umidade relativa do ar mostrado pelo higrômetro com o mostrado por aparelhos."
+},
+{
+    "id": 43,
+    "original": "Os instrumentos de medição possuem diversas maneiras de realizar a aferição, embora o princípio fundamental por trás da medição sempre seja sempre o mesmo.\n",
+    "simplified": "Os instrumentos de medição têm muitas formas para fazer as medidores e, no entanto, o objetivo final sempre é a mesma."
+},
+{
+    "id": 44,
+    "original": "Logo os valores obtidos serão sempre iguais ou muito próximos.\n",
+    "simplified": "Logo os valores obtidos serão sempre iguais ou muito próximos."
+},
+{
+    "id": 45,
+    "original": "Flor de pétalas metálicas\n",
+    "simplified": "Flor de pétalas de metal"
+},
+{
+    "id": 46,
+    "original": "As pétalas metálicas que compõem a flor são constituídas por metais com diferentes coeficientes de dilatação térmica.\n",
+    "simplified": "As pétalas da flor são feitas de metais que se deformam diferente quando o calor é aplicado."
+},
+{
+    "id": 47,
+    "original": "Isso significa que eles reagem de forma diferente quando expostos a diferentes temperaturas.\n",
+    "simplified": "Eles reagem de forma diferente à temperatura."
+},
+{
+    "id": 48,
+    "original": "Neste experimento, o metal do lado interno das pétalas (mais próximo da lâmpada) tem maior dilatação do que o do metal do lado externo.\n",
+    "simplified": "A parte interna do metal da flor de lântica sofre mais dilatação.  A parte externa, com menos exposição à luz, tem menos dilatação."
+},
+{
+    "id": 49,
+    "original": "Isso faz as pétalas curvarem-se para fora.\n",
+    "simplified": "A curva das pétalas é feita pelo fio que as aponta para dentro."
+},
+{
+    "id": 50,
+    "original": "Com a lâmpada apagada, a temperatura diminui, fazendo as pétalas curvarem-se para o lado contrário.\n",
+    "simplified": "As pétalas se fecham para o lado contrário quando a temperatura diminui."
+},
+{
+    "id": 51,
+    "original": "Você já deve ter tido dificuldade para abrir um pote de vidro de conservas com uma tampa de metal.\n",
+    "simplified": "Você provavelmente já teve dificuldades em abrir um pote de vidro de conservas com uma tampa de metal."
+},
+{
+    "id": 52,
+    "original": "Nesse caso, sugere-se aquecer o pote.\n",
+    "simplified": "Aqueça o recipiente."
+},
+{
+    "id": 53,
+    "original": "Como o metal possui um coeficiente de dilatação maior do que o vidro, a tampa vai dilatar mais, “separando-se” do vidro e facilitando a abertura do pote.\n",
+    "simplified": "A tampa vai se soltar, separando-se da parte de vidro e tornando fácil abrir o pote."
+},
+{
+    "id": 54,
+    "original": "A escala °C (Celsius) é utilizada de maneira oficial por quase todos os países do globo.\n",
+    "simplified": "A escala Celsius é usada pelo mundo todo"
+},
+{
+    "id": 55,
+    "original": "A escala °F (Fahrenheit) é utilizada apenas por três países como é o caso dos Estados Unidos da América.\n",
+    "simplified": "A escala Fahrenheit só é usada nos EUA."
+},
+{
+    "id": 56,
+    "original": "Já a unidade K (Kelvin) é usada para fins científicos, determinando a valor absoluto de temperatura.\n",
+    "simplified": "Kelvin define o valor absoluto de temperatura"
+},
+{
+    "id": 57,
+    "original": "Você saberia dizer qual a temperatura deste ambiente em °C?\n",
+    "simplified": "Quem sabe?"
+},
+{
+    "id": 58,
+    "original": "Observe o termômetro.\n",
+    "simplified": "Olhe para o termómetro."
+},
+{
+    "id": 59,
+    "original": "A relação entre a temperatura e a dilatação da coluna de álcool (que contém o líquido vermelho) possibilita a medida da temperatura.\n",
+    "simplified": "A temperatura é medida colocando a coluna de álcool no vapor."
+},
+{
+    "id": 60,
+    "original": "A marcação de temperatura está diretamente relacionada com fenômenos físicos na natureza.\n",
+    "simplified": "A temperatura é medida pela natureza"
+},
+{
+    "id": 61,
+    "original": "Por exemplo: sobre condições normais de pressão, a uma temperatura igual a 0° Celsius pode-se observar a mudança de estado físico da água entre líquido e sólido.\n",
+    "simplified": "A água se transforma do líquido para o sólido à temperatura de 0° Celsius, quando está sob condições normais."
+},
+{
+    "id": 62,
+    "original": "Acredita-se que 99% da matéria visível do universo seja plasma.\n",
+    "simplified": "A maioria dos objetos no cosmos é plasma"
+},
+{
+    "id": 63,
+    "original": "Ele está presente no Sol e em qualquer outra estrela.\n",
+    "simplified": "Ele está presente nos sol e em todas as outras estrelas."
+},
+{
+    "id": 64,
+    "original": "Dificilmente se obtém o estado de plasma aqui na Terra.\n",
+    "simplified": "Dificilmente se pode ter plasma daqui."
+},
+{
+    "id": 65,
+    "original": "Por isso, sabe-se muito pouco sobre ele.\n",
+    "simplified": "Sabe-se muito pouco dele."
+},
+{
+    "id": 66,
+    "original": "O que os cientistas já sabem é que ele escoa como um líquido viscoso.\n",
+    "simplified": "Ele escoa como um líquido viscoso."
+},
+{
+    "id": 67,
+    "original": "Não é genial?\n",
+    "simplified": "Nao e genial?"
+},
+{
+    "id": 68,
+    "original": "Na Rússia foi desenvolvida uma potente máquina para produção e confinamento de plasma, o Tokamak, em 1960, com a finalidade de gerar energia elétrica.\n",
+    "simplified": "Em 1960, os russos desenvolveram um grande aparelho para produzir plasma."
+},
+{
+    "id": 69,
+    "original": "Poucas réplicas foram feitas até os dias atuais e todas de caráter experimental, pois os reatores tokamaks gastam mais energia do que produzem.\n",
+    "simplified": "As poucas réplicas que existem ainda são experimentais e gastam energia na produzir."
+},
+{
+    "id": 70,
+    "original": "Aqui no Brasil, temos o Tokamak ETE (Experimento Tokamak Esférico) que está em funcionamento desde novembro de 2000 no Laboratório de Plasma (LAP) do Instituto Nacional de Pesquisas Espaciais (INPE), em São José dos Campos (SP).\n",
+    "simplified": "Tem um tokamak que está funcionando desde novembro de 2000 no Laboratório de Plasma no INPE, na SP."
+},
+{
+    "id": 71,
+    "original": "Aperte o botão e observe, à sua direita, o resistor aquecendo.\n",
+    "simplified": "Puxe a alavanca para acender a lâmpada!"
+},
+{
+    "id": 72,
+    "original": "Em seguida, posicione sua mão no local indicado e sinta o calor transmitido pelo resistor através das correntes de convecção do ar.\n",
+    "simplified": "Posicione sua mão sobre o local mostrado e sinta a temperatura transmitida pelo resistor por meio da circulação de ar."
+},
+{
+    "id": 73,
+    "original": "Quando a corrente elétrica passa pelo resistor, ocorre a transformação da energia elétrica em energia térmica, o chamado efeito Joule, devido à colisão de elétrons livres com os átomos da estrutura do material do resistor.\n",
+    "simplified": "O efeito é causado pela passagem de corrente elétrica no resistor. Ela transforma energia elétrica em calor, que faz colidir os elétrons livremente com a estrutura do resistor."
+},
+{
+    "id": 74,
+    "original": "Esse princípio é comumente utilizado em fornos e aquecedores elétricos.\n",
+    "simplified": "Esse princípio é comumente utilizado nos fornos e aquecedores elétricos."
+},
+{
+    "id": 75,
+    "original": "Apesar de ser amplamente conhecido como Rio Guaíba, a comunidade científica o compreende, atualmente, como sendo um lago.\n",
+    "simplified": "O rio é chamado Rio Guaíba por muitas pessoas, mas os cientistas o consideram uma lagoa."
+},
+{
+    "id": 76,
+    "original": "As características abaixo apontam para essa tese, embora ela não seja unânime:\n",
+    "simplified": "A teoria parece apoiada por alguns argumentos, mas não é universalmente aceita."
+},
+{
+    "id": 77,
+    "original": "Os rios que nele desembocam formam um delta.\n",
+    "simplified": "Os rios que desabram para esse rio o formam um delta."
+},
+{
+    "id": 78,
+    "original": "Esse tipo de depósito sedimentar ocorre quando um volume de água confinado por canais encontra-se com um grande corpo de água.\n",
+    "simplified": "Esse tipo de depósito sedimentos é formado quando água confinada em canais encontram uma grande quantidade de água."
+},
+{
+    "id": 79,
+    "original": "O rápido desconfinamento do fluxo de água causa a descarga do material arenoso e argiloso que estava sendo carregado pelos rios.\n",
+    "simplified": "O rápido desconfinamento do fluxo de água libera o material que estava sendo carregado nos rios."
+},
+{
+    "id": 80,
+    "original": "Esse processo origina a formação de ilhas que vão sendo recortadas por canais sinuosos chamados de distributários.\n",
+    "simplified": "Os rios da região se dividem em três braços, formando ilhas ao longo do caminho."
+},
+{
+    "id": 81,
+    "original": "Cerca de 85% da água do Guaíba fica retida no reservatório por um grande período de tempo.\n",
+    "simplified": "Mais de 80% da água do Guaíba fica acumulada em um reservatório."
+},
+{
+    "id": 82,
+    "original": "O escoamento da água é bidimensional, formando áreas com velocidades diferenciadas, típica de um lago.\n",
+    "simplified": "O escoamento da água ocorre em áreas de velocidade diferente, como os lagos."
+},
+{
+    "id": 83,
+    "original": "Os depósitos sedimentares das margens possuem geometria e estrutura características de sistema lacustre.\n",
+    "simplified": "Os sedimentos nos bancos dos lagos são formas de sistemas acostados."
+},
+{
+    "id": 84,
+    "original": "A vegetação da margem é de matas de restinga, identificadoras de cordões arenosos lacustres ou oceânicos.\n",
+    "simplified": "A margem da lagos tem uma vegetação densa, formada por árvores que crescem nas costas do lago."
+},
+{
+    "id": 85,
+    "original": "- a vazão média das águas despejadas pelos rios Jacuí, Caí, Sinos e Gravataí no Guaíba (38 mil metros cúbicos por segundo) seria o suficiente para abastecer cada habitante do planeta com um litro de água a cada três horas;\n",
+    "simplified": "o gás hidrogênio é uma substância química que pode ser usada como combustível. Isso representa o futuro da indústria automobilística e eletrônica."
+},
+{
+    "id": 86,
+    "original": "- apresenta profundidade máxima de 31 metros na ponta de Itapuã;\n",
+    "simplified": "Apresenta uma profundidade de 31 metros na ponta de Itapuã."
+},
+{
+    "id": 87,
+    "original": "- o arquipélago situado na região norte do Lago tem 19 ilhas, das quais 16 pertencem ao município de Porto Alegre.\n",
+    "simplified": "Porto Alegre tem 16 ilhas."
+},
+{
+    "id": 88,
+    "original": "Equipamento formado por um núcleo de ferro parcialmente recoberto por dois enrolamentos de fios condutores (geralmente cobre), o transformador tem a função de variar a tensão elétrica nele aplicada.\n",
+    "simplified": "O equipamento é uma máquina que varia a tensão."
+},
+{
+    "id": 89,
+    "original": "Seu funcionamento inicia com a aplicação de uma tensão elétrica em um de seus enrolamentos.\n",
+    "simplified": "seu enrolamento é colocado na tira que recebe a tensão do circuito"
+},
+{
+    "id": 90,
+    "original": "O fluxo de corrente elétrica em um dos enrolamentos (primário) produz um campo magnético que induz uma tensão elétrica no outro enrolamento (secundário).\n",
+    "simplified": "O fluxo de corrente faz com que o enrole secundário seja alimentado."
+},
+{
+    "id": 91,
+    "original": "A variação de tensão elétrica entre os dois enrolamentos é proporcional à relação entre o número de voltas de fio condutor nos dois enrolamentos.\n",
+    "simplified": "A variação de tensão é igual ao némero de voltas do condutor."
+},
+{
+    "id": 92,
+    "original": "Eles permitem aumentar e diminuir a tensão elétrica, adequando-a aos mais diversos fins.\n",
+    "simplified": "Eles permitem ajustar a tensão elétrica para diferentes usos."
+},
+{
+    "id": 93,
+    "original": "É o que ocorrem por exemplo, para garantir o funcionamento seguro de um eletrodoméstico de 127 volts em uma casa cuja rede elétrica é de 220 volts.\n",
+    "simplified": "Para garantir a segurança do aparelho, devemos diminuir a tensão da casa para o valor correto."
+},
+{
+    "id": 94,
+    "original": "As cavernas, ou sistemas espeleológicos, são espaços originados na região mais superficial da crosta terrestre devido à dissolução progressiva e localizada de rochas calcárias.\n",
+    "simplified": "Os cavernas são espaços formados na superfície do planeta, resultado de uma erosão química das rochas."
+},
+{
+    "id": 95,
+    "original": "A dissolução decorre da ação da água percolante (água infiltrada circulante) que, conduzindo o gás carbônico dissolvido, age diretamente sobre os minerais das rochas por ela atravessadas, inicialmente pequenos espaços dispersos.\n",
+    "simplified": "Água infiltrada é responsável pela dissolução de minerais em rochas"
+},
+{
+    "id": 96,
+    "original": "De sua ampliação e interligação evoluem as cavernas propriamente ditas.\n",
+    "simplified": "Com o tempo, as cavernas se formaram."
+},
+{
+    "id": 97,
+    "original": "A mesma água que circula pela rocha não dissolvida, conduzindo o calcário, gotejando do teto caindo no piso da caverna possibilita a precipitação de parte do carbonato de cálcio produzindo os epeleotemas, as formações emergentes da superfície da caverna.\n",
+    "simplified": "A água do teto caindo no piso da caverna dissolve o calcário. Isso cria formação de pedras em toda a superfície."
+},
+{
+    "id": 98,
+    "original": "As estruturas pendentes do teto da caverna são estalactites e as do piso são as estalagmites.\n",
+    "simplified": "As estalactites são o topo das estruturas pendentes do teto, e as estalagmites são os de baixo do piso."
+},
+{
+    "id": 99,
+    "original": "A concreção de uma estalactite com uma estalagmite origina uma coluna calcárea.\n",
+    "simplified": "Uma coluna calcárea se forma quando há uma estalactite e uma estalagmite."
+},
+{
+    "id": 100,
+    "original": "Já na primeira edição dos Jogos Olímpicos da era moderna, em 1896, o ciclismo se fez presente.\n",
+    "simplified": "O ciclismo estreou nos jogos olímpicos de 1896."
+},
+{
+    "id": 101,
+    "original": "As correias há pouco tinham se tornado populares e o pneu era ainda uma novidade.\n",
+    "simplified": "O pneu de borracha é um produto que se tornou popular por pouco tempo."
+},
+{
+    "id": 102,
+    "original": "Até hoje, mais de cem anos se passaram e o desempenho dos ciclistas foi otimizado em mais de 200%, tornando a tecnologia de fabricação das bicicletas, se não a principal, umas das principais responsáveis pela constante melhora nos resultados.\n",
+    "simplified": "A tecnologia de fabricação das bicicletas ajudou a melhorar os resultados nos ciclismo."
+},
+{
+    "id": 103,
+    "original": "As bicicletas atuais são projetadas em túneis de vento virtuais, que permitem avaliar de que forma o ar flui sobre um objeto de forma determinada, calculando valores como coeficiente de arrasto e mapas de pressão.\n",
+    "simplified": "As bicicletas atuais são projetadas para medir o fluxo do vento em um objeto. Eles usam tecnologias para calcular valores como resistência e pressáo."
+},
+{
+    "id": 104,
+    "original": "Fabricadas em fibras de carbono, elas pesam menos da metade do que há cem anos.\n",
+    "simplified": "As armaduras modernas são feitas de um material muito leve"
+},
+{
+    "id": 105,
+    "original": "Uma bicicleta de competição atual.\n",
+    "simplified": "Uma bicicleta para corridas"
+},
+{
+    "id": 106,
+    "original": "Devido à diferença de pressão dentro e fora do vidro.\n",
+    "simplified": "Devido às diferenças de pressão em interno e externo, o vidro se rompe."
+},
+{
+    "id": 107,
+    "original": "Para garantir um maior prazo de validade aos alimentos conservados, retira-se o ar de dentro dos vidros antes de lacrá-los.\n",
+    "simplified": "retira-se o ar antes de fechar os vidros"
+},
+{
+    "id": 108,
+    "original": "Esse processo, chamado fechamento a vácuo, é realizado porque a ausência de oxigênio desacelera a proliferação de micro-organismos.\n",
+    "simplified": "O fechamento em vácuo acelera o processo de decomposição, pois os micro-organismos crescem mais devagar sem oxigênio."
+},
+{
+    "id": 109,
+    "original": "No interior do vidro – agora praticamente sem ar –, a pressão torna-se quase nula.\n",
+    "simplified": "No vidro, onde é praticamente sem ar, a pressão é muito baixa."
+},
+{
+    "id": 110,
+    "original": "Para abrir, é necessário retirar o lacre, o que permite a entrada de ar externo para dentro do vidro.\n",
+    "simplified": "E com eles amarrados a coleiras, do alto de uma duna a cerca de 50 metros do mar, tomava chimarrão às 19h de ontem. "
+},
+{
+    "id": 111,
+    "original": "A entrada de ar equilibra as pressões interna e externa, “desgrudando” a tampa.\n",
+    "simplified": "O ar que entra no peito desequilibra as pressões, “desgoadando” o dia seguinte."
+},
+{
+    "id": 112,
+    "original": "Verifique a ação da pressão seguindo as instruções sobre o balcão:\n",
+    "simplified": "Verifique as instruções do balcão para saber como aplicar a pressão correta."
+},
+{
+    "id": 113,
+    "original": "2.\tSolte a alça metálica e verifique a esfera fechando-se novamente.\n",
+    "simplified": "solte a alça metálica, verifique se a esfera está fechada"
+},
+{
+    "id": 114,
+    "original": "3.\tPressione o botão para que o ar seja retirado gradualmente do interior da esfera.\n",
+    "simplified": "Pressione o botão para que se retire o ar do interior da esfera de forma gradual."
+},
+{
+    "id": 115,
+    "original": "4.\tObserve a coluna de mercúrio. Quando ela passar pelo ponto laranja, tente separar os hemisférios novamente.\n",
+    "simplified": "O mercado foi fechado por um temporal."
+},
+{
+    "id": 116,
+    "original": "Quando o ar é retirado do interior da esfera, a pressão interna fica quase nula.\n",
+    "simplified": "Quando se remove ar do interoir da esfera a presao interna ficaria nula."
+},
+{
+    "id": 117,
+    "original": "Do lado de fora, a pressão atmosférica é muito maior e acaba “prendendo” os dois hemisférios, exatamente como ocorre com o vidro de conserva.\n",
+    "simplified": "A pressão do ar "
+},
+{
+    "id": 118,
+    "original": "Esse experimento foi originalmente realizado na cidade de Magdeburgo, na Alemanha.\n",
+    "simplified": "Esse experimento foi realizado em Magdeburgo"
+},
+{
+    "id": 119,
+    "original": "Naquela ocasião, cada um dos hemisférios foi preso a uma tropa de cavalos, que foi incapaz de separá-los.\n",
+    "simplified": "Cada um dos hemisférios foi preso a uma tropa de cavalos e não foram capazes de se separar."
+},
+{
+    "id": 120,
+    "original": "- Por que sua orelha parece tampar quando você viaja para locais de maior altitude?\n",
+    "simplified": "Seu ouvido pode fazer barulho de forma diferente devido à pressão alterada, portanto pode parecer como se estivesse 'tampando' o seu ouvido"
+},
+{
+    "id": 121,
+    "original": "São ditas estruturas homólogas, aquelas que compartilham semelhanças anatômicas, porém, apresentam funções distintas como, por exemplo, a nadadeira da baleia e a asa de um morcego.\n",
+    "simplified": "A nadadeira da baleia é como uma asa de um morcego."
+},
+{
+    "id": 122,
+    "original": "As estruturas homólogas originam-se do fenômeno evolutivo denominado radiação adaptativa: espécies com um mesmo ancestral que se diversificam de acordo com a adaptação ao meio.\n",
+    "simplified": "As espécies surgem quando as suas raízes se ramificam para ter diferentes hábitats."
+},
+{
+    "id": 123,
+    "original": "Por outro lado, as asas de uma ave e de um inseto, apesar de apresentarem a mesma função, não são semelhantes anatomicamente, indicando caminhos evolutivos distintos.\n",
+    "simplified": "As asas de uma ave e de um inseto têm a mesma função, mas não são as mesmas."
+},
+{
+    "id": 124,
+    "original": "São ditas estruturas análogas, aquelas que têm a mesma finalidade, porém, não apresentam similaridade anatômica e, portanto, têm ancestralidade diferente.\n",
+    "simplified": "São ditas estruturas análogas que têm a mesma finalidade, mas são diferentes em termos de estrutura. Elas não têm parentesco comigo."
+},
+{
+    "id": 125,
+    "original": "Estruturas análogas originam-se do fenômeno evolutivo denominado convergência adaptativa: espécies que não têm um mesmo ancestral direto, mas apresentam uma característica semelhante devido à adaptação a um mesmo ambiente.\n",
+    "simplified": "espécies que não têm um ancestral em comum, mas parecem adaptadas ao mesmo meio, fazem isso pela adaptação"
+},
+{
+    "id": 126,
+    "original": "Aproxime seus olhos do experimento e aperte o botão maior para ligá-lo.\n",
+    "simplified": "Aproxime seus olhos da tela e pressione o botão grande para ativá-lo."
+},
+{
+    "id": 127,
+    "original": "Observe o que acontece com sua pupila enquanto você altera, girando o botão menor, a intensidade da luz.\n",
+    "simplified": "Girando o botão pequeno de intensidade, observe como muda sua pupila."
+},
+{
+    "id": 128,
+    "original": "A variação do diâmetro da pupila tem a função de manter constante a iluminação sobre a retina.\n",
+    "simplified": "O tamanho do pupilos pode variar, e isso ajuda a controlar a quantidade de luz que entra na retina."
+},
+{
+    "id": 129,
+    "original": "Por isso, ela aumenta de tamanho em ambientes escuros e diminui em ambientes claros.\n",
+    "simplified": "Elle grandit dans l'obscurite et diminue en lumière"
+},
+{
+    "id": 130,
+    "original": "Você já deve ter notado que quando você sai do cinema ou de algum outro lugar mais escuro, a luminosidade nos primeiros instantes parece ser excessiva.\n",
+    "simplified": "Quando você sai de um lugar escuro, a luz é excessiva nos primeiros instantes."
+},
+{
+    "id": 131,
+    "original": "É o tempo que leva para que sua pupila, dilatada devido à escuridão, diminua para ajustar-se ao ambiente mais claro.\n",
+    "simplified": "Quando a luz chega, sua pupila se ajusta, tornando-se menor."
+},
+{
+    "id": 132,
+    "original": "Uma de suas metades é constituída de alumínio e a outra, de ferro.\n",
+    "simplified": "metade do carro é feita de alumínio, a outra, de aço."
+},
+{
+    "id": 133,
+    "original": "A peça pintada de vermelho é um imã permanente enquanto que a pequena lâmina verde suspensa é feita de ferro.\n",
+    "simplified": "A lâmina de ferro do pintor e o imã permanente são feitas de metal."
+},
+{
+    "id": 134,
+    "original": "Posicione uma das metades do disco próxima à lâmina.\n",
+    "simplified": "Coloque metade do disco ao lado da lâmina"
+},
+{
+    "id": 135,
+    "original": "Depois posicione a outra metade.\n",
+    "simplified": "Coloque o resto na outra metade da superfície."
+},
+{
+    "id": 136,
+    "original": "Por que lâmina verde não é atraída pelo imã quando está próxima ao ferro?\n",
+    "simplified": "Lâmina verde não tem átomos ferros."
+},
+{
+    "id": 137,
+    "original": "Porque, diferentemente do alumínio, o ferro é um material capaz de cortar as linhas de indução do campo magnético em que está inserido.\n",
+    "simplified": "O ferro pode cortar linhas de indução"
+},
+{
+    "id": 138,
+    "original": "Esse conhecimento é indispensável para todas as atividades que envolvem a utilização de imãs.\n",
+    "simplified": "É necessário conhecer como lidar com um imã, para trabalhar com eles."
+},
+{
+    "id": 139,
+    "original": "Se você precisar de algo que interaja com o imã, por exemplo, você precisará utilizar um material ferromagnético.\n",
+    "simplified": "Para usar um imã você precisa de um material ferromagnético."
+},
+{
+    "id": 140,
+    "original": "As batatas colocaram-no em funcionamento.\n",
+    "simplified": "As batatas colocaram-no em funcionamento."
+},
+{
+    "id": 141,
+    "original": "Observe que em cada batata foram fixados um terminal de zinco e outro de cobre.\n",
+    "simplified": "Cada batata tem um terminal de zinco e outro de cobre."
+},
+{
+    "id": 142,
+    "original": "Reações químicas que acontecem dentro das batatas provocam uma diferença de potencial entre os terminais, o que produz energia elétrica suficiente para fazer o relógio funcionar.\n",
+    "simplified": "Reações químicas dentro da batata fazem a energia elétrica do relógio"
+},
+{
+    "id": 143,
+    "original": "Se você já utilizou um celular ou qualquer outro aparelho alimentado por pilha ou bateria, já fez uso deste fenômeno.\n",
+    "simplified": "Se você já usou um celular antes, já fez o efeito do pico de tensão."
+},
+{
+    "id": 144,
+    "original": "Da mesma maneira que ocorre nas batatas, uma reação química planejada acontece dentro da pilha, produzindo uma diferença de potencial entre suas extremidades.\n",
+    "simplified": "Uma reação quimica que ocorre em um tubo separa a electricidade dentro dele."
+},
+{
+    "id": 145,
+    "original": "Encoste a palma de uma de suas mãos no painel de cristal líquido e peça a um amigo para fazer o mesmo.\n",
+    "simplified": "Pegue um dos seus amigos e pinte sua face."
+},
+{
+    "id": 146,
+    "original": "Após alguns segundos, afastem as mãos do painel.\n",
+    "simplified": "Após alguns segundos, afastem as mãos do painel."
+},
+{
+    "id": 147,
+    "original": "Observe as cores nas marcas das mãos.\n",
+    "simplified": "Olhe para as cores nas suas mãos."
+},
+{
+    "id": 148,
+    "original": "O cristal líquido reage a cada temperatura com uma determinada cor.\n",
+    "simplified": "O cristal mudava de cor em função da temperatura."
+},
+{
+    "id": 149,
+    "original": "Utilize o espectro de cores à direita e verifique quem tem a mão mais quente.\n",
+    "simplified": "Verifique a mão mais quente, olhando para as mãos que usam os botões mais ao lado da tecla espacial."
+},
+{
+    "id": 150,
+    "original": "Termômetros de cristal líquido são muito utilizados para medir a temperatura de pacientes, por serem mais seguros que termômetros de mercúrio.\n",
+    "simplified": "Temperaturas de cristal líquido são úteis para testar pacientes, porque não contêm mercúrio."
+},
+{
+    "id": 151,
+    "original": "Observe o \"mergulhador”, com um pequeno tubo de ensaio preso as costas, flutuando na água dentro de um cilindro fechado.\n",
+    "simplified": "O mergulhador está em um cilindro, usando um pequeno tubo de ensaio na costas, e flutuando na água."
+},
+{
+    "id": 152,
+    "original": "Pressione o tampão superior do equipamento.\n",
+    "simplified": "Pressione o tampão de cima do equipamento."
+},
+{
+    "id": 153,
+    "original": "Isso modificará a pressão hidrostática dentro do cilindro.\n",
+    "simplified": "Isso vai alterar a pressao hidostatica dentro de um cilindro."
+},
+{
+    "id": 154,
+    "original": "O \"mergulhador” reage a essa modificação, aumentando ou diminuindo sua profundidade até encontrar uma nova posição de equilíbrio.\n",
+    "simplified": "O mergulhador modifica seu movimento, ajustando a profundidade."
+},
+{
+    "id": 155,
+    "original": "Você já deve ter ouvido de falar se submarinos, não?\n",
+    "simplified": "Você já ouviu falar em submarinos?"
+},
+{
+    "id": 156,
+    "original": "Esses veículos subaquáticos também utilizam a variação de pressão para submergir, emergir e controlar a profundidade em que se movimentam na água.\n",
+    "simplified": "Submarinos usam a pressão do mar para mergulhar, emergir, permanecer aqui, acalorados"
+},
+{
+    "id": 157,
+    "original": "Posicione-se em uma das laterais do espelho.\n",
+    "simplified": "Colhe o seu chapéu, coloque-o na parte de trás da sua testa, fa«-a para cima e para baixo umas vezes."
+},
+{
+    "id": 158,
+    "original": "Esconda uma das pernas na parte de trás do espelho e encoste-se bem em sua face lateral.\n",
+    "simplified": "Encolhe o braço com a mão, puxe para baixo. Abra a porta de uma janela quadrada com os joelhos apoiados na calçada. Com um braço estendido, puxa a cortina para cima. Mantenha o pé direito e tente soltar-se sem deixar o braço que tem contra a parede."
+},
+{
+    "id": 159,
+    "original": "Levante a perna que se encontra em frente ao espelho e peça para alguém o observar.\n",
+    "simplified": "Levante a perna que está diante do espelho, olhe o rosto de alguém e pergunte se você está bonito."
+},
+{
+    "id": 160,
+    "original": "Para o observador, a fusão da imagem do espelho com a metade visível do corpo da pessoa produz a ilusão da levitação.\n",
+    "simplified": "A pessoa parece estar voando, porque sua imagem no espelho está sendo misturada com metade real de seu corpo."
+},
+{
+    "id": 161,
+    "original": "Em apresentações de mágicos, muitos truques são baseados em ilusões de óptica criadas pelo uso de espelhos.\n",
+    "simplified": "Os magos usam espelhos para criar ilusões que fazem as coisas aparecerem e desaparecer."
+},
+{
+    "id": 162,
+    "original": "Impulsione moderadamente o disco e olhe-o atentamente por cerca de 30 segundos.\n",
+    "simplified": "Gire o disco suavemente e veja-o por cerca de 30 segundos."
+},
+{
+    "id": 163,
+    "original": "A seguir, olhe para o painel ao lado.\n",
+    "simplified": "Aqui está uma frase simples"
+},
+{
+    "id": 164,
+    "original": "Com o disco em movimento, observamos que, simultaneamente, um conjunto de espiras se expande, enquanto o outro se contrai.\n",
+    "simplified": "Um conjunto de espiras se expande enquanto outra se contrai."
+},
+{
+    "id": 165,
+    "original": "Fixando por algum tempo o olhar no disco, ocorre a persistência visual desses movimentos. Isso cria a ilusão de que a figura estática no painel está se movendo.\n",
+    "simplified": "Ao fixar o olhar num disco, as pessoas sentem que estão sendo enganadas. Apesar disso, elas continuam assistindo."
+},
+{
+    "id": 166,
+    "original": "Ilusões de ótica estão por toda a parte e muitos se beneficiam delas, como é o caso dos mágicos.\n",
+    "simplified": "Os mágicos usam ilusões Ópticas para enganar seu público."
+},
+{
+    "id": 167,
+    "original": "Posicione-se deste lado da lâmina de vidro e peça para um amigo posicionar-se no lado oposto.\n",
+    "simplified": "Posicione-se do lado da lçima, com o amigo pondo-se de lado oposto."
+},
+{
+    "id": 168,
+    "original": "Toque o botão (+) para aumentar, gradativamente, a luz sobre seu colega e diminuir a que incide sobre você.\n",
+    "simplified": "Toque o botão (+) para aumentar a luz em sua direcção e reduzir a que est«vel em sua direcçåo."
+},
+{
+    "id": 169,
+    "original": "Toque o botão (-) para fazer o contrário.\n",
+    "simplified": "Pressione o botão (-) para fazer o contrarió."
+},
+{
+    "id": 170,
+    "original": "Percebeu alguma diferença?\n",
+    "simplified": "Ele percebeu alguma diferença?"
+},
+{
+    "id": 171,
+    "original": "Você sempre enxerga o que está mais iluminado.\n",
+    "simplified": "Você sempre enxerga o mais brilhante."
+},
+{
+    "id": 172,
+    "original": "Logo, com mais luminosidade do seu lado, o vidro se comporta como um espelho.\n",
+    "simplified": "O vidro brilha como um espelho quando recebe mais luz do lado de dentro."
+},
+{
+    "id": 173,
+    "original": "Você já deve ter assistido a um filme policial em que o suspeito é interrogado em uma sala com um espelho semitransparente.\n",
+    "simplified": "Você já viu algum filme policial onde a pessoa investigada é questionada em uma sala com espelhos translúcidos?"
+},
+{
+    "id": 174,
+    "original": "Nestes casos, o espelho semitransparente divide duas salas.\n",
+    "simplified": "Nestas situações, um espelho translúcido divide duas salas."
+},
+{
+    "id": 175,
+    "original": "Na primeira sala, onde o suspeito é interrogado, a iluminação deve ser intensa, para que o suspeito veja apenas imagens refletidas.\n",
+    "simplified": "A luz deve estar forte em uma sala onde o suspeito será interrogado."
+},
+{
+    "id": 176,
+    "original": "A outra sala deve ser bem mais escura, para que policiais e testemunhas possam ver o suspeito, mas não sejam vistos por ele.\n",
+    "simplified": "A sala mais escura vai ajudar os policiais a ver o suspeito, mas as testemunhas não podem ser vistos pelo suspeito."
+},
+{
+    "id": 177,
+    "original": "Segure o cabo preto e tente deslocar o anel de uma extremidade a outra, evitando encostá-lo barra de aço.\n",
+    "simplified": "segura o cabo preto e tente deslocar o anel na uma direção, mas não coloque no anel na barra de aço"
+},
+{
+    "id": 178,
+    "original": "Desafie seus amigos para fazerem o mesmo.\n",
+    "simplified": "Desafie seus amigos para fazerem o mesmo."
+},
+{
+    "id": 179,
+    "original": "Quanto mais baixa a pontuação, melhor a coordenação motora.\n",
+    "simplified": "Quanto menor a pontuação na avaliação da coordenação motora, mais boa é."
+},
+{
+    "id": 180,
+    "original": "Ao realizar um movimento como esse, você coloca em interação seus receptores sensoriais e seu córtex cerebral.\n",
+    "simplified": "Ao realizar um movimento como esse, você coloca em interação seus receptores sensoriais e seu córtex cerebral."
+},
+{
+    "id": 181,
+    "original": "Este último possui regiões específicas que recebem determinados sinais, processam as informações e transmitem as instruções para as outras partes do corpo se movimentarem.\n",
+    "simplified": "Este último recebe os sinais na área específica, processa as informações e transmite as ordens para que o corpo se movimento."
+},
+{
+    "id": 182,
+    "original": "Quanto mais aperfeiçoarmos nossa coordenação motora, mais habilidades motoras teremos para desenvolver ações simples do nosso dia a dia, como por exemplo, dirigir, movimentar objetos, manusear a chave de casa, costurar etc.\n",
+    "simplified": "Quanto mais praticarmos nossas habilidades motoras, mais nos tornaremos independentes em todas as tarefas simples do dia a dia."
+},
+{
+    "id": 183,
+    "original": "Quanto mais conexões forem estabelecidas entre nossos neurônios maior será a capacidade do nosso sistema nervoso central.\n",
+    "simplified": "Quanto mais conexões forem, maior será o sistema nervoso."
+},
+{
+    "id": 184,
+    "original": "A escavação arqueológica é a forma usada pelos arqueólogos para encontrar as coisas do passado e, a partir delas, contar histórias sobre quem as fabricou, usou e descartou.\n",
+    "simplified": "Arqueólogos estudam as coisas do passado para contar como elas foram feitas e usadas."
+},
+{
+    "id": 185,
+    "original": "O local onde essas coisas são encontradas – chamado de sítio arqueológico, é dividido em quadrados (“quadrículas”) de tamanho variável, geralmente de um metro quadrado.\n",
+    "simplified": "O local onde esses coisas são encontradas é chamado de sítio arqueológico e está dividido em quadrados com medidas variáveis."
+},
+{
+    "id": 186,
+    "original": "Esse processo é realizado por níveis (quando a escavação é organizada em centímetros) ou por camadas (quando a escavação é organizada por tipos diferentes de solos).\n",
+    "simplified": "O processo é feito em camadas"
+},
+{
+    "id": 187,
+    "original": "Quando um objeto é encontrado, escava-se cuidadosamente a área ao seu redor, fotografando-o, descrevendo-o e coletando-o, preservando as informações de sua exata localização.\n",
+    "simplified": "Quando um objeto é encontrado, se faz uma busca cuidadosa ao seu redor com foto e descrição. Após isso, o objeto deve ser coletado preservando todas as informações que tem."
+},
+{
+    "id": 188,
+    "original": "Este espaço é uma representação de escavação arqueológica no Abrigo de Canhemborá, situado no município de Nova Palma (RS).\n",
+    "simplified": "É um sítio onde estão fazendo escavações arqueológicas. Isso acontece na cidade de Nova Palma."
+},
+{
+    "id": 189,
+    "original": "Em 12 de abril de 1961, a espaçonave do programa espacial soviético Vostok 1 completou, em pouco menos de duas horas, um voo completo ao redor da Terra e fez do cosmonauta Yuri Alekseievitch Gagarin, então com 27 anos, a primeira pessoa a viajar pelo espaço.\n",
+    "simplified": "O cosmonauta Yuri Alekseievitch Gagarin foi o primeiro homem a ir ao espaço em 12 de abril de 1961."
+},
+{
+    "id": 190,
+    "original": "A Vostok 1 era uma cápsula esférica, construída de forma a eliminar mudanças no centro de gravidade e assim garantir maior conforto ao tripulante qualquer que fosse sua orientação.\n",
+    "simplified": "A cápsula era esférica, projetada para que o piloto se sentisse bem em qualquer posição."
+},
+{
+    "id": 191,
+    "original": "Contudo, não foi projetada para aterrissar em segurança com um ser humano a bordo.\n",
+    "simplified": "Não foi projetada para aterrissar em segurança com um ser humano a bordo."
+},
+{
+    "id": 192,
+    "original": "Por isso, a 7 km de altitude, Gagarin ejetou-se da espaçonave e pousou separadamente, com o auxílio de um paraquedas.\n",
+    "simplified": "Gagarin saltou da espaçonave aos 240 km/h. Em seguida, foi levado pelo paraquedas até se estabilizar."
+},
+{
+    "id": 193,
+    "original": "Aperte o botão sobre o balcão para fazer gerar vento suficiente para movimentar o anemômetro.\n",
+    "simplified": "Aperte o botão para acionar a máquina de gerar vento."
+},
+{
+    "id": 194,
+    "original": "Os anemômetros são usados para medir a velocidade dos ventos, que pode ser expressa na escala de milhas por hora (mph) ou na escala de quilômetros por hora (km/h), sendo que 1 mph corresponde a 1,6 km/h.\n",
+    "simplified": "Os anemômetros são usados para medir a velocidade dos ventos."
+},
+{
+    "id": 195,
+    "original": "Anemômetros são muito importantes no campo da meteorologia.\n",
+    "simplified": "Anemômetros são importantes para o meteorologia."
+},
+{
+    "id": 196,
+    "original": "São eles que detectam as alterações nas velocidades e na movimentação das massas de ar que existem em nossa atmosfera e que, por consequência, determinam as variações de temperatura que observamos.\n",
+    "simplified": "Ouvimos os ventos com suas mudanças de velocidade e movimento que afetam a temperatura do nosso planeta."
+},
+{
+    "id": 197,
+    "original": "Onde pode ser visto?\n",
+    "simplified": "Onde pode-se ver o monólito?"
+},
+{
+    "id": 198,
+    "original": "Mamífero bastante comum, o tatu-galinha é adaptado à vida no solo de ambientes florestados\n",
+    "simplified": "O tatu galinha é um animal que vive na terra e é comum em florestas"
+},
+{
+    "id": 199,
+    "original": "Como pode ser reconhecido?\n",
+    "simplified": "O homem foi condenado por homicídio e recebeu 10 anos de prisão."
+},
+{
+    "id": 200,
+    "original": "A carapaça é quase totalmente pelada e apresenta placas geralmente com nove cintas móveis.\n",
+    "simplified": "A carapaça tem nove bandas"
+},
+{
+    "id": 201,
+    "original": "As placas da região pélvica e torácicas são mais ou menos ovaladas, diferenciando-o dos outros gêneros de tatus.\n",
+    "simplified": "As placas do tatus têm forma ovalada na região pélvica e no peito."
+},
+{
+    "id": 202,
+    "original": "Os dedos – quatro nas patas dianteiras e cinco nas patas traseiras – apresentam garras.\n",
+    "simplified": "Os dedos da sua patagia têm garras, com 4 na frente e 5 natras"
+},
+{
+    "id": 203,
+    "original": "As garras dos dedos centrais se diferenciam pelo maior tamanho e possuem unhas curvas e fortes.\n",
+    "simplified": "As garras das suas duas primeiras pontas são menores e têm unhas mais finas."
+},
+{
+    "id": 204,
+    "original": "Suas atividades começam ao entardecer e continuam à noite.\n",
+    "simplified": "Começa às 19h e continua até a madrugada."
+},
+{
+    "id": 205,
+    "original": "Ouve e enxerga pouco, mas em compensação tem ótimo olfato.\n",
+    "simplified": "Ouvir e ver muito pouco, mas ter um bom cheiro"
+},
+{
+    "id": 206,
+    "original": "Pode fugir quando se sentir perseguido, correndo em direção à toca de moradia ou mesmo escavando uma nova rapidamente.\n",
+    "simplified": "Pode sair daqui e fugir quando se sentir perigoso. Corre para a sua casa ou enterrada um buraco novo rapidamente."
+},
+{
+    "id": 207,
+    "original": "Pode ser facilmente apreendido. Tem uma espécie muito caçada, por ser muito apreciada para alimentação - dizem que sua carne tem gosto de galinha, por isso seu nome popular.\n",
+    "simplified": "É fácil prender pessoas, é comum e os gosta. Sua carne é boa para comer."
+},
+{
+    "id": 208,
+    "original": "A caça a esses animais é proibida.\n",
+    "simplified": "A caça a eles é ilegal."
+},
+{
+    "id": 209,
+    "original": "Onde pode ser visto?\n",
+    "simplified": "Pandolfo tomava chimarrão às 19h de ontem, no alto de um monte de areia, com os poodles amarrados a coleiras."
+},
+{
+    "id": 210,
+    "original": "Ocorre no sudeste e sul do Brasil, no nordeste da Argentina e no leste do Paraguai.\n",
+    "simplified": "ocorre nas regiões de Sudeste, Sul e Nordeste do Brasil, Nordeste da Argentina e Leste do Paraguay"
+},
+{
+    "id": 211,
+    "original": "Habita áreas florestadas, em especial ambientes remanescentes de Mata Atlântica, no Brasil.\n",
+    "simplified": "Habita florestas e ambientes de Mata Atlântica."
+},
+{
+    "id": 212,
+    "original": "Como pode ser reconhecido?\n",
+    "simplified": "Como é uma coisa?"
+},
+{
+    "id": 213,
+    "original": "A despeito de ser sempre chamado de sapo, esse anfíbio é na verdade uma das maiores pererecas do Brasil, com visíveis discos adesivos (ou ventosas) nas extremidades dos dedos.\n",
+    "simplified": "Esse anfíbio tem discos nas extremidades dos dedos."
+},
+{
+    "id": 214,
+    "original": "Tem grandes olhos, voltados para frente.\n",
+    "simplified": "Olhe grande e voltado para frente."
+},
+{
+    "id": 215,
+    "original": "Apresenta coloração que varia de creme a marrom com listrar escuras.\n",
+    "simplified": "Tem um tom de marrom com bordas negras"
+},
+{
+    "id": 216,
+    "original": "Pouco se sabe a respeito da alimentação dessa espécie em condições naturais.\n",
+    "simplified": "Nada se sabe sobre sua alimentação natural."
+},
+{
+    "id": 217,
+    "original": "Alguns pesquisadores já observaram exemplares adultos comendo filhotes de outros anfíbios, logo após estes deixarem os locais de criação.\n",
+    "simplified": "alguns cientistas já vêem os adultos comendo filhotes de outros anfíbios, logo após eles sair do seu lar"
+},
+{
+    "id": 218,
+    "original": "Como é seu comportamento?\n",
+    "simplified": "Como vocês se comportam?"
+},
+{
+    "id": 219,
+    "original": "Animal de hábito noturno, pode ser encontrado vocalizando sobre a vegetação ou dentro da água, em partes rasas.\n",
+    "simplified": "Gato, é um animal noturno que vence só no dia e gosta de chamar atenção. Ele é um bom amigo mas pode ser agressivo com outros animais se estiver muito assustado"
+},
+{
+    "id": 220,
+    "original": "Procura concentrações de água (pequenos lagos, poças temporárias, açudes) para a reprodução.\n",
+    "simplified": "Para ajudar os peixes a se reproduzir, precisamos de pequenas águas como lagoas e poças."
+},
+{
+    "id": 221,
+    "original": "Os machos são territoriais e podem lutar pela posse de um determinado sítio.\n",
+    "simplified": "Os machos são possionais de um determinato sitio!"
+},
+{
+    "id": 222,
+    "original": "O ninho é construído pelo macho e inspecionado pela fêmea antes do acasalamento. A desova é flutuante, feita dentro do ninho que se assemelha a uma piscina.\n",
+    "simplified": "O macho constrói o ninho e a fêmea o inspeciona antes de casar."
+},
+{
+    "id": 223,
+    "original": "Os girinos passam os primeiros estágios de desenvolvimento dentro do ninho.\n",
+    "simplified": "Girinos nascem no ninho."
+},
+{
+    "id": 224,
+    "original": "O sapo-ferreiro ou sapo-martelo recebe esse nome devido à semelhança de sua vocalização nupcial com o som produzido por marteladas.\n",
+    "simplified": "O sapo-redeiro é chamado assim devido a uma semelhança em suas vozes quando fazem barulho, durante a estação seca, com o som de martelar."
+},
+{
+    "id": 225,
+    "original": "Onde pode ser vista?\n",
+    "simplified": "Onde pode ser vista?"
+},
+{
+    "id": 226,
+    "original": "Pode ser facilmente observada nos ramos de árvores em matas, capoeiras, parques e, inclusive, nas cidades.\n",
+    "simplified": "É fácil ver em galhos de árvore, em florestas e parques e até nas cidades."
+},
+{
+    "id": 227,
+    "original": "Como pode ser reconhecida?\n",
+    "simplified": "Como é reconhecível?"
+},
+{
+    "id": 228,
+    "original": "Essa ave, de coloração castanha e olhos vermelhos, muitas vezes é observada pulando entre os galhos das árvores atrás de alimento.\n",
+    "simplified": "Pulsa em qualquer onde quiser ir."
+},
+{
+    "id": 229,
+    "original": "Esse comportamento, somado à longa cauda escalonada que possui, assemelha a espécie a um esquilo, razão de seu nome em inglês.\n",
+    "simplified": "Assim o gato-piranha parece uma espécie de esquilo"
+},
+{
+    "id": 230,
+    "original": "Os machos e as fêmeas dessa espécie da família dos cuculídeos são semelhantes fisicamente.\n",
+    "simplified": "Os machos e as fêmeas dessa espécie da família dos cuculídeos são parecidos no aspecto físico."
+},
+{
+    "id": 231,
+    "original": "É uma estrutura de galhos frouxa, que pode conter até seis ovos.\n",
+    "simplified": "É uma estrutura de galhos frágeis, com até 6 ovos."
+},
+{
+    "id": 232,
+    "original": "É ouvido principalmente no início do período reprodutivo – a primavera – e assemelha-se ao gemido de um gato, por isso recebeu o nome popular de alma-de-gato.\n",
+    "simplified": "É ouvido principalmente no início do período reprodutivo e assemelha-se ao gemido de um gato."
+},
+{
+    "id": 233,
+    "original": "Onde pode ser visto?\n",
+    "simplified": "No Museu do Índio, no Rio Grande do Sul."
+},
+{
+    "id": 234,
+    "original": "Como pode ser reconhecido?\n",
+    "simplified": "Como é evidente?"
+},
+{
+    "id": 235,
+    "original": "É um dos maiores lagartos da família dos teídeos, podendo atingir cerca de dois metros de comprimento, se incluída a cauda.\n",
+    "simplified": "É um dos maiores lagartos da família dos teídeos e pode chegar a 2m de comprimento"
+},
+{
+    "id": 236,
+    "original": "A coloração dos adultos é composta por uma combinação de cinza, preto e branco, enquanto alguns jovens apresentam-se bem esverdeados.\n",
+    "simplified": "Os adultos são cinza e preto com um pouco de branco. Alguns adolescentes têm um tom vermelho"
+},
+{
+    "id": 237,
+    "original": "A cauda possui anéis claros e escuros alternados.\n",
+    "simplified": "A cauda tem bandas claras e escuras"
+},
+{
+    "id": 238,
+    "original": "Alimenta-se de insetos e suas larvas, pequenos mamíferos (sobretudo roedores), rãs e frutas em geral.\n",
+    "simplified": "Alimenta-se de insetos e suas larvas, pequenos mamíferos, como ratos, rãs e frutas."
+},
+{
+    "id": 239,
+    "original": "Por também alimentar-se de serpentes esse lagarto pode ser considerado útil às populações rurais, já que dessa maneira ajuda a controlar a proliferação de espécies peçonhentas.\n",
+    "simplified": "Algumas espécies podem se alimentar de serpentes. Isso é útil às pessoas que vivem em áreas rurais, porque ajuda a controlar as espécies peçonhentas."
+},
+{
+    "id": 240,
+    "original": "Por outro lado, apresenta um problema para os granjeiros: também se alimenta de ovos e, ocasionalmente, de pintos.\n",
+    "simplified": "Os granjeiros precisam comprar mais alimentos"
+},
+{
+    "id": 241,
+    "original": "Como é seu comportamento?\n",
+    "simplified": "Como você se comporta?"
+},
+{
+    "id": 242,
+    "original": "É terrícola.\n",
+    "simplified": "É do planeta Terra."
+},
+{
+    "id": 243,
+    "original": "Normalmente esconde-se sob troncos, pedras ou dentro de tocas, tanto em ambientes de campo quanto na mata.\n",
+    "simplified": "Normalmente esconde-se debaixo de tocas, pedras, etc. No meio do campo e da selva."
+},
+{
+    "id": 244,
+    "original": "Não permite a aproximação humana, exceto quando habituado à sua presença.\n",
+    "simplified": "não se aproxima deles, senão está acostumado com eles"
+},
+{
+    "id": 245,
+    "original": "De modo geral não é agressivo, mas quando se sente encurralado enfrenta sem medo a ameaça, abrindo a boca e dando chicotadas com a cauda.\n",
+    "simplified": "De uma forma geral, não é agressivo, mas quando se sente encurralado, enfrenta sem medo a ameaça, abrindo a boca e dando chicotadas com a cauda."
+},
+{
+    "id": 246,
+    "original": "Sua mordida é bastante dolorosa, pois possui dentes fortes e pontiagudos e muita força na mandíbula.\n",
+    "simplified": "Sua mordida é muito dolorosa porque tem dentes fortes e pontiagudos que a tornam capaz de causar muito dano."
+},
+{
+    "id": 247,
+    "original": "Órgãos Vestigiais\n",
+    "simplified": "O corpo humano ainda tem órgãos que não são usados para o seu propósito evolutivo."
+},
+{
+    "id": 248,
+    "original": "Órgãos vestigiais são vestígios de estruturas presentes em um ancestral e que deixam de existir ou tornam-se atrofiadas em uma determinada linhagem de descendentes, devido à adaptação destes últimos a uma função diferente.\n",
+    "simplified": "Órgãos vestigiais são partes do corpo que não são mais necessárias porque os ancestrais deixaram de precisar delas para sobreviver em suas novas formas de vida."
+},
+{
+    "id": 249,
+    "original": "As baleias modernas são um exemplo disso.\n",
+    "simplified": "As baleias atuais são um exemplo disso."
+},
+{
+    "id": 250,
+    "original": "Nelas é possível observar vestígios da pelve e do fêmur, ossos que aparentemente não desempenham nenhuma função vital conhecida.\n",
+    "simplified": "Nelas é possível observar vestígios de ossos que aparentemente não têm nenhum papel importante."
+},
+{
+    "id": 251,
+    "original": "Entretanto, o fêmur e a pelve permanecem nos tetrápodes terrestres, com as funções de auxiliar no suporte da coluna vertebral e na união dos membros inferiores ao restante do esqueleto.\n",
+    "simplified": "Em todos os animais tetrápodes terrestres, o fêmur e a pelve estão presentes. Eles ajudam no suporte da coluna vertebral e na união dos membros inferiores."
+},
+{
+    "id": 252,
+    "original": "Por comprovar a ancestralidade comum entre as baleias e os tetrápodes terrestres, seus órgãos vestigiais são também evidências da evolução.\n",
+    "simplified": "Seu corpo de mar mostrou evidências do que sua ancestralidade tinha comum, o que teve um efeito na sua forma."
+},
+{
+    "id": 253,
+    "original": "As serpentes da família Boidae (jiboias) também possuem vestígios da pelve e fêmur apresentando-se, atualmente, na forma de espinhos abdominais e não sendo utilizados para locomoção.\n",
+    "simplified": "As serpentes têm alguns ossos que mais parecem espinhos agora e não usam eles para se mover."
+},
+{
+    "id": 254,
+    "original": "Observe nas imagens a seguir os ossos da pelve e fêmur humanos e os vestígios destes em baleias e serpentes atuais.\n",
+    "simplified": "Aqui está uma foto da pelve humana com alguns vestigios de ossos parecidos com baleias ou serpentes."
+},
+{
+    "id": 255,
+    "original": "Outra evidência da evolução das espécies é dada pela Paleontologia, ciência que estuda os registros fósseis.\n",
+    "simplified": "A paleontologia estudia os fóssis."
+},
+{
+    "id": 256,
+    "original": "São considerados fósseis, restos ou traços de organismos como ossos e pegadas que ficaram preservados em rochas sedimentares ou no solo, e mostram que, durante eras passadas, a Terra havia sido habitada por espécies diferentes das que existem hoje.\n",
+    "simplified": "São fósseis, restos de animais do passado. Eles são encontrados em rochas e mostram que a Terra foi habitada antes."
+},
+{
+    "id": 257,
+    "original": "A ordem na qual grupos de animais aparecem nas diferentes camadas de sedimentos permite traçar a história evolutiva desses organismos.\n",
+    "simplified": "Os animais do fundo da água, depois os mariscos e os peixes que nadam perto, aparecem nas camadas de sedimento."
+},
+{
+    "id": 258,
+    "original": "Observe na imagem que os fósseis mais antigos são encontrados em camadas mais profundas do solo, enquanto os fósseis de organismos mais recentes são encontrados em camadas mais superficiais.\n",
+    "simplified": "Observa que os fósseis mais antigos estão mais fundo e os mais recentes estão mais na superfície."
+},
+{
+    "id": 259,
+    "original": "Manipulando Circuitos Elétricos\n",
+    "simplified": "Trabalha com circuitos elétricos"
+},
+{
+    "id": 260,
+    "original": "Observe o circuito elétrico à sua frente e feche todas as chaves.\n",
+    "simplified": "Feche todas as liguas que você encontrar em seu circuito."
+},
+{
+    "id": 261,
+    "original": "Aperte o botão para ligar o experimento e verifique quantas lâmpadas se acenderam.\n",
+    "simplified": "Pressione o botão para ligar o experimento"
+},
+{
+    "id": 262,
+    "original": "Em seguida, abra uma chave de cada vez e verifique o comportamento das lâmpadas.\n",
+    "simplified": "Abre uma chave por vez e veja se as lâmpadas estão funcionando."
+},
+{
+    "id": 263,
+    "original": "Ao modificar a configuração do circuito – abrindo ou fechando diferentes chaves –, você altera o caminho por onde passa a corrente elétrica.\n",
+    "simplified": "Você pode mudar o fluxo da corrente trocando chaves"
+},
+{
+    "id": 264,
+    "original": "Lembre-se: a intensidade da corrente elétrica em um circuito fechado depende do número de lâmpadas (pontos de resistência) a ele conectadas.\n",
+    "simplified": "A quantidade de lámpadas no circuito afeta a intensidade da corrente elétrica."
+},
+{
+    "id": 265,
+    "original": "Por isso o brilho das lâmpadas pode variar.\n",
+    "simplified": "O brilho das lâmpadas pode mudar."
+},
+{
+    "id": 266,
+    "original": "Você já percebeu o brilho de uma lâmpada diminuir no momento quando você liga algum outro equipamento elétrico?\n",
+    "simplified": "O brilho da lâmpada diminui quando você liga outro equipamento elétrico."
+},
+{
+    "id": 267,
+    "original": "Se esse equipamento estiver ligado ao mesmo circuito elétrico da lâmpada, ele aumentará a resistência no circuito, dificultando a passagem da corrente elétrica e, por consequência, diminuindo o brilho da lâmpada.\n",
+    "simplified": "Aumentar a resistência no circuito dificulta que a luz brille."
+},
+{
+    "id": 268,
+    "original": "Nossa Água Nossa Vida\n",
+    "simplified": "Nossa vida é água e água é vida."
+},
+{
+    "id": 269,
+    "original": "Você já se perguntou de onde vem a água que abastece a sua casa cada vez que uma torneira é aberta?\n",
+    "simplified": "A água do seu racho vem da represa ou lago próximo, e passa pela bomba de água até chegar à sua casa."
+},
+{
+    "id": 270,
+    "original": "Já imaginou como é feito o processo de tratamento dessa água para que você a receba a pontinha para ser consumida?\n",
+    "simplified": "Você imagina como aquela água da torneira está sendo tratada para que ela seja boa para bebida?"
+},
+{
+    "id": 271,
+    "original": "Este experimento busca responder tais questões, apresentando os recursos hídricos de Porto Alegre por meio de uma reprodução em escala do Lago Guaíba das ilhas, arroios e estações de tratamento de água e esgoto localizadas no município.\n",
+    "simplified": "Aprenda sobre os recursos hídricos de Porto Alegre com uma réplica do lago Guaíba nas ilhas."
+},
+{
+    "id": 272,
+    "original": "Contudo, muito mais do que isso, pretende chamar a sua atenção para a importância de preservar tais recursos e garantir que eles também estejam à disposição das próximas gerações.\n",
+    "simplified": "O autor quer alertar que os recursos naturais são importantes e devem ser preservados para as próximas gerações."
+},
+{
+    "id": 273,
+    "original": "Aperte um botão de cada vez, conforme o seu interesse, e identifique na maquete e os tópicos escolhidos.\n",
+    "simplified": "Pressione o botão de cada vez, seguindo o seu interesse, para encontrar a informação desejada."
+},
+{
+    "id": 274,
+    "original": "E a responsabilidade de preservá-la é de cada um de nós!\n",
+    "simplified": "Cada um de nós tem a responsabilidade de preservar o meio ambiente."
+},
+{
+    "id": 275,
+    "original": "Pitágoras é geralmente descrito como o primeiro matemático puro.\n",
+    "simplified": "Pitágoras é um dos primeiros matemáticos."
+},
+{
+    "id": 276,
+    "original": "É uma figura extremamente importante no desenvolvimento da Matemática, embora muito do registro do seu trabalho tenha se perdido através do tempo.\n",
+    "simplified": "Mathématiques são fundamental para o desenvolvimento e muita coisa que foi escrita sobre esses matemáticos é perdida ao longo do tempo."
+},
+{
+    "id": 277,
+    "original": "O mistério que envolve os feitos de Pitágoras deve-se, em grande parte, à sociedade secreta que ele liderou, na qual seus seguidores, seguindo regras estritas, realizavam atividades de cunho cientifico e religioso, sob a crença de que a realidade era a representação da Matemática na natureza.\n",
+    "simplified": "Pitágoras liderou uma sociedade secreta que realizava atividades cientificas e religiosas, seguindo regras estritas. Eles acreditavam que a realidade era a representação da Matemática na natureza."
+},
+{
+    "id": 278,
+    "original": "Muitos teoremas que conhecemos são atribuídos a Pitágoras e aos pitagóricos (designação de seus seguidores), sendo o mais famoso o Teorema de Pitágoras, proposição matemática que relaciona os lados de um triangulo retângulo.\n",
+    "simplified": "O teorema de pitagoras relaciona os lados de um triángulo retângulo."
+},
+{
+    "id": 279,
+    "original": "O Beagle partiu de Plymouth, Inglaterra, no dia 27 de dezembro de 1931.\n",
+    "simplified": "O Beagle partiu de Plymouth, em dezembro de 1931."
+},
+{
+    "id": 280,
+    "original": "A tripulação de 74 homens tinha como objetivo melhorar os mapas e proteger os interesses britânicos.\n",
+    "simplified": "A missão era melhorar os mapas e proteger os interesses britânicos com um grupo de 74 homens."
+},
+{
+    "id": 281,
+    "original": "O plano era realizar uma viagem de dois anos pela costa da América do Sul, mas acabou tornando-se uma jornada de circum-navegação que durou cinco anos: de 1831 a 1836.\n",
+    "simplified": "A viagem foi de um ano e meio, mas ficou por mais cinco anos. Ela começou em 1831."
+},
+{
+    "id": 282,
+    "original": "Darwin viajou como naturalista de bordo, para explorar e coletar espécimes.\n",
+    "simplified": "In 1831, a bordo do 'Beagle' , Darwin foi um naturalista."
+},
+{
+    "id": 283,
+    "original": "Darwin cavalgou até a vila de Ribeira Grande.\n",
+    "simplified": "Darwin cavalgou até a vila de Ribeira Grande."
+},
+{
+    "id": 284,
+    "original": "Observou polvos e lulas nas piscinas de marés ficou fascinado com a habilidade de mudança de cor desses animais.\n",
+    "simplified": "Ele viu polos, lulas e ficou fascinado com as habilidades dessas criaturas para se mudar de cor."
+},
+{
+    "id": 285,
+    "original": "Desgostou-se com o tratamento dado aos escravos, motivo da primeira e única discussão com o Capitão FitzRoy.\n",
+    "simplified": "Desapontou-se com a forma como os escravos eram tratados. Isso levou à sua única discussão com o capitão."
+},
+{
+    "id": 286,
+    "original": "Passado algum tempo sem compartilhar a mesa do jantar, o Capitão pediu desculpas.\n",
+    "simplified": "Agora ele compartilha de novo. O Capitao pediu desculpas na hora do jantar. No entanto, passado um tempo sem compartilhar a mesa do jantar."
+},
+{
+    "id": 287,
+    "original": "Coletou muitos espécimes de plantas, insetos e outros animais.\n",
+    "simplified": "Coleta vários espécies de plantas e animais."
+},
+{
+    "id": 288,
+    "original": "Retornou no dia 23 de abril, instalou-se próximo ao Corcovado e ocupou-se de escrever cartas, tomar notas, coletar mais espécimes e ouvir o canto dos grilos, cigarras e rãs.\n",
+    "simplified": "Retornou em 23 de abril. Instalou-se próximo ao Corcovado. Foi escrever cartas, coletar espécimes e ouvir o canto dos animais."
+},
+{
+    "id": 289,
+    "original": "Na cidade de San Fernando de Maldonado, no Uruguai, Darwin permaneceu por cerca de dez semanas, onde teve seu primeiro contato com o típico gaúcho uruguaio.\n",
+    "simplified": "Na cidade do Rio Grande do Sul, conheceu um gaúcho uruguaio."
+},
+{
+    "id": 290,
+    "original": "Mais adiante, Darwin enviou seu primeiro carregamento para a Inglaterra.\n",
+    "simplified": "Darwin enviou o seu primeiro barco para a Inglaterra."
+},
+{
+    "id": 291,
+    "original": "Junto com suas anotações foram enviadas rochas, plantas, frascos de animais em álcool, muitos besouros, animais marinhos e fósseis.\n",
+    "simplified": "Junto às anotações foram enviados alguns objetos para estudar insetos."
+},
+{
+    "id": 292,
+    "original": "O Capitão FitzRoy entendeu que, com tanto material coletado, havia a necessidade de aquisição de mais um navio.\n",
+    "simplified": "O capitão precisou comprar outro navio devido ao material coletado. "
+},
+{
+    "id": 293,
+    "original": "Adquiriram, então, duas escunas: Paz e Liebre.\n",
+    "simplified": "Adquiriram dois barcos chamados Paz e Liebre."
+},
+{
+    "id": 294,
+    "original": "Darwin enviou seu segundo carregamento de espécimes e notas.\n",
+    "simplified": "Darwin enviou seu segundo carregamento de espécimes e notas"
+},
+{
+    "id": 295,
+    "original": "A coleção consistia em fósseis de roedores gigantes, muitas conchas marinhas, aves, serpentes, lagartos, rãs, crustáceos, peixes, plantas, sementes e, naturalmente, besouros, que eram sua paixão naquele momento.\n",
+    "simplified": "A coleção tinha fósseis de roedores, conchas, aves, serpentes, lagartos, rãs, crustáceos, peixes, plantas, sementes e besouros. E era sua paixão!"
+},
+{
+    "id": 296,
+    "original": "O Capitão FitzRoy repatriou três nativos que havia levado consigo à Inglaterra em sua viagem anterior.\n",
+    "simplified": "O Capitao Fitzroy levou 3 nativos da inglaterra, em uma viagem anteceder"
+},
+{
+    "id": 297,
+    "original": "Nas Ilhas Malvinas (Falklands), Darwin coletou aves e fósseis que contrastavam com as espécies do continente.\n",
+    "simplified": "Darwin coletou aves e fósseis nas Ilhas Malvinas, diferentes dos que se encontrava no continente."
+},
+{
+    "id": 298,
+    "original": "Explorou os Pampas em companhia dos gaúchos locais em várias incursões.\n",
+    "simplified": "Explorou as planícies com os gaúchos."
+},
+{
+    "id": 299,
+    "original": "Darwin fez três longas expedições terrestres.\n",
+    "simplified": "Darwin fez três longas expedições terrestres. Ele foi um dos primeiros cientistas a estudar as espécies do planeta."
+},
+{
+    "id": 300,
+    "original": "Subiu os Andes e encontrou árvores fósseis similares àquelas vistas no nível do mar.\n",
+    "simplified": "Subiu as montanhas e encontrou árvores com aspecto de árvores aquáticas."
+},
+{
+    "id": 301,
+    "original": "Teve certeza de que as montanhas surgiram lentamente em uma longa série de terremotos, um dos quais presenciou na cidade de Valdívia.\n",
+    "simplified": "Ele acreditava que as montanhas surgiram lentamente de um longo período de terremotos. Ele testemunhou um terremoto na pequena cidade de Valdívia."
+},
+{
+    "id": 302,
+    "original": "Darwin encontrou plantas, aves, iguanas marinhas e tartarugas com variações únicas nas ilhas, mas misteriosamente relacionadas com as espécies do continente.\n",
+    "simplified": "Darwin encontrou plantas, aves, iguanas marinhas e tartarugas relacionadas às espécies do continente."
+},
+{
+    "id": 303,
+    "original": "Ao conhecer os marsupiais, Darwin admirou-se com a existência de um conjunto diferente de mamíferos na Austrália.\n",
+    "simplified": "Darwin se maravilhou com o fato de que os marsupiais existem na Austrália"
+},
+{
+    "id": 304,
+    "original": "Darwin estudou os atóis para testar sua teoria da formação dos recifes de corais.\n",
+    "simplified": "Darwin estuda os atolls para testar seu teoria de formação dos recifes de coral."
+},
+{
+    "id": 305,
+    "original": "“Estou feliz por termos visitado estas ilhas; tais formações certamente tratam-se dos objetos mais maravilhosos deste mundo\", relatou.\n",
+    "simplified": "Ele está feliz em ter visitado as ilhas. Elas são incríveis!"
+},
+{
+    "id": 306,
+    "original": "Por isso, eram oferecidas aos atletas vencedores dos Jogos Olímpicos.\n",
+    "simplified": "Eram oferecidas aos campeões olímpicos"
+},
+{
+    "id": 307,
+    "original": "Na cerimônia em que o vencedor era oficialmente proclamado, uma coroa de oliveira era colocada em sua cabeça, registrando o momento máximo de triunfo.\n",
+    "simplified": "O vencedor recebeu um laurel na cerimônia."
+},
+{
+    "id": 308,
+    "original": "Como os ramos de oliveira não se conservavam por muito tempo, as coroas passaram a ser fabricadas em metais preciosos, o que remete à forma como os vencedores olímpicos são premiados hoje em dia: medalhas de ouro, prata e bronze.\n",
+    "simplified": "Os coroas passaram a ser feitas de metal após os ramos de oliveira não durarem muito."
+},
+{
+    "id": 309,
+    "original": "Ficando para trás na corrida espacial, os Estados Unidos contra-atacaram com o projeto Mercury, entre 1958 e 1963.\n",
+    "simplified": "A América ficou para trás nas corridas de espaco, mas lançou o programa Mercurio."
+},
+{
+    "id": 310,
+    "original": "Com formato cônico e espaço para apenas um tripulante, a Mercury-Redstone 3 realizou um voo de 486 Km em pouco mais de 15 minutos, alcançando a velocidade de 8.340 km/h.\n",
+    "simplified": "A SpaceX alcançou a velocidade de 7.900kmh em um voo de 500Km"
+},
+{
+    "id": 311,
+    "original": "Mesmo sem ter ultrapassado a União Soviética na Corrida Espacial, o Projeto Mercury estabeleceu as condições para que, alguns anos depois, o homem chegasse a Lua.\n",
+    "simplified": "Apesar de não ter ultrapassado a União Soviética na corrida espacial, o Projeto Mercury estabeleceu as condições para que o homem pudesse chegar à lua."
+},
+{
+    "id": 312,
+    "original": "Como parte do treinamento da equipe do Projeto Mercury, a NASA criou um equipamento chamado de MASTIF (Multiple Axis Space Test Inertia Facility ou Instalação de Eixos Múltiplos para Teste de Inércia no Espaço).\n",
+    "simplified": "A NASA fez um equipamento chamado de MASTIF, que é usado para testar a inércia em um ambiente artificial."
+},
+{
+    "id": 313,
+    "original": "Com ele, os astronautas preparavam-se para se movimentar em um ambiente sem a ação da força gravitacional terrestre.\n",
+    "simplified": "Com ele, os astronautas ficavam livres da ação da gravidade para se movimentarem no espaço."
+},
+{
+    "id": 314,
+    "original": "O MASTIF simulava manobras semelhantes a cambalhotas, que podem ser encontradas em voos espaciais.\n",
+    "simplified": "O MASTIF fazia um movimento como uma cambalhotas. Em aviões os ganchos são chamados de cambalhotas."
+},
+{
+    "id": 315,
+    "original": "Seus três aros de alumínio tubular giravam separadamente ou de forma combinada, simulando os movimentos de inclinação, rotação e guinada que seriam encontrados quando a Mercury estivesse no espaço.\n",
+    "simplified": "A Mercury tem três aros de alumínio que giram. Eles fazem movimentos semelhantes ao espaço."
+},
+{
+    "id": 316,
+    "original": "Com a Apollo XI, o sonho de chegar à Lua finalmente se torna realidade para a NASA.\n",
+    "simplified": "A NASA realizou com sucesso sua primeira missão tripulada à Lua. "
+},
+{
+    "id": 317,
+    "original": "Devido ao empuxo.\n",
+    "simplified": "Devido ao empuxo."
+},
+{
+    "id": 318,
+    "original": "Empuxo é uma força que atua sobre os objetos quando estes são submersos em algum fluido, como a água, por exemplo.\n",
+    "simplified": "Quando o objeto é mergulhado num líquido, surge uma força chamada empuxo."
+},
+{
+    "id": 319,
+    "original": "Por ser muito grande, o navio desloca um volume imenso de água.\n",
+    "simplified": "Devido ao seu tamanho enorme, o navio move uma quantidade muito grande de água."
+},
+{
+    "id": 320,
+    "original": "Como consequência, sofre um empuxo suficientemente intenso para equilibrar seu peso e fazê-lo boiar.\n",
+    "simplified": "O cachorro está afogando-se"
+},
+{
+    "id": 321,
+    "original": "Quando é submersa, ela desloca um volume muito pequeno de água.\n",
+    "simplified": "Ela desloca muito pouca água quando está submersa"
+},
+{
+    "id": 322,
+    "original": "Acompanhe a ação do empuxo, seguindo as instruções:\n",
+    "simplified": "Acompanhe a ação do empuxo, seguindo as instruções."
+},
+{
+    "id": 323,
+    "original": "1.\tObserve que os dois objetos têm a mesma massa, pois a balança encontra-se em equilíbrio.\n",
+    "simplified": "Os objetos pesam igual"
+},
+{
+    "id": 324,
+    "original": "2.\tPressione a barra para baixo para fazê-los submergir.\n",
+    "simplified": "Pandeolfo tomava chimarrao as 19h de ontem no alto de um monte de areia com os poodles amarrados a coleiras."
+},
+{
+    "id": 325,
+    "original": "Quanto maior for o volume do objeto imerso, maior será o empuxo que atua sobre ele.\n",
+    "simplified": "Quanto maior for o volume do objeto, mais empuxo o recebe."
+},
+{
+    "id": 326,
+    "original": "Esse equipamento deve ser utilizado por duas pessoas.\n",
+    "simplified": "Este equipamento deve ser usado por duas pessoas."
+},
+{
+    "id": 327,
+    "original": "Aperte o botão.\tUm exaustor será ligado no lado oposto do tubo, criando um diferencial de pressão em seu interior.\n",
+    "simplified": "Aperte o botão"
+},
+{
+    "id": 328,
+    "original": "Isso faz com que as bolinhas de isopor no interior do tubo se movimentem da região de maior pressão para a de menor pressão.\n",
+    "simplified": "As bolinhas de espuma dentro do tubo começam a se deslocar de um ponto com mais pressão para o outro."
+},
+{
+    "id": 329,
+    "original": "Partindo do mesmo princípio, as grandes diferenças de pressão no ar em nossa atmosfera são capazes de produzir ventos muito fortes, capazes de empurrar até mesmo edificações.\n",
+    "simplified": "O vento é tão forte que pode empurrar edifícios. A pressão no ar faz isso."
+},
+{
+    "id": 330,
+    "original": "Observe a variação da temperatura ao longo do tubo e identifique onde o tubo está seco, onde está úmido e onde está coberto de gelo.\n",
+    "simplified": "Olhe para os diferentes graus de temperatura ao longo do tubo e veja onde há um vazamento (secagem), um problema com água parada (úmido) ou congelamento (gelado)."
+},
+{
+    "id": 331,
+    "original": "A temperatura no limite entre o tubo seco e o tubo úmido chama-se “ponto de orvalho”.\n",
+    "simplified": "O ponto de orvalho é a temperatura que marca o limiar entre o tubo seco e o tubo úmido."
+},
+{
+    "id": 332,
+    "original": "Em outras palavras, o ponto de orvalho é a temperatura em que o vapor d’água suspenso no ar começa a tornar-se líquido.\n",
+    "simplified": "A temperatura em que o vapor d'água se torna líquido na atmosfera é chamada de ponto de orvalho."
+},
+{
+    "id": 333,
+    "original": "A temperatura do ponto de orvalho também é de grande valia para a realização da previsão do tempo, especialmente para se conhecer a umidade relativa do ar.\n",
+    "simplified": "A temperatura do ponto de orvalho ajuda na previsão do tempo."
+},
+{
+    "id": 334,
+    "original": "Observe as direções seguidas pelo feixe de luz incidente (antes da lente) e pelo feixe emergente (depois da lente), no disco óptico.\n",
+    "simplified": "Olhe nos dois pontos do disco óptico: onde começa o feixe de luz incidente e onde termina o feixe que sai."
+},
+{
+    "id": 335,
+    "original": "Ao passar pela lente, torna-se um feixe emergente convergente, devido à refração.\n",
+    "simplified": "Deixa o feixe de luz que se forma na lente ser como uma lanterna; isso não irá afetar a visão em larga distância."
+},
+{
+    "id": 336,
+    "original": "Os raios luminosos do feixe emergente vão convergir para um mesmo ponto, o qual chamamos de foco.\n",
+    "simplified": "O feixe converge para um foco."
+},
+{
+    "id": 337,
+    "original": "Em um olho que apresenta hipermetropia, a imagem dos objetos PRÓXIMOS forma-se antes da retina.\n",
+    "simplified": "Na retina, as imagens próximas são formadas antes que a imagem distante seja processada."
+},
+{
+    "id": 338,
+    "original": "Com o auxílio da lupa, observe os pequenos invertebrados cujos detalhes são impossíveis de se verificar a olho nu.\n",
+    "simplified": "Com uma lupa você pode ver os insetos, eles são muito pequenos."
+},
+{
+    "id": 339,
+    "original": "Todos eles fazem parte do grupo dos Artrópodes, como também é o caso das baratas, das borboletas, dos mosquitos e dos gafanhotos.\n",
+    "simplified": "Todos os artrópodes são insetos que fazem parte desse grupo"
+},
+{
+    "id": 340,
+    "original": "Os artrópodes são o grupo mais diversificado do planeta – com mais de 1,5 milhão de espécies descritas – e apresentam, de forma geral, corpo segmentado, exoesqueleto rígido e membros articulados.\n",
+    "simplified": "Os artrópodes são muito diversos, com mais de 1,5 milhão de espécies – e têm partes do corpo divididas em segmentos, um exoesqueleto rígido e membros articulados."
+},
+{
+    "id": 341,
+    "original": "Os artrópodes estão presentes no nosso cotidiano e provavelmente não há um dia em que você não tenha algum tipo de contato com eles.\n",
+    "simplified": "Os artrópodes são encontrados em nossos dias a dia e, provavelmente, nem uma vez você não terá algum contato com eles."
+},
+{
+    "id": 342,
+    "original": "Alguns são considerados parasitas, ou seja, aproveitam-se de outro organismo para sobreviver, como é o caso das pulgas e dos carrapatos.\n",
+    "simplified": "algumas criaturas se alimentam da carne e/ou sangue de outros animais."
+},
+{
+    "id": 343,
+    "original": "Os parasitas, assim como certos mosquitos, podem causar doenças em muitas outras espécies de animais, incluindo seres humanos.\n",
+    "simplified": "Muitos parasitas podem causar doenças também em outros animais e até mesmo em pessoas."
+},
+{
+    "id": 344,
+    "original": "Por isso é necessário manter uma rotina de higiene em nossas casas, jardins e animais de estimação.\n",
+    "simplified": "Nossa casa precisa ser limpa, o nosso quintal também e todos os animais precisam ser cuidados."
+},
+{
+    "id": 345,
+    "original": "Afaste uma bola das outras e solte-a.\n",
+    "simplified": "Sola a bola do grupo."
+},
+{
+    "id": 346,
+    "original": "Durante as colisões, podemos observar perdas de energia entre os objetos.\n",
+    "simplified": "Os objetos têm menos energia."
+},
+{
+    "id": 347,
+    "original": "Contudo, se essas perdas forem muito pequenas, a energia do movimento (cinética) é contínua, caracterizando a colisão elástica.\n",
+    "simplified": "A energia do movimento continua, mesmo com pequenas perdas."
+},
+{
+    "id": 348,
+    "original": "Quando você afastou a primeira bola e a soltou, ela transferiu energia do movimento para as demais até chegar a última.\n",
+    "simplified": "Quando você liberou a primeira bola, o movimento passou para os outros que estavam na corda."
+},
+{
+    "id": 349,
+    "original": "A energia transferida pela primeira bola é suficiente para que a última bola se mova.\n",
+    "simplified": "A primeira bola transferiu muita energia para que a última se mova."
+},
+{
+    "id": 350,
+    "original": "Quando você afasta duas bolas, a energia do movimento duplica, provocando o deslocamento de duas bolas.\n",
+    "simplified": "A energia do movimento duplica e faz com que as duas bolas sejam espalhadas"
+},
+{
+    "id": 351,
+    "original": "Se você já jogou bilhar, você já provocou colisões elásticas.\n",
+    "simplified": "Se você já jogou bilhar, provavelmente já fez colisão de bolas."
+},
+{
+    "id": 352,
+    "original": "Basicamente o jogo se define por uma sucessão desse tipo de colisão, transferindo energia entre as bolinhas para derrubá-las nos buracos da mesa.\n",
+    "simplified": "O jogo é sobre chocar bolas na mesa e derrubar-as em furos."
+},
+{
+    "id": 353,
+    "original": "Mergulhando um objeto em um recipiente cheio d’água, ele será pressionado pela água, mas nem todas as partes do objeto estarão submetidas à mesma pressão.\n",
+    "simplified": "O objeto está submetido a diferentes pressões quando mergulhado em água."
+},
+{
+    "id": 354,
+    "original": "A pressão aumenta com a profundidade, ou seja, a parte do objeto que estiver na porção mais profunda do recipiente estará sujeita a uma pressão maior.\n",
+    "simplified": "A pressão do líquido no fundo é maior."
+},
+{
+    "id": 355,
+    "original": "Na parte de trás do experimento, há uma barra oca de metal com um feixe de fios de cabelo em seu interior.\n",
+    "simplified": "No centro do experimento, tem uma barra de metal vazia. Inside ela estão os fios de cabelo."
+},
+{
+    "id": 356,
+    "original": "Como os fios de cabelo estão presos ao ponteiro do higrômetro, a variação de umidade faz o ponteiro se mover, possibilitando assim a leitura do índice de umidade relativa do ar no momento.\n",
+    "simplified": "O ponteiro do higrômetro se move com as variações na umidade do ar."
+},
+{
+    "id": 357,
+    "original": "Procure comparar a umidade relativa do ar indicada pelo higrômetro de cabelo com a indicada pelo aparelho que se encontra atrás da estação meteorológica.\n",
+    "simplified": "Verifique a umidade do ar com o higrômetro no cabelo e com o equipamento que está atrás da estação meteorológica."
+},
+{
+    "id": 358,
+    "original": "Logo os valores obtidos serão sempre iguais ou muito próximos.\n",
+    "simplified": "Logo os valores obtidos seráo sempre iguais ou muito próximos."
+},
+{
+    "id": 359,
+    "original": "As pétalas metálicas que compõem a flor são constituídas por metais com diferentes coeficientes de dilatação térmica.\n",
+    "simplified": "As partes metálicas da flor tem variados coeficiente de expansão térmico."
+},
+{
+    "id": 360,
+    "original": "Com a lâmpada apagada, a temperatura diminui, fazendo as pétalas curvarem-se para o lado contrário.\n",
+    "simplified": "Com a luz off, a temperatura lowers, making the petals fold inwards."
+},
+{
+    "id": 361,
+    "original": "Como o metal possui um coeficiente de dilatação maior do que o vidro, a tampa vai dilatar mais, “separando-se” do vidro e facilitando a abertura do pote.\n",
+    "simplified": "A tampa de plástico vai se afastar do vidro do pote."
+},
+{
+    "id": 362,
+    "original": "A escala °C (Celsius) é utilizada de maneira oficial por quase todos os países do globo.\n",
+    "simplified": "O escalar da temperatura Celsius, é a mais usada por 99% dos países globais."
+},
+{
+    "id": 363,
+    "original": "Já a unidade K (Kelvin) é usada para fins científicos, determinando a valor absoluto de temperatura.\n",
+    "simplified": "A unidade Kelvin define o valor absoluto de temperatura em termos de escala absoluta."
+},
+{
+    "id": 364,
+    "original": "A relação entre a temperatura e a dilatação da coluna de álcool (que contém o líquido vermelho) possibilita a medida da temperatura.\n",
+    "simplified": "Medem a temperatura medindo a distância do fundo do líquido"
+},
+{
+    "id": 365,
+    "original": "Por exemplo: sobre condições normais de pressão, a uma temperatura igual a 0° Celsius pode-se observar a mudança de estado físico da água entre líquido e sólido.\n",
+    "simplified": "Na temperatura de -15°C, água líquida congela para água sólida."
+},
+{
+    "id": 366,
+    "original": "Acredita-se que 99% da matéria visível do universo seja plasma.\n",
+    "simplified": "Acredita-se que a maioria do universo seja plasma."
+},
+{
+    "id": 367,
+    "original": "Dificilmente se obtém o estado de plasma aqui na Terra.\n",
+    "simplified": "Nada se pode comparar à beleza da natureza"
+},
+{
+    "id": 368,
+    "original": "O que os cientistas já sabem é que ele escoa como um líquido viscoso.\n",
+    "simplified": "Ele escoa como um líquido viscoso."
+},
+{
+    "id": 369,
+    "original": "Há plasma dentro da esfera ao lado.\n",
+    "simplified": "Há plasma ao lado da esfera."
+},
+{
+    "id": 370,
+    "original": "Na Rússia foi desenvolvida uma potente máquina para produção e confinamento de plasma, o Tokamak, em 1960, com a finalidade de gerar energia elétrica.\n",
+    "simplified": "Na década de 60 foi criada uma máquina russa para produzir e manter plasma confinado"
+},
+{
+    "id": 371,
+    "original": "Poucas réplicas foram feitas até os dias atuais e todas de caráter experimental, pois os reatores tokamaks gastam mais energia do que produzem.\n",
+    "simplified": "Pouquíssimas réplicas foram feitas e elas são experimentais porque os reatores tokamaks usam muito mais energia do que produzem."
+},
+{
+    "id": 372,
+    "original": "Convecção do Ar\n",
+    "simplified": "o ar quente subindo cria uma área de pressão mais baixa, enquanto o ar frio desce, cria uma área de pressao mais alta."
+},
+{
+    "id": 373,
+    "original": "Em seguida, posicione sua mão no local indicado e sinta o calor transmitido pelo resistor através das correntes de convecção do ar.\n",
+    "simplified": "Coloque sua máo na localizaó indicaÝa e senta o calor transmitido pelo resistor através da circulação de convecção do ar."
+},
+{
+    "id": 374,
+    "original": "Quando a corrente elétrica passa pelo resistor, ocorre a transformação da energia elétrica em energia térmica, o chamado efeito Joule, devido à colisão de elétrons livres com os átomos da estrutura do material do resistor.\n",
+    "simplified": "O calor é gerado pela passagem da corrente elétrica pelo resistor."
+},
+{
+    "id": 375,
+    "original": "Apesar de ser amplamente conhecido como Rio Guaíba, a comunidade científica o compreende, atualmente, como sendo um lago.\n",
+    "simplified": "O Rio Guaíba é considerado um lago pela comunidade científica."
+},
+{
+    "id": 376,
+    "original": "As características abaixo apontam para essa tese, embora ela não seja unânime:\n",
+    "simplified": "A teoria tem algumas características que apoiam sua ideia, mas não é um consenso."
+},
+{
+    "id": 377,
+    "original": "Os rios que nele desembocam formam um delta.\n",
+    "simplified": "Os rios que nele desembocam formam um grande arco de terra com muitos canais e ilhas"
+},
+{
+    "id": 378,
+    "original": "Esse tipo de depósito sedimentar ocorre quando um volume de água confinado por canais encontra-se com um grande corpo de água.\n",
+    "simplified": "Esse tipo de depósito é formado quando água confinada em canais encontra um grande lago."
+},
+{
+    "id": 379,
+    "original": "O rápido desconfinamento do fluxo de água causa a descarga do material arenoso e argiloso que estava sendo carregado pelos rios.\n",
+    "simplified": "O rápido desconfinamento do fluxo de água faz com que o material se esgote e os rios possam transportar apenas o arenoso e argiloso. Sua saída é a descarga na costa."
+},
+{
+    "id": 380,
+    "original": "O escoamento da água é bidimensional, formando áreas com velocidades diferenciadas, típica de um lago.\n",
+    "simplified": "O movimento do lago é bidimensional e as velocidades são diferentes em algumas áreas."
+},
+{
+    "id": 381,
+    "original": "Os depósitos sedimentares das margens possuem geometria e estrutura características de sistema lacustre.\n",
+    "simplified": "A geografia é feita de sedimentos da margem do lago."
+},
+{
+    "id": 382,
+    "original": "A vegetação da margem é de matas de restinga, identificadoras de cordões arenosos lacustres ou oceânicos.\n",
+    "simplified": "A área ao seu redor é coberta por matos que identificam cordões marinhos."
+},
+{
+    "id": 383,
+    "original": "- a vazão média das águas despejadas pelos rios Jacuí, Caí, Sinos e Gravataí no Guaíba (38 mil metros cúbicos por segundo) seria o suficiente para abastecer cada habitante do planeta com um litro de água a cada três horas;\n",
+    "simplified": "se as águas despejadas pelos rios Jacuí, Caí, Sinos e Gravataí no Guaíba serviriam para dar um litro de água a cada três horas para todo o planeta."
+},
+{
+    "id": 384,
+    "original": "- apresenta profundidade máxima de 31 metros na ponta de Itapuã;\n",
+    "simplified": "O navio tem uma profundidade máxima de 31 metros na ponta de Itapuã."
+},
+{
+    "id": 385,
+    "original": "- o arquipélago situado na região norte do Lago tem 19 ilhas, das quais 16 pertencem ao município de Porto Alegre.\n",
+    "simplified": "O Lago possui uma região com 19 ilhas, de onde a comunidade de Porto Alegre toma todas as 16 delas"
+},
+{
+    "id": 386,
+    "original": "- o jacaré-de-papo-amarelo, espécie ameaçada de extinção, pode ser encontrado em algumas áreas do Parque Estadual do Delta do Jacuí.\n",
+    "simplified": "o jacaré-dêpo-amarelo, espécie ameaÞz de extinÃõ, pode ser encontrado em algumas áreas do Parque Estadual do Delta do Jacuí."
+},
+{
+    "id": 387,
+    "original": "Equipamento formado por um núcleo de ferro parcialmente recoberto por dois enrolamentos de fios condutores (geralmente cobre), o transformador tem a função de variar a tensão elétrica nele aplicada.\n",
+    "simplified": "O equipamento faz com que se altere a tensão elétrica."
+},
+{
+    "id": 388,
+    "original": "O fluxo de corrente elétrica em um dos enrolamentos (primário) produz um campo magnético que induz uma tensão elétrica no outro enrolamento (secundário).\n",
+    "simplified": "A tensao é gerada quando o fluxo de corrente elétrica muda na secundária."
+},
+{
+    "id": 389,
+    "original": "A variação de tensão elétrica entre os dois enrolamentos é proporcional à relação entre o número de voltas de fio condutor nos dois enrolamentos.\n",
+    "simplified": "A diferença entre as tensões é proporcional ao número de enrolamentos."
+},
+{
+    "id": 390,
+    "original": "Eles permitem aumentar e diminuir a tensão elétrica, adequando-a aos mais diversos fins.\n",
+    "simplified": "Eles podem aumentar ou diminuir a tensão elétrica de acordo com os usos desejados."
+},
+{
+    "id": 391,
+    "original": "As cavernas, ou sistemas espeleológicos, são espaços originados na região mais superficial da crosta terrestre devido à dissolução progressiva e localizada de rochas calcárias.\n",
+    "simplified": "Cavernas são espaços formados pela dissolução das rochas calcárias."
+},
+{
+    "id": 392,
+    "original": "A dissolução decorre da ação da água percolante (água infiltrada circulante) que, conduzindo o gás carbônico dissolvido, age diretamente sobre os minerais das rochas por ela atravessadas, inicialmente pequenos espaços dispersos.\n",
+    "simplified": "A água percolante dissolve o gás carbônico nos minerais das rochas."
+},
+{
+    "id": 393,
+    "original": "A mesma água que circula pela rocha não dissolvida, conduzindo o calcário, gotejando do teto caindo no piso da caverna possibilita a precipitação de parte do carbonato de cálcio produzindo os epeleotemas, as formações emergentes da superfície da caverna.\n",
+    "simplified": "A água que circula pela rocha não dissolvida faz a água caer do teto e criar formas na caverna. Além disso, isso ajuda a formar pedras de calcário e produz as formaçôes emergentes da superfície."
+},
+{
+    "id": 394,
+    "original": "Naquela época, as bicicletas eram feitas de ligas metálicas e pesavam mais de 15 kg.\n",
+    "simplified": "Naquela época as bicicleta eram feitas de metal e pesavam mais de 15Kg"
+},
+{
+    "id": 395,
+    "original": "Até hoje, mais de cem anos se passaram e o desempenho dos ciclistas foi otimizado em mais de 200%, tornando a tecnologia de fabricação das bicicletas, se não a principal, umas das principais responsáveis pela constante melhora nos resultados.\n",
+    "simplified": "A tecnologia de bicicletas é uma das principais responsáveis pelos constantes aprimoramentos nos resultados."
+},
+{
+    "id": 396,
+    "original": "As bicicletas atuais são projetadas em túneis de vento virtuais, que permitem avaliar de que forma o ar flui sobre um objeto de forma determinada, calculando valores como coeficiente de arrasto e mapas de pressão.\n",
+    "simplified": "As bicicletas são projetadas em túneis para avaliar como o ar flui. A partir disso, podemos calcular a resistência que os ventos causam nas bicicletas."
+},
+{
+    "id": 397,
+    "original": "Fabricadas em fibras de carbono, elas pesam menos da metade do que há cem anos.\n",
+    "simplified": "Fabricadas de carbono, elas são mais leves do que aquelas do passado."
+},
+{
+    "id": 398,
+    "original": "Devido à diferença de pressão dentro e fora do vidro.\n",
+    "simplified": "Devido à diferença de pressão interna e externa no vidro, ele se quebrou."
+},
+{
+    "id": 399,
+    "original": "Para garantir um maior prazo de validade aos alimentos conservados, retira-se o ar de dentro dos vidros antes de lacrá-los.\n",
+    "simplified": "Para os alimentos preservados, aportem primeiro o ar que está dentro do frasco, para não se envelhecerem."
+},
+{
+    "id": 400,
+    "original": "Esse processo, chamado fechamento a vácuo, é realizado porque a ausência de oxigênio desacelera a proliferação de micro-organismos.\n",
+    "simplified": "A ausência de oxigênio desacelera a proliferação de micro-organismos."
+},
+{
+    "id": 401,
+    "original": "1.\tTente separar as duas partes da esfera, puxando a alça metálica. Fácil, não?\n",
+    "simplified": "puxe a alça e tira do lado mais fácil."
+},
+{
+    "id": 402,
+    "original": "2.\tSolte a alça metálica e verifique a esfera fechando-se novamente.\n",
+    "simplified": "verifique se o fecho está fechado"
+},
+{
+    "id": 403,
+    "original": "4.\tObserve a coluna de mercúrio. Quando ela passar pelo ponto laranja, tente separar os hemisférios novamente.\n",
+    "simplified": "Olhe para o termômetro. Tente separar os hemisféricos novamente quando a coluna passar pelo nível do equador."
+},
+{
+    "id": 404,
+    "original": "Quando o ar é retirado do interior da esfera, a pressão interna fica quase nula.\n",
+    "simplified": "Quando se tirar o ar do interior da esfera a pressao sera quase nula"
+},
+{
+    "id": 405,
+    "original": "São ditas estruturas homólogas, aquelas que compartilham semelhanças anatômicas, porém, apresentam funções distintas como, por exemplo, a nadadeira da baleia e a asa de um morcego.\n",
+    "simplified": "Compartilham semelhanças anatômicas, mas têm funções diferentes."
+},
+{
+    "id": 406,
+    "original": "As estruturas homólogas originam-se do fenômeno evolutivo denominado radiação adaptativa: espécies com um mesmo ancestral que se diversificam de acordo com a adaptação ao meio.\n",
+    "simplified": "A ideia é que as espécies com um ancestral comum divergem para o seu próprio caminho. Por exemplo, uma ave que se transforma em pássaros e outro animal que se transforma em tartaruga."
+},
+{
+    "id": 407,
+    "original": "Por outro lado, as asas de uma ave e de um inseto, apesar de apresentarem a mesma função, não são semelhantes anatomicamente, indicando caminhos evolutivos distintos.\n",
+    "simplified": "As asas das aves e dos insetos têm diferentes estruturas."
+},
+{
+    "id": 408,
+    "original": "São ditas estruturas análogas, aquelas que têm a mesma finalidade, porém, não apresentam similaridade anatômica e, portanto, têm ancestralidade diferente.\n",
+    "simplified": "São ditas estruturas análogas que têm a mesma função. Elas podem ter corpo parecido e procedimentos semelhantes, mas não se parecem em termos de anatomia. Porém, têm origens distintas."
+},
+{
+    "id": 409,
+    "original": "Estruturas análogas originam-se do fenômeno evolutivo denominado convergência adaptativa: espécies que não têm um mesmo ancestral direto, mas apresentam uma característica semelhante devido à adaptação a um mesmo ambiente.\n",
+    "simplified": "espçies com diferentes origens evolutivas que desenvolveram caracíeres semelhantes como uma resposta ao mesmo ambiente."
+},
+{
+    "id": 410,
+    "original": "Observe o que acontece com sua pupila enquanto você altera, girando o botão menor, a intensidade da luz.\n",
+    "simplified": "Mantenha os olhos em sua pupila enquanto ajusta a intensidade da luz girando o botão"
+},
+{
+    "id": 411,
+    "original": "A variação do diâmetro da pupila tem a função de manter constante a iluminação sobre a retina.\n",
+    "simplified": "O tamanho da pupila ajuda a controlar quanto luz entra na retina."
+},
+{
+    "id": 412,
+    "original": "Você já deve ter notado que quando você sai do cinema ou de algum outro lugar mais escuro, a luminosidade nos primeiros instantes parece ser excessiva.\n",
+    "simplified": "Quando você sai de um lugar escuro para o sol, a luz parece muito forte nos primeiros segundos."
+},
+{
+    "id": 413,
+    "original": "Uma de suas metades é constituída de alumínio e a outra, de ferro.\n",
+    "simplified": "A metade do alavanca está feita de alumínio, a outra de ferro."
+},
+{
+    "id": 414,
+    "original": "A peça pintada de vermelho é um imã permanente enquanto que a pequena lâmina verde suspensa é feita de ferro.\n",
+    "simplified": "A peça vermelha é um imã permanente, mas a pequena lâmina verde suspendida não é. Ela é de ferro."
+},
+{
+    "id": 415,
+    "original": "Posicione uma das metades do disco próxima à lâmina.\n",
+    "simplified": "Posicione uma das metades do disco próximo ao seu lábio superior."
+},
+{
+    "id": 416,
+    "original": "Se você precisar de algo que interaja com o imã, por exemplo, você precisará utilizar um material ferromagnético.\n",
+    "simplified": "para interagir com um imán, precisa de um material ferro-magnético."
+},
+{
+    "id": 417,
+    "original": "Reações químicas que acontecem dentro das batatas provocam uma diferença de potencial entre os terminais, o que produz energia elétrica suficiente para fazer o relógio funcionar.\n",
+    "simplified": "As batatas produzem energia elétrica que faz a eletrônica funcionar."
+},
+{
+    "id": 418,
+    "original": "Encoste a palma de uma de suas mãos no painel de cristal líquido e peça a um amigo para fazer o mesmo.\n",
+    "simplified": "Tente acender o ferro, se apagar não deixa mais nada de brilhar na escuridao."
+},
+{
+    "id": 419,
+    "original": "Isso modificará a pressão hidrostática dentro do cilindro.\n",
+    "simplified": "Isso vai mudar a pressão hidrostática dentro do cilindro."
+},
+{
+    "id": 420,
+    "original": "O \"mergulhador” reage a essa modificação, aumentando ou diminuindo sua profundidade até encontrar uma nova posição de equilíbrio.\n",
+    "simplified": "O mergulhador muda sua profundidade para encontrar um novo equilíbrio"
+},
+{
+    "id": 421,
+    "original": "Esses veículos subaquáticos também utilizam a variação de pressão para submergir, emergir e controlar a profundidade em que se movimentam na água.\n",
+    "simplified": "Os submarinos usam essa técnica para se fundir à água ou se levantar."
+},
+{
+    "id": 422,
+    "original": "Para o observador, a fusão da imagem do espelho com a metade visível do corpo da pessoa produz a ilusão da levitação.\n",
+    "simplified": "A pessoa era levitada pela luz"
+},
+{
+    "id": 423,
+    "original": "Em apresentações de mágicos, muitos truques são baseados em ilusões de óptica criadas pelo uso de espelhos.\n",
+    "simplified": "Tricks of magicians are often based on optical illusions created using mirrors."
+},
+{
+    "id": 424,
+    "original": "Com o disco em movimento, observamos que, simultaneamente, um conjunto de espiras se expande, enquanto o outro se contrai.\n",
+    "simplified": "Observamos como o disco se move, enquanto duas espiras se afastam e uma se aproxima."
+},
+{
+    "id": 425,
+    "original": "Fixando por algum tempo o olhar no disco, ocorre a persistência visual desses movimentos. Isso cria a ilusão de que a figura estática no painel está se movendo.\n",
+    "simplified": "A figura parece estar se movendo"
+},
+{
+    "id": 426,
+    "original": "Ilusões de ótica estão por toda a parte e muitos se beneficiam delas, como é o caso dos mágicos.\n",
+    "simplified": "Os mágicos se beneficiam do poder das ilusões de ótica."
+},
+{
+    "id": 427,
+    "original": "Você sempre enxerga o que está mais iluminado.\n",
+    "simplified": "Você vê só as coisas claras."
+},
+{
+    "id": 428,
+    "original": "Segure o cabo preto e tente deslocar o anel de uma extremidade a outra, evitando encostá-lo barra de aço.\n",
+    "simplified": "Segura o cabo preto e tente deslocar o anel na extremidade oposta à do anel. Evite que ele se encaixe no fio de metal."
+},
+{
+    "id": 429,
+    "original": "Quanto mais aperfeiçoarmos nossa coordenação motora, mais habilidades motoras teremos para desenvolver ações simples do nosso dia a dia, como por exemplo, dirigir, movimentar objetos, manusear a chave de casa, costurar etc.\n",
+    "simplified": "Quanto mais prática tivermos na coordenação motora, mais habilidades motoras teremos para fazer coisas simples do nosso dia a dia, como dirigir."
+},
+{
+    "id": 430,
+    "original": "A escavação arqueológica é a forma usada pelos arqueólogos para encontrar as coisas do passado e, a partir delas, contar histórias sobre quem as fabricou, usou e descartou.\n",
+    "simplified": "Os arqueólogos usam escavações para encontrar coisas antigas e contar suas histórias."
+},
+{
+    "id": 431,
+    "original": "O local onde essas coisas são encontradas – chamado de sítio arqueológico, é dividido em quadrados (“quadrículas”) de tamanho variável, geralmente de um metro quadrado.\n",
+    "simplified": "O local onde as coisas são encontradas é uma área grande. Ela é dividida em quadrados de tamanhos diferentes."
+},
+{
+    "id": 432,
+    "original": "Quando um objeto é encontrado, escava-se cuidadosamente a área ao seu redor, fotografando-o, descrevendo-o e coletando-o, preservando as informações de sua exata localização.\n",
+    "simplified": "Quando se encontra algo, é importante descobrir a localização exata onde está e guardar todas as informações sobre ele."
+},
+{
+    "id": 433,
+    "original": "A Vostok 1 era uma cápsula esférica, construída de forma a eliminar mudanças no centro de gravidade e assim garantir maior conforto ao tripulante qualquer que fosse sua orientação.\n",
+    "simplified": "A Vostok 1 era uma cápsula esférica, construída de forma a não afetar o centro de gravidade e assim garantir conforto ao tripulante."
+},
+{
+    "id": 434,
+    "original": "Contudo, não foi projetada para aterrissar em segurança com um ser humano a bordo.\n",
+    "simplified": "Não foi projetada para aterrissar com segurança com um ser humano a bordo."
+},
+{
+    "id": 435,
+    "original": "Por isso, a 7 km de altitude, Gagarin ejetou-se da espaçonave e pousou separadamente, com o auxílio de um paraquedas.\n",
+    "simplified": "Gagarin caiu na Terra desde a espaçonave em uma altura de 7 km, com um paraquedas."
+},
+{
+    "id": 436,
+    "original": "Aperte o botão sobre o balcão para fazer gerar vento suficiente para movimentar o anemômetro.\n",
+    "simplified": "Aperte o botão sobre o balcão para fazer gerar um vento forte, o suficiente para agradar ao anemômetro."
+},
+{
+    "id": 437,
+    "original": "Os anemômetros são usados para medir a velocidade dos ventos, que pode ser expressa na escala de milhas por hora (mph) ou na escala de quilômetros por hora (km/h), sendo que 1 mph corresponde a 1,6 km/h.\n",
+    "simplified": "Os anemômetros medem a velocidade do vento. Essa medida é dada em milhas por hora ou quilômetros por hora."
+},
+{
+    "id": 438,
+    "original": "As placas da região pélvica e torácicas são mais ou menos ovaladas, diferenciando-o dos outros gêneros de tatus.\n",
+    "simplified": "A placa do tatu é o corpo principal do tatu."
+},
+{
+    "id": 439,
+    "original": "As garras dos dedos centrais se diferenciam pelo maior tamanho e possuem unhas curvas e fortes.\n",
+    "simplified": "As garras das pontas dos dedos são as menores, com unhas pontiagudas."
+},
+{
+    "id": 440,
+    "original": "Ouve e enxerga pouco, mas em compensação tem ótimo olfato.\n",
+    "simplified": "Ouve e enxerga pouco, mas em compensação, tem um olfato muito bom."
+},
+{
+    "id": 441,
+    "original": "Pode fugir quando se sentir perseguido, correndo em direção à toca de moradia ou mesmo escavando uma nova rapidamente.\n",
+    "simplified": "Pode fugir para a casa ou fazer um buraco novo."
+},
+{
+    "id": 442,
+    "original": "Pode ser facilmente apreendido. Tem uma espécie muito caçada, por ser muito apreciada para alimentação - dizem que sua carne tem gosto de galinha, por isso seu nome popular.\n",
+    "simplified": "Seu nome popular é de 'porco-bomba', uma espécie caçada pela gente para o seu gosto"
+},
+{
+    "id": 443,
+    "original": "A caça a esses animais é proibida.\n",
+    "simplified": "A caça a esse animal é proibido."
+},
+{
+    "id": 444,
+    "original": "A despeito de ser sempre chamado de sapo, esse anfíbio é na verdade uma das maiores pererecas do Brasil, com visíveis discos adesivos (ou ventosas) nas extremidades dos dedos.\n",
+    "simplified": "Este anfêbio pode ter apelido de sapo, mas na realidade é perereca gigante com discos adesivos nos dedos."
+},
+{
+    "id": 445,
+    "original": "Animal de hábito noturno, pode ser encontrado vocalizando sobre a vegetação ou dentro da água, em partes rasas.\n",
+    "simplified": "Gato. Ele gosta de chorar na noite."
+},
+{
+    "id": 446,
+    "original": "Procura concentrações de água (pequenos lagos, poças temporárias, açudes) para a reprodução.\n",
+    "simplified": "Para promover a reprodutividade das águas, procuramos pequenas lagoas, poças e córregos de água."
+},
+{
+    "id": 447,
+    "original": "O ninho é construído pelo macho e inspecionado pela fêmea antes do acasalamento. A desova é flutuante, feita dentro do ninho que se assemelha a uma piscina.\n",
+    "simplified": "O macho constrói o ninho e a fêmea o inspeciona antes do acasalamento. Ela deixa ovos dentro da estrutura que tem um aspeto de uma piscina"
+},
+{
+    "id": 448,
+    "original": "Os girinos passam os primeiros estágios de desenvolvimento dentro do ninho.\n",
+    "simplified": "Os bebés girinos passam seus primeiros estágios de vida no ninho."
+},
+{
+    "id": 449,
+    "original": "O sapo-ferreiro ou sapo-martelo recebe esse nome devido à semelhança de sua vocalização nupcial com o som produzido por marteladas.\n",
+    "simplified": "O sapo-repeliente recebe esse nome devido à semelhança de sua vocalização com a produzida por marteladas."
+},
+{
+    "id": 450,
+    "original": "Pode ser facilmente observada nos ramos de árvores em matas, capoeiras, parques e, inclusive, nas cidades.\n",
+    "simplified": "Pode ser facilmente observada em todos os lugares."
+},
+{
+    "id": 451,
+    "original": "Essa ave, de coloração castanha e olhos vermelhos, muitas vezes é observada pulando entre os galhos das árvores atrás de alimento.\n",
+    "simplified": "A ave castanha está pulaando nos galhos comendo. Sua cor castanha e olhos vermelhos."
+},
+{
+    "id": 452,
+    "original": "Esse comportamento, somado à longa cauda escalonada que possui, assemelha a espécie a um esquilo, razão de seu nome em inglês.\n",
+    "simplified": "Seu comportamento e sua cauda assinam como um esquilo"
+},
+{
+    "id": 453,
+    "original": "É ouvido principalmente no início do período reprodutivo – a primavera – e assemelha-se ao gemido de um gato, por isso recebeu o nome popular de alma-de-gato.\n",
+    "simplified": "É chamado de alma-de-gato, pois soa como um gemido de um gato."
+},
+{
+    "id": 454,
+    "original": "Encontrado no Brasil, Paraguai e Uruguai.\n",
+    "simplified": "Encontrado nos países do Brasil, Paraguai e Uruguai."
+},
+{
+    "id": 455,
+    "original": "É um dos maiores lagartos da família dos teídeos, podendo atingir cerca de dois metros de comprimento, se incluída a cauda.\n",
+    "simplified": "É o maior lagarto teideo do mundo. Ele pode atingir 2 metros de comprimento."
+},
+{
+    "id": 456,
+    "original": "Por também alimentar-se de serpentes esse lagarto pode ser considerado útil às populações rurais, já que dessa maneira ajuda a controlar a proliferação de espécies peçonhentas.\n",
+    "simplified": "O lagarto também come serpentes e é útil às pessoas do campo porque ajuda a controlar as serpentes venenosas."
+},
+{
+    "id": 457,
+    "original": "Não permite a aproximação humana, exceto quando habituado à sua presença.\n",
+    "simplified": "Não se aproxime do animal; exceto se já estiver familiarizado com ele."
+},
+{
+    "id": 458,
+    "original": "De modo geral não é agressivo, mas quando se sente encurralado enfrenta sem medo a ameaça, abrindo a boca e dando chicotadas com a cauda.\n",
+    "simplified": "Deixa-me agredir, pois então vou me defender com minha cauda."
+},
+{
+    "id": 459,
+    "original": "Sua mordida é bastante dolorosa, pois possui dentes fortes e pontiagudos e muita força na mandíbula.\n",
+    "simplified": "Seu bicho pode ser muito forte e te de dar uma mordida que vai doer muito! E além disso, ele tem muitos dentes afiados."
+},
+{
+    "id": 460,
+    "original": "Órgãos vestigiais são vestígios de estruturas presentes em um ancestral e que deixam de existir ou tornam-se atrofiadas em uma determinada linhagem de descendentes, devido à adaptação destes últimos a uma função diferente.\n",
+    "simplified": "Órgãos vestigiais são partes do corpo que deixaram de ser úteis com o tempo."
+},
+{
+    "id": 461,
+    "original": "Nelas é possível observar vestígios da pelve e do fêmur, ossos que aparentemente não desempenham nenhuma função vital conhecida.\n",
+    "simplified": "No osso há vestígios de perna, isso é incomum. Pode ser de alguma espécie que ainda não estudamos."
+},
+{
+    "id": 462,
+    "original": "Entretanto, o fêmur e a pelve permanecem nos tetrápodes terrestres, com as funções de auxiliar no suporte da coluna vertebral e na união dos membros inferiores ao restante do esqueleto.\n",
+    "simplified": "O fêmur e a pelve são encontrados nos tetrápodes terrestres, ajudando a suportar a coluna vertebral."
+},
+{
+    "id": 463,
+    "original": "Observe nas imagens a seguir os ossos da pelve e fêmur humanos e os vestígios destes em baleias e serpentes atuais.\n",
+    "simplified": "Os ossos humanos foram encontrados nas baleias e na serpente, e eles podem estar relacionados a uma predação recente."
+},
+{
+    "id": 464,
+    "original": "Outra evidência da evolução das espécies é dada pela Paleontologia, ciência que estuda os registros fósseis.\n",
+    "simplified": "A Paleontologia estudia os registros fósseis e mostra a evolução das espécies."
+},
+{
+    "id": 465,
+    "original": "São considerados fósseis, restos ou traços de organismos como ossos e pegadas que ficaram preservados em rochas sedimentares ou no solo, e mostram que, durante eras passadas, a Terra havia sido habitada por espécies diferentes das que existem hoje.\n",
+    "simplified": "Os fósseis são restos de animais que viveram muito tempo atrás. São como pegadas ou ossos que ficaram preservados."
+},
+{
+    "id": 466,
+    "original": "A ordem na qual grupos de animais aparecem nas diferentes camadas de sedimentos permite traçar a história evolutiva desses organismos.\n",
+    "simplified": "Quando os animais aparecem em diferentes camadas do solo, isso nos mostra como eles mudaram ao longo do tempo."
+},
+{
+    "id": 467,
+    "original": "Observe na imagem que os fósseis mais antigos são encontrados em camadas mais profundas do solo, enquanto os fósseis de organismos mais recentes são encontrados em camadas mais superficiais.\n",
+    "simplified": "Os fósseis mais antigos estão no fundo, e os fósseis mais recentes estão acima."
+},
+{
+    "id": 468,
+    "original": "Aperte o botão para ligar o experimento e verifique quantas lâmpadas se acenderam.\n",
+    "simplified": "Pressione o botão para ativar o experimento."
+},
+{
+    "id": 469,
+    "original": "Lembre-se: a intensidade da corrente elétrica em um circuito fechado depende do número de lâmpadas (pontos de resistência) a ele conectadas.\n",
+    "simplified": "O número de pontes de resistencia nos circulos fechados afetam a intensidade das correntes electricas."
+},
+{
+    "id": 470,
+    "original": "Se esse equipamento estiver ligado ao mesmo circuito elétrico da lâmpada, ele aumentará a resistência no circuito, dificultando a passagem da corrente elétrica e, por consequência, diminuindo o brilho da lâmpada.\n",
+    "simplified": "Se ele estiver ligado ao mesmo circuito elétrico da lâmpada, ele aumentará a resistência no circuito, dificultando a passagem da corrente elétrica e diminuindo o brilho da lâmpada."
+},
+{
+    "id": 471,
+    "original": "Você já se perguntou de onde vem a água que abastece a sua casa cada vez que uma torneira é aberta?\n",
+    "simplified": "Você já se perguntou de onde vem a água que abastece o seu banheiro?  Porque abriu essa torneira?"
+},
+{
+    "id": 472,
+    "original": "Já imaginou como é feito o processo de tratamento dessa água para que você a receba a pontinha para ser consumida?\n",
+    "simplified": "Já imagina como é feito o tratamento daquela água? Você não pode ficar com aquilo até a ponta?"
+},
+{
+    "id": 473,
+    "original": "Este experimento busca responder tais questões, apresentando os recursos hídricos de Porto Alegre por meio de uma reprodução em escala do Lago Guaíba das ilhas, arroios e estações de tratamento de água e esgoto localizadas no município.\n",
+    "simplified": "O objetivo é estudar como as lixo de Porto Alegre vão para o mar."
+},
+{
+    "id": 474,
+    "original": "Contudo, muito mais do que isso, pretende chamar a sua atenção para a importância de preservar tais recursos e garantir que eles também estejam à disposição das próximas gerações.\n",
+    "simplified": "Quer preservar esses recursos para as próximas gerações?"
+},
+{
+    "id": 475,
+    "original": "Pitágoras é geralmente descrito como o primeiro matemático puro.\n",
+    "simplified": "Pitágoras é considerado um dos primeiros cientistas do mundo."
+},
+{
+    "id": 476,
+    "original": "É uma figura extremamente importante no desenvolvimento da Matemática, embora muito do registro do seu trabalho tenha se perdido através do tempo.\n",
+    "simplified": "A Matemática é extremamente importante, mas o histórico do seu desenvolvimento foi perdido ao longo do tempo."
+}]

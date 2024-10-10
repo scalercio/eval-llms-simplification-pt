@@ -1,0 +1,3031 @@
+[
+{
+    "id": 1,
+    "original": "Para hoje e amanhã são esperados o ator americano Leonardo di Caprio, a ativista Bianca Jagger (ex-mulher do vocalista dos Rolling Stones, Mick Jagger) e o Prêmio Nobel da Paz Al Gore.\n",
+    "simplified": "Frase Simples: Esperam-se hoje e amanhã o ator Leonardo DiCaprio, a ativista Bianca Jagger, ex-mulher de Mick Jagger, e o Prêmio Nobel da Paz Al Gore."
+},
+{
+    "id": 2,
+    "original": "No centro do método está um gene humano descoberto recentemente, o UCP-3, cujos mecanismos de ação ainda não são totalmente conhecidos.\n",
+    "simplified": "A base do método é um gene humano chamado UCP-3, que foi descoberto recentemente e ainda não se entende completamente como ele funciona."
+},
+{
+    "id": 3,
+    "original": "A idéia foi lançada pelo ministro Roberto Amaral (Ciência e Tecnologia) e detalhada ontem durante a abertura do 1º Congresso Internacional de Biodiesel, realizado em Ribeirão Preto e promovido pela USP (Universidade de São Paulo) da cidade.\n",
+    "simplified": "A ideia começou com o ministro Roberto Amaral (Ciência e Tecnologia) e foi explicada detalhadamente ontem no início do 1o Congresso Internacional de Biodiesel, que aconteceu em Ribeirão Preto e foi organizado pela USP (Universidade de São Paulo) da região."
+},
+{
+    "id": 4,
+    "original": "-- O fórum retrata a diversidade da comunidade de software livre, onde todos os grupos, projetos e iniciativas têm espaço.\n",
+    "simplified": "O fórum mostra a diversidade da comunidade de software livre, com espaço para todos os grupos, projetos e iniciativas."
+},
+{
+    "id": 5,
+    "original": "O trabalho do Estado agora é restringir ao máximo o número de pessoas atingidas -- disse Terra.\n",
+    "simplified": "Agora, o Estado deve diminuir ao máximo o número de pessoas afetadas, afirmou Terra."
+},
+{
+    "id": 6,
+    "original": "Também verificaram se havia uma correlação entre a presença de fósseis de ratos-toupeira, um grupo de roedores adaptados a comer Usos, e os fósseis de hominídeos em sítios africanos.\n",
+    "simplified": "Verificaram também se havia uma relação entre os fósseis de ratos-toupeira, roedores que se alimentam de Usos, e os fósseis de hominídeos em locais da África."
+},
+{
+    "id": 7,
+    "original": "A mãe entrou em pânico e saiu da casa.\n",
+    "simplified": "A mãe saiu correndo da casa, apavorada."
+},
+{
+    "id": 8,
+    "original": "-- Mesmo que a poliomielite não exista no Brasil há mais de 10 anos, países da África e Ásia ainda têm o vírus, o que faz da vacina uma prevenção importante -- afirma a enfermeira Maria Aparecida Müller Vilarino, coordenadora do núcleo de imunizações da Secretaria Municipal da Saúde.\n",
+    "simplified": "Mesmo que a poliomielite não esteja presente no Brasil há mais de uma década, em países da África e Ásia o vírus ainda circula, tornando a vacinação uma medida de prevenção essencial, segundo a enfermeira Maria Aparecida Müller Vilarino, que é responsável pelas imunizações na Secretaria Municipal da Saúde."
+},
+{
+    "id": 9,
+    "original": "Ontem à tarde, equipes técnicas trabalhavam para montagem da agenda com os nomes dos estabelecimentos a serem visitados.\n",
+    "simplified": "Técnicos trabalharam ontem à tarde para montar a lista dos estabelecimentos que seriam visitados."
+},
+{
+    "id": 10,
+    "original": "Como os fungos ajudam a reciclar nutrientes, têm um importante papel na manutenção da saúde dos ecossistemas, outra razão para usá-los como indicadores.\n",
+    "simplified": "Fungos reciclam nutrientes, mantendo a saúde dos ecossistemas, o que torna sua utilização como indicadores valiosa."
+},
+{
+    "id": 11,
+    "original": "Casal de Rondinha está plantando mudas de árvores para garantir ao filho um espaço verde no futuro.\n",
+    "simplified": "O casal de Rondinha está plantando árvores para que o filho tenha um espaço verde no futuro."
+},
+{
+    "id": 12,
+    "original": "Dessa forma, será possível avistar apenas um pequeno disco negro projetado sobre o Sol.\n",
+    "simplified": "Dessa forma, só será possível ver um pequeno disco negro sobre o Sol."
+},
+{
+    "id": 13,
+    "original": "O projeto demorou porque precisávamos definir quais peças substituiriam as destruídas -- explica o secretário da Coordenação Política e Governança Local, Cézar Busatto.\n",
+    "simplified": "O projeto atrasou porque precisávamos escolher peças para substituir as que foram destruídas, disse Cézar Busatto, secretário da Coordenação Política e Governança Local."
+},
+{
+    "id": 14,
+    "original": "Caso ocorram incidentes comuns, como o engarrafamento de camelos, não se preocupe:\n",
+    "simplified": "Se houver problemas frequentes, como trânsito de camelos, não se preocupe:"
+},
+{
+    "id": 15,
+    "original": "O Discovery precisa de reparos antes de voltar para casa.\n",
+    "simplified": "O Discovery precisa ser consertado antes de retornar."
+},
+{
+    "id": 16,
+    "original": "Com Enrico Caruso, Maria Callas e Pavarotti, de novo a ópera se tornou algo pertencente ao mundo da cultura.\n",
+    "simplified": "Com cantores como Enrico Caruso, Maria Callas e Pavarotti, a ópera voltou a ser parte importante da cultura mundial."
+},
+{
+    "id": 17,
+    "original": "Estimativas anteriores sugeriam que um evento desses ocorresse em média a cada 200 ou 300 anos.\n",
+    "simplified": "Estimativas anteriores indicavam que tal evento acontecia em média a cada dois ou três séculos."
+},
+{
+    "id": 18,
+    "original": "E o de mortes, de 58 mil.\n",
+    "simplified": "E a quantidade de mortes, de 58 mil."
+},
+{
+    "id": 19,
+    "original": "A intenção de todos é que os relatos orais, que convenceram até os familiares de Saint-Exupéry, continuem a perpetuar por meio das palavras ditas a verdade de uma época distante.\n",
+    "simplified": "A intenção de todos é que os relatos orais, que convenceram até os familiares de Saint-Exupéry, continuem a perpetuar por meio das palavras ditas a verdade de uma época distante.\n\nFrase Simples:\nEspera-se que os relatos orais, que até os familiares de Saint-Exupéry aceitaram, continuem a preservar a verdade de um tempo passado."
+},
+{
+    "id": 20,
+    "original": "Porém, ninguém pode subestimar a capacidade de mobilização de Chávez.\n",
+    "simplified": "Contudo, não se deve subestimar a habilidade de Chávez em mobilizar."
+},
+{
+    "id": 21,
+    "original": "Domodilo Pedro Scherer, natural de Cerro Largo, foi escolhido pelo papa Bento XVI como um dos 23 novos \"príncipes da Igreja\".\n",
+    "simplified": "Domodilo Pedro Scherer, que nasceu em Cerro Largo, foi nomeado cardeal pelo papa Bento XVI, um dos 23 novos \"príncipes da Igreja\"."
+},
+{
+    "id": 22,
+    "original": "Para evitar a ação dos vândalos, foi erguida uma grade no entorno.\n",
+    "simplified": "Para evitar a ação dos vândalos, colocaram uma grade ao redor."
+},
+{
+    "id": 23,
+    "original": "O primeiro grupo causava uma forma de infecção letal, matando os camundongos, e o segundo provocava apenas problemas respiratórios como sintomas.\n",
+    "simplified": "O primeiro grupo levava à morte dos camundongos, enquanto o segundo apenas causava problemas respiratórios."
+},
+{
+    "id": 24,
+    "original": "A manifestação, que distribuiu folhetos com dicas de como deixar o profissional protegido dos animais, ocorreu 11 dias depois de dois pitbulls morderem os braços, as pernas e o abdômen de Luis Daniel Braga.\n",
+    "simplified": "A manifestação aconteceu 11 dias após dois pitbulls morderem Luis Daniel Braga nos braços, pernas e abdômen, e distribuiu folhetos com dicas para proteger os profissionais de ataques de animais."
+},
+{
+    "id": 25,
+    "original": "Parar de tomar o coquetel de medicamentos contra o vírus causador da Aids não é necessariamente algo ruim, contanto que o paciente siga as instruções do médico e não se aventure a interromper o tratamento sozinho.\n",
+    "simplified": "Não é ruim parar de tomar os medicamentos contra o vírus da Aids, desde que o paciente siga as orientações do médico e não pare o tratamento por conta própria."
+},
+{
+    "id": 26,
+    "original": "Hossne citou o estudo de Tuskegee (EUA), em que negros com sífilis não foram tratados por 40 anos para que a evolução da doença fosse estudada.\n",
+    "simplified": "Hossne mencionou o estudo de Tuskegee nos EUA, onde negros com sífilis não foram tratados por 40 anos para estudar como a doença progredia."
+},
+{
+    "id": 27,
+    "original": "À direita, uma pequena janela rotatória com a inscrição:\n",
+    "simplified": "Frase simples: Uma pequena janela giratória na direita com a inscrição:"
+},
+{
+    "id": 28,
+    "original": "Uma arena suspensa, com estacionamento subterrâneo e capacidade entre 45 e 50 mil espectadores.\n",
+    "simplified": "Uma arena suspensa com estacionamento abaixo e capacidade de 45 a 50 mil pessoas."
+},
+{
+    "id": 29,
+    "original": "Mesmo que você já tenha o software instalado em seu computador -- que é gratuito e está disponível em português, será preciso baixar da Internet essa última versão.\n",
+    "simplified": "Mesmo que você já tenha o software gratuito em português instalado no seu computador, será necessário baixar a última versão da Internet."
+},
+{
+    "id": 30,
+    "original": "Por sorte, novas respostas agora vêm ao resgate.\n",
+    "simplified": "Felizmente, há novas soluções surgindo para ajudar."
+},
+{
+    "id": 31,
+    "original": "Segundo o Ibama, nas propriedades multadas, houve desmatamento nas margens do rio, com a finalidade de abrir espaço à agricultura ou à criação de gado.\n",
+    "simplified": "De acordo com o Ibama, os fazendeiros desmataram as margens do rio para plantar ou criar gado, o que gerou multas."
+},
+{
+    "id": 32,
+    "original": "Ele está sendo testado na análise de polímeros (longas cadeias de uma mesma molécula) e, dentro de seis meses, deverá ser usado rotineiramente com proteínas.\n",
+    "simplified": "Ele está sendo avaliado para análise de polímeros e, em seis meses, será usado regularmente para proteínas."
+},
+{
+    "id": 33,
+    "original": "Os paleoantropólogos, porém, reuniram uma série de indícios no mínimo intrigantes, que podem começar a corroborar a idéia.\n",
+    "simplified": "Paleoantropólogos reuniram indícios intrigantes que podem apoiar essa ideia."
+},
+{
+    "id": 34,
+    "original": "Então surgiu mais uma preocupação:\n",
+    "simplified": "Surgiu mais uma preocupação adicional."
+},
+{
+    "id": 35,
+    "original": "O trabalho de Someya e seus colegas está publicado na última edição da revista da Academia de Ciências dos EUA, a \"PNAS\" (www.pnas.org).\n",
+    "simplified": "Someya e seus colegas publicaram seu trabalho na edição mais recente da revista \"PNAS\" dos EUA."
+},
+{
+    "id": 36,
+    "original": "Sem trabalho é impossível sair da rua.\n",
+    "simplified": "Sem emprego, não dá para sair da situação de rua."
+},
+{
+    "id": 37,
+    "original": "Isso acontece, segundo os cientistas, porque as substâncias liberam os chamados radicais livres, átomos isolados de oxigênio, que são um verdadeiro veneno para o organismo.\n",
+    "simplified": "Os cientistas dizem que isso ocorre devido à liberação de radicais livres, átomos de oxigênio isolados que prejudicam o corpo."
+},
+{
+    "id": 38,
+    "original": "Os estudos são bancados pela Fapesp (Fundação de Amparo à Pesquisa do Estado de São Paulo) e pelo CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico).\n",
+    "simplified": "A pesquisa é financiada pela Fapesp e pelo CNPq."
+},
+{
+    "id": 39,
+    "original": "Se for necessário, o encaminharemos para tratamento, mas se ele estiver bem voltará ao trabalho normalmente -- explicou o tenente-coronel.\n",
+    "simplified": "Se necessário, será encaminhado para tratamento; se estiver bem, volta ao trabalho -- explicou o tenente-coronel."
+},
+{
+    "id": 40,
+    "original": "Falta de trabalho dificulta troca da rua por abrigo.\n",
+    "simplified": "Dificuldades em conseguir trabalho tornam a mudança da rua para um abrigo mais complicada."
+},
+{
+    "id": 41,
+    "original": "Na área anexa, uma esplanada para circulação de torcedores, com rampas que levam ao interior do estádio e três torres que abrigarão centro de convenções, hotel e prédio comercial.\n",
+    "simplified": "Próximo ao estádio, há uma área para torcedores com acesso por rampas e três torres que incluem centro de convenções, hotel e prédio comercial."
+},
+{
+    "id": 42,
+    "original": "Se eles estivessem na natureza, iriam se proteger em árvores ocas ou folhas, mas, aqui, cabe a nós darmos a proteção -- acrescenta Giacomini.\n",
+    "simplified": "Se eles estivessem na natureza, se protegeriam em árvores ocas ou entre folhas, mas aqui somos nós que precisamos protegê-los, diz Giacomini."
+},
+{
+    "id": 43,
+    "original": "Assim, a semana mais turbulenta do ano fechou em recuperação para os investidores.\n",
+    "simplified": "A semana mais agitada do ano terminou com uma melhora para os investidores."
+},
+{
+    "id": 44,
+    "original": "Quando ouviu seu nome, não sabia se abraçava Derly ou se recebia a faixa.\n",
+    "simplified": "Ao ouvir seu nome, ele estava em dúvida entre abraçar Derly e receber a faixa."
+},
+{
+    "id": 45,
+    "original": "A casa prisional exibe números nada elogiáveis:\n",
+    "simplified": "A cadeia mostra estatísticas que não são nada positivas."
+},
+{
+    "id": 46,
+    "original": "Ataques são raridade.\n",
+    "simplified": "Ataques acontecem com pouca frequência."
+},
+{
+    "id": 47,
+    "original": "A inconsistência climática abre espaço para conjecturas sobre o papel do aquecimento global na atmosfera gaúcha.\n",
+    "simplified": "A variação do clima alimenta debates sobre como o aquecimento global afeta o clima do Rio Grande do Sul."
+},
+{
+    "id": 48,
+    "original": "As atividades anuais acabam dificultando a integração de mais pessoas.\n",
+    "simplified": "As atividades anuais tornam mais complicado integrar mais pessoas."
+},
+{
+    "id": 49,
+    "original": "E ainda para que funcionários públicos não fossem deslocados de função preparando pratos para serem vendidos no bar.\n",
+    "simplified": "Para evitar que funcionários públicos fossem deslocados para preparar pratos vendidos no bar."
+},
+{
+    "id": 50,
+    "original": "A estação agora opera pela primeira vez em três anos com todos os seus quatro giroscópios funcionando.\n",
+    "simplified": "Agora a estação está operando pela primeira vez em três anos com todos os quatro giroscópios funcionando."
+},
+{
+    "id": 51,
+    "original": "A comunidade conseguiu que a Câmara local transformasse a região em Área de Preservação Ambiental (APA), em lei aprovada em junho de 2005.\n",
+    "simplified": "A comunidade local conseguiu aprovar uma lei em junho de 2005 que transformou a região em Área de Preservação Ambiental (APA)."
+},
+{
+    "id": 52,
+    "original": "Tudo para ter o bicho nas areias gaúchas.\n",
+    "simplified": "A vontade de ter um animal nas areias do Rio Grande do Sul."
+},
+{
+    "id": 53,
+    "original": "Além do deputado, a indicação da OAB tem os nomes dos advogados Edezio Henrique Waltrick Caon, Humberto Pradi, Marcus Antônio Luiz da Silva, Oswaldo José Pedreira Horn e Valmir Pamplona Pinheiro.\n",
+    "simplified": "Além do deputado, a OAB indicou os advogados Edezio Henrique Waltrick Caon, Humberto Pradi, Marcus Antônio Luiz da Silva, Oswaldo José Pedreira Horn e Valmir Pamplona Pinheiro."
+},
+{
+    "id": 54,
+    "original": "Depois de seis sessões seguidas em queda, a Bolsa de São Paulo (Bovespa) voltou ontem a apresentar resultado positivo.\n",
+    "simplified": "Depois de cair por seis dias consecutivos, a Bolsa de São Paulo (Bovespa) subiu novamente ontem."
+},
+{
+    "id": 55,
+    "original": "Eles é que emitem luz, que aparentemente pode vir tanto da parte inferior do chapéu quanto do \"cabo\" ou do cogumelo inteiro.\n",
+    "simplified": "Eles é que emitem luz, que pode vir da parte inferior do chapéu ou do cogumelo inteiro."
+},
+{
+    "id": 56,
+    "original": "Pois desafiei Yves a olhar em volta e procurar alguma pessoa que fosse igual a outra.\n",
+    "simplified": "Frase Simples: Encorajei Yves a olhar em volta e notar que ninguém é igual a outro."
+},
+{
+    "id": 57,
+    "original": "Colada à centenária parede do Mosteiro da Luz, a fila não é longa.\n",
+    "simplified": "A fila junto à antiga parede do Mosteiro da Luz não é extensa."
+},
+{
+    "id": 58,
+    "original": "O ensurdecedor tráfego de São Paulo, a poluição, o corre-corre do Centro parecem não ultrapassar suas paredes.\n",
+    "simplified": "Parece que o barulho do tráfego, a poluição e o agito do Centro de São Paulo não passam por suas paredes."
+},
+{
+    "id": 59,
+    "original": "Um tratamento para a obesidade que faz você comer mais, perder peso e reduzir a taxa de gordura do corpo é o que sugere um estudo britânico publicado hoje na revista científica \"Nature\".\n",
+    "simplified": "Um estudo britânico publicado hoje na revista \"Nature\" sugere um tratamento para obesidade que permite comer mais, perder peso e diminuir a gordura do corpo."
+},
+{
+    "id": 60,
+    "original": "Um homem de 48 anos que viajou recentemente à China.\n",
+    "simplified": "Um homem de 48 anos que veio da China recentemente."
+},
+{
+    "id": 61,
+    "original": "Inquietam-se, mesmo assim, com os efeitos da crise no seu maior cliente, os Estados Unidos.\n",
+    "simplified": "Mesmo assim, eles estão preocupados com os efeitos da crise no seu maior cliente, os Estados Unidos."
+},
+{
+    "id": 62,
+    "original": "Foi conduzida então uma caminhada espacial para retirada das duas tiras.\n",
+    "simplified": "Uma caminhada espacial foi realizada para remover as duas tiras."
+},
+{
+    "id": 63,
+    "original": "O segundo está mais debilitado.\n",
+    "simplified": "O segundo está mais enfraquecido."
+},
+{
+    "id": 64,
+    "original": "Os resultados estão na edição de hoje da revista \"Science\" (www.sciencemag.org).\n",
+    "simplified": "A edição de hoje da revista \"Science\" apresenta os resultados."
+},
+{
+    "id": 65,
+    "original": "O secretário estimou que a clonagem pode ser o destino de até 40% dos veículos roubados.\n",
+    "simplified": "O secretário acredita que até 40% dos carros roubados podem ser usados para clonagem."
+},
+{
+    "id": 66,
+    "original": "Para despistar a imprensa, a assessoria divulgou um falso cronograma para a viagem a Sydney, na Austrália.\n",
+    "simplified": "A assessoria inventou um cronograma falso da viagem a Sydney para enganar a imprensa."
+},
+{
+    "id": 67,
+    "original": "Segundo o pesquisador, os contatos via redes de computadores estão na verdade ampliando a socialização das pessoas.\n",
+    "simplified": "A socialização das pessoas está aumentando com os contatos por meio de redes de computadores, de acordo com o pesquisador."
+},
+{
+    "id": 68,
+    "original": "A obra pode levar dois anos para ser concluída.\n",
+    "simplified": "A construção demora cerca de dois anos para ficar pronta."
+},
+{
+    "id": 69,
+    "original": "Segundo Terra, cerca da metade teve o primeiro teste com resultado sugestivo à doença -- com indicação de uma substância reagente à dengue.\n",
+    "simplified": "Segundo Terra, metade dos testes teve resultado sugestivo de dengue, mostrando uma substância reagente à doença."
+},
+{
+    "id": 70,
+    "original": "A longo, longuíssimo prazo, poderá surgir uma pele biônica, que poderia tanto ser aplicada a robôs com formas humanas quanto ser utilizada em pessoas de verdade.\n",
+    "simplified": "No futuro, talvez uma pele biônica seja desenvolvida, útil tanto para robôs com aparência humana quanto para seres humanos reais."
+},
+{
+    "id": 71,
+    "original": "Mas, com o carro em movimento, o uso desses aparelhos só é permitido para quem está nos bancos traseiros, completa.\n",
+    "simplified": "Mas, enquanto o carro está andando, só quem está nos bancos de trás pode usar esses dispositivos."
+},
+{
+    "id": 72,
+    "original": "O calendário judeu vira mais uma página no fim da tarde de hoje, com a chegada do ano 5768.\n",
+    "simplified": "Hoje à tarde, o calendário judaico dá mais um passo com a chegada do ano 5768."
+},
+{
+    "id": 73,
+    "original": "A rapidez da disseminação dos cachorros com seus donos humanos indica que eles deviam ser particularmente úteis aos primitivos caçadores-coletores.\n",
+    "simplified": "A rapidez com que os cães se espalharam com os humanos sugere que eram muito úteis para os caçadores-coletores primitivos."
+},
+{
+    "id": 74,
+    "original": "A idéia dos médicos foi então incitar, ao menos temporariamente, uma guerra entre as versões fracas do vírus, que estavam sucumbindo ao tratamento, e as versões resistentes, cada vez em maior número no organismo.\n",
+    "simplified": "A ideia dos médicos foi incentivar uma luta temporária entre formas fracas do vírus, que estavam sendo vencidas pelo tratamento, e formas resistentes, que estavam aumentando no corpo."
+},
+{
+    "id": 75,
+    "original": "E, de fato, o azar é todo das formigas, porque essas aranhas, ao chegarem ao formigueiro, se alimentam dos ovos e do trabalho das trabalhadoras desavisadas.\n",
+    "simplified": "E, de fato, as formigas são azaradas porque essas aranhas chegam ao formigueiro, comem ovos e usam o trabalho das formigas trabalhadoras."
+},
+{
+    "id": 76,
+    "original": "É muito mais barato do que adotar outra medida preventiva -- avalia Arns.\n",
+    "simplified": "Arns considera que é mais econômico do que outras medidas preventivas."
+},
+{
+    "id": 77,
+    "original": "Os aposentos privativos onde Bento XVI estará acomodado de hoje a sexta-feira.\n",
+    "simplified": "O local onde Bento XVI ficará hospedado de hoje até sexta-feira é um quarto particular."
+},
+{
+    "id": 78,
+    "original": "No espaço reservado à Associação Software Livre Argentina (Solar), os computadores portáteis eram usados também para ouvir música.\n",
+    "simplified": "No espaço dedicado à Solar, as pessoas usavam os notebooks não só para trabalho, mas também para ouvir músicas."
+},
+{
+    "id": 79,
+    "original": "Vitoriosa, que tem 15 dias, é a terceira tentativa do órgão de criar um clone a partir de outro.\n",
+    "simplified": "A Vitoriosa, com 15 dias de vida, é a terceira tentativa do órgão de criar um clone de outro animal."
+},
+{
+    "id": 80,
+    "original": "E todos esses bichos com o nome científico Canis Familiaris descendem do lobo, o Canis Lupus.\n",
+    "simplified": "Todos os cachorros, chamados cientificamente de Canis Familiaris, vieram do lobo, que é chamado Canis Lupus."
+},
+{
+    "id": 81,
+    "original": "O evento conta com participação oficial de 58 cidades brasileiras.\n",
+    "simplified": "O evento tem a presença de 58 cidades brasileiras."
+},
+{
+    "id": 82,
+    "original": "O novo representante dos advogados na mais alta corte do Estado sairá entre os três nomes definidos na votação de hoje.\n",
+    "simplified": "O novo representante dos advogados na corte mais alta do Estado será escolhido entre os três nomes votados hoje."
+},
+{
+    "id": 83,
+    "original": "Constrangidos, alguns jornalistas sorriem.\n",
+    "simplified": "Alguns jornalistas, constrangidos, sorriem."
+},
+{
+    "id": 84,
+    "original": "Para Rodrigues, a cria coloca a genética do país em destaque no cenário mundial.\n",
+    "simplified": "A criação de animais de Rodrigues evidencia a genética do país no mundo."
+},
+{
+    "id": 85,
+    "original": "Este não é o primeiro caso em que um pichador é conduzido ao Presídio Central.\n",
+    "simplified": "Esta não é a primeira vez que um pichador vai para o Presídio Central."
+},
+{
+    "id": 86,
+    "original": "A relação espúria começa no abdome da aranha, onde a Hymenoepimecis injeta os ovos.\n",
+    "simplified": "A relação espúria começa quando a Hymenoepimecis injeta os ovos no abdome da aranha."
+},
+{
+    "id": 87,
+    "original": "Entre 1978 e 2005, seus anos de papado, esteve no país em 1980, 1982, 1991 e 1997.\n",
+    "simplified": "Frase Simples: Durante seu papado entre 1978 e 2005, ele visitou o país em 1980, 1982, 1991 e 1997."
+},
+{
+    "id": 88,
+    "original": "Não esperavam que, em novembro de 2007, quando a primeira geração nascida sem o muro de Berlim se tornasse adulta, houvesse cidades no Leste com desemprego de 21,6%.\n",
+    "simplified": "Esperava-se que, com a primeira geração nascida sem o muro de Berlim atingindo a idade adulta em novembro de 2007, o desemprego em cidades do Leste não chegasse a 21,6%."
+},
+{
+    "id": 89,
+    "original": "Em oito anos, detectamos mais de 300 eventos, graças ao nosso sistema de calibragem dos dados de satélite, conta Douglas Revelle, do Laboratório Nacional de Los Alamos, um dos autores do estudo, que está publicado na edição de hoje da revista britânica \"Nature\" (www.nature.com).\n",
+    "simplified": "Em oito anos, detectamos mais de 300 eventos usando nosso sistema de calibragem de dados de satélite, diz Douglas Revelle do Laboratório Nacional de Los Alamos, um dos autores do estudo publicado na revista \"Nature\" hoje."
+},
+{
+    "id": 90,
+    "original": "Cerca de 70 carteiros da zona norte de Porto Alegre saíram mais cedo de casa, na manhã de ontem, para protestar contra o ataque de cães durante o exercício das atividades.\n",
+    "simplified": "Cerca de 70 carteiros da zona norte de Porto Alegre protestaram contra ataques de cães ocorridos enquanto entregavam correspondências."
+},
+{
+    "id": 91,
+    "original": "O satélite, com massa total de aproximadamente 1,4 tonelada, foi construído pelos italianos, em colaboração com a Holanda, para o estudo dos raios X vindos do espaço cósmico.\n",
+    "simplified": "O satélite, pesando cerca de 1,4 toneladas, foi construído pelos italianos em parceria com a Holanda para estudar os raios X do espaço."
+},
+{
+    "id": 92,
+    "original": "Enquanto os bombeiros eram acionados, dezenas de curiosos discutiam o que fazer para livrar o cavalo dos insetos.\n",
+    "simplified": "Enquanto os bombeiros chegavam, várias pessoas debatiam como ajudar o cavalo a se livrar dos insetos."
+},
+{
+    "id": 93,
+    "original": "-- Inicialmente, esse seria o presente de aniversário do Pampas, mas como choveu praticamente todo o mês, as obras atrasaram -- explica.\n",
+    "simplified": "A obra atrasou devido à chuva constante durante o mês, que impediu a conclusão do presente de aniversário do Pampas, explica."
+},
+{
+    "id": 94,
+    "original": "Não adianta muito tentar neutralizá-lo depois que o tecido já foi alterado , diz.\n",
+    "simplified": "Não adianta tentar consertar o tecido depois que ele já foi estragado, diz."
+},
+{
+    "id": 95,
+    "original": "Entre as 13 entidades estão também a Sociedade Brasileira de Genética e a Sociedade Brasileira de Microbiologia.\n",
+    "simplified": "As entidades incluem a Sociedade Brasileira de Genética e a Sociedade Brasileira de Microbiologia, além das outras 13 mencionadas."
+},
+{
+    "id": 96,
+    "original": "O avanço em matemática teve como contrapartida um forte declínio no desempenho em leitura.\n",
+    "simplified": "Melhorar em matemática resultou em uma queda no desempenho em leitura."
+},
+{
+    "id": 97,
+    "original": "A tecnologia difere do biodiesel utilizado em outras partes do mundo, que usa o metanol, um derivado do petróleo.\n",
+    "simplified": "O biodiesel usado em outras regiões é feito com metanol, que vem do petróleo, diferente da tecnologia local."
+},
+{
+    "id": 98,
+    "original": "Dopada, ela passa a repetir um único padrão de teia, em vez de tecê-lo no formato circular tradicional.\n",
+    "simplified": "Sob o efeito de uma substância, ela começa a tecer uma teia em um único padrão repetitivo, ao invés do formato circular comum."
+},
+{
+    "id": 99,
+    "original": "Ela surgiu a partir de células isoladas de um pedaço de pele retirado da orelha da vaca Vitória, que foi o primeiro clone bovino da América Latina, nascida em 2001.\n",
+    "simplified": "Ela foi criada a partir de células de uma amostra de pele da orelha da vaca Vitória, que foi o primeiro clone bovino da América Latina, nascido em 2001."
+},
+{
+    "id": 100,
+    "original": "Eles usaram um fino filme plástico como base para uma série de circuitos eletrônicos baseados em estruturas de material orgânico.\n",
+    "simplified": "Eles criaram circuitos eletrônicos com estruturas de material orgânico em um filme plástico fino."
+},
+{
+    "id": 101,
+    "original": "O difícil é arriscar palpites para o resultado do referendo, especialmente porque o voto não é obrigatório, e a abstenção pode ser o fiel da balança.\n",
+    "simplified": "Fazer previsões sobre o resultado do referendo é difícil porque o voto não é obrigatório e a taxa de abstenção pode definir o resultado."
+},
+{
+    "id": 102,
+    "original": "580; quando o número de presos no local atingir esses três dígitos, será totalmente proibido o ingresso de novos apenados.\n",
+    "simplified": "A entrada de novos prisioneiros será proibida se o número de detentos chegar a 580."
+},
+{
+    "id": 103,
+    "original": "Em curtos percursos, ele acredita que o ideal são ciclovias e microônibus.\n",
+    "simplified": "Ele acha que para distâncias curtas, o melhor são ciclovias e microônibus."
+},
+{
+    "id": 104,
+    "original": "A posse ocorrerá em 24 de novembro.\n",
+    "simplified": "A posse será em 24 de novembro."
+},
+{
+    "id": 105,
+    "original": "Como boa parte das massas passam com o centro pelo oceano ou pelos países vizinhos, a altitude da Serra é determinante para que a região registre as menores temperaturas.\n",
+    "simplified": "A Serra é decisiva para a região registrar temperaturas mais baixas, porque a maior parte das massas de ar passa pelo oceano ou países vizinhos."
+},
+{
+    "id": 106,
+    "original": "O debate surgiu após estudos em Ruanda e na Tailândia, em que cientistas deram a grávidas com HIV um regime de AZT mais breve do que o recomendado.\n",
+    "simplified": "Depois de estudos em Ruanda e na Tailândia, onde cientistas deram a grávidas com HIV um tratamento mais curto com AZT do que o normal, surgiu um debate."
+},
+{
+    "id": 107,
+    "original": "Quando ele se esgota, a estrela, se for grande o suficiente, entra em colapso.\n",
+    "simplified": "Quando a estrela não tem mais energia, se for grande o suficiente, ela desmorona."
+},
+{
+    "id": 108,
+    "original": "O mecanismo que faz as pessoas sentirem falta de ar em regiões montanhosas ou depois de uma corrida está fortemente ligado a gases da família do óxido nítrico, de acordo com estudo publicado na última edição da revista \"Nature\" (www.nature.com).\n",
+    "simplified": "As pessoas sentem falta de ar em regiões montanhosas ou após corridas devido à ligação forte com gases da família do óxido nítrico, conforme um estudo na revista \"Nature\"."
+},
+{
+    "id": 109,
+    "original": "O relatório também apontou um risco que ronda o procedimento:\n",
+    "simplified": "O relatório alertou para um risco associado ao procedimento."
+},
+{
+    "id": 110,
+    "original": "Estimativas da agência davam conta de que mais de 40 pedaços, com até 120 kg, poderiam resistir ao atrito com o ar e chegar ao solo.\n",
+    "simplified": "Segundo a agência, mais de 40 pedaços grandes poderiam sobreviver à queda e atingir o solo."
+},
+{
+    "id": 111,
+    "original": "Se é um buraco negro, de onde nem a luz escapa, como os astrônomos conseguem vê-lo para estudá-lo?\n",
+    "simplified": "Como os astrônomos podem estudar buracos negros se nem mesmo a luz escapa deles?"
+},
+{
+    "id": 112,
+    "original": "Marcelo tejedor, paleontólogo da Universidade Nacional da Patagônia, esboça um sorriso meio sem graça quando lhe perguntam se não é uma situação frustrante.\n",
+    "simplified": "Marcelo Tejedor, paleontólogo da Universidade Nacional da Patagônia, sorri de maneira constrangida quando perguntam se ele não se sente frustrado."
+},
+{
+    "id": 113,
+    "original": "Nos últimos dias, a notificação de casos de psitacose, doença provocada por vírus transmitido pelas caturritas, colocou as autoridades em alerta no estado.\n",
+    "simplified": "Nos últimos dias, o aumento de casos de psitacose, doença causada por vírus que as caturritas transmitem, fez com que as autoridades do estado ficassem em alerta."
+},
+{
+    "id": 114,
+    "original": "A manobra é arriscada, pois, para dar certo, o Executivo precisa ter a segurança de contar com votos no plenário para aprovar a renovação da contribuição.\n",
+    "simplified": "Para a manobra funcionar, o Executivo precisa ter certeza de que terá votos suficientes no plenário para aprovar a renovação da contribuição."
+},
+{
+    "id": 115,
+    "original": "Memória restaurada.\n",
+    "simplified": "Simples: A memória foi restaurada."
+},
+{
+    "id": 116,
+    "original": "Delegados finalizam texto sobre metas de emissão de gases.\n",
+    "simplified": "Delegados concluem acordo sobre redução de gases poluentes."
+},
+{
+    "id": 117,
+    "original": "Quem não lembra de \"Você se torna eternamente responsável por aquilo que cativas\" ou \"Eis o meu segredo\".\n",
+    "simplified": "Quem não se recorda de \"Você se torna eternamente responsável por aquilo que cativas\" e \"Eis o meu segredo\"?"
+},
+{
+    "id": 118,
+    "original": "O próprio carro de Simões tem o aparelho.\n",
+    "simplified": "O carro de Simões possui o aparelho."
+},
+{
+    "id": 119,
+    "original": "Nos últimos dias, duas mega passeatas mostraram a distância que separa os chavistas dos opositores ao regime.\n",
+    "simplified": "As duas grandes marchas recentes demonstraram a distância entre os apoiadores de Chávez e os que se opõem ao regime."
+},
+{
+    "id": 120,
+    "original": "Us$ 50 mil da concepção à construção.\n",
+    "simplified": "Frase simples: De concepção até construção, foram gastos US$ 50 mil."
+},
+{
+    "id": 121,
+    "original": "A escola pleiteia junto ao governo do Estado um policial residente, experiência que já havia dado certo até o vigilante deixar a escola, em 2006.\n",
+    "simplified": "A escola pede ao governo do Estado um policial que more na escola, como antes de 2006, quando um vigilante morava lá e ajudou."
+},
+{
+    "id": 122,
+    "original": "Mas faz uma ressalva:\n",
+    "simplified": "Frase complexa: Mas faz uma ressalva:\n\nFrase simples: No entanto, há um ponto a considerar:"
+},
+{
+    "id": 123,
+    "original": "Segundo o Sindicato do Comércio Varejista de Combustíveis e Lubrificantes do Estado (Sulpetro), a redução de três pontos percentuais no tributo seria responsável por um recuo de até R$ 0,11 no preço de bomba, caso o álcool anidro não tivesse sido reajustado em 13% no final do ano passado.\n",
+    "simplified": "Segundo o Sulpetro, a redução de três pontos percentuais no imposto diminuiria o preço do combustível em até R$ 0,11 na bomba, se o álcool anidro não tivesse aumentado 13% no fim do ano passado."
+},
+{
+    "id": 124,
+    "original": "O equipamento foi lançado ao espaço em 1996, numa órbita baixa (cerca de 600 km de altitude) com uma pequena inclinação, ou seja, quase exatamente sobre a linha do Equador.\n",
+    "simplified": "O equipamento foi lançado ao espaço em 1996, numa órbita baixa, a cerca de 600 km de altitude, e perto da linha do Equador."
+},
+{
+    "id": 125,
+    "original": "Eles moram em Cascavel (PR).\n",
+    "simplified": "Eles residem em Cascavel, no Paraná."
+},
+{
+    "id": 126,
+    "original": "Institutos de pesquisa oscilam entre um empate técnico e uma leve vantagem para a oposição.\n",
+    "simplified": "As pesquisas mostram um resultado muito próximo, com a oposição tendo uma pequena vantagem ou um empate técnico."
+},
+{
+    "id": 127,
+    "original": "-- O fechamento das pontes, isoladamente, vai acabar colocando os moradores de rua nas praças e na frente dos prédios.\n",
+    "simplified": "Se fecharmos as pontes, as pessoas sem-teto ficarão nas praças e diante dos edifícios."
+},
+{
+    "id": 128,
+    "original": "-- O Pequeno Príncipe original era melancólico, com pontos de alegria.\n",
+    "simplified": "A versão original do Pequeno Príncipe era triste com momentos felizes."
+},
+{
+    "id": 129,
+    "original": "Em trajetos longos, os dois costumam jogar seus games preferidos.\n",
+    "simplified": "Em viagens longas, eles geralmente jogam seus jogos favoritos."
+},
+{
+    "id": 130,
+    "original": "A iniciativa nasceu na França, em 1998, em virtude da preocupação com a degradação do ambiente na área urbana.\n",
+    "simplified": "A iniciativa surgiu na França em 1998, preocupada com a degradação do ambiente urbano."
+},
+{
+    "id": 131,
+    "original": "-- Abordando essas questões, com certeza vai ser gerado um conteúdo com um grau de críticas.\n",
+    "simplified": "Se você abordar essas questões, certamente surgirão críticas."
+},
+{
+    "id": 132,
+    "original": "As pessoas que arrancaram o chapéu queriam levar o busto inteiro -- diz Guillen.\n",
+    "simplified": "As pessoas que tiraram o chapéu desejavam levar a estátua inteira -- diz Guillen."
+},
+{
+    "id": 133,
+    "original": "Nele, os pesquisadores mostram que o buraco negro (objeto tão denso que a gravidade impede que a luz escape) do sistema binário conhecido como Cygnus X-1 se formou a partir de uma explosão sutil, reforçando a hipótese de que estrelas muito maciças possam implodir sem antes ejetar suas camadas exteriores.\n",
+    "simplified": "Pesquisadores mostraram que o buraco negro em Cygnus X-1 surgiu de uma explosão suave, apoiando a ideia de que estrelas grandes podem colapsar internamente sem expelir suas camadas externas antes."
+},
+{
+    "id": 134,
+    "original": "No ranking estadual, Cruzaltense ficou em primeiro lugar entre as 106 cidades pesquisadas.\n",
+    "simplified": "Cruzaltense liderou o ranking entre as 106 cidades pesquisadas."
+},
+{
+    "id": 135,
+    "original": "Gaúcho como seu antecessor dom Cláudio Hummes, dom Odilo foi indicado pelo Papa para ser arcebispo de São Paulo em março.\n",
+    "simplified": "Gaúcho como seu predecessor, dom Cláudio Hummes, dom Odilo foi nomeado pelo Papa como arcebispo de São Paulo em março."
+},
+{
+    "id": 136,
+    "original": "-- O lado exótico da África me atrai.\n",
+    "simplified": "A parte exótica da África me encanta."
+},
+{
+    "id": 137,
+    "original": "Os experimentos foram realizados na própria casa, em um quarto ao qual moradores e bichos estavam acostumados.\n",
+    "simplified": "Os testes aconteceram em um quarto da casa, um ambiente já conhecido pelos moradores e animais de estimação."
+},
+{
+    "id": 138,
+    "original": "Novas regras eleitorais dificultam negociação.\n",
+    "simplified": "Novas regras eleitorais complicam negociações."
+},
+{
+    "id": 139,
+    "original": "Irena dos Santos atravessava a Terceira Avenida, esquina com a Rua 2.500, às 8h40 min, quando foi atingida.\n",
+    "simplified": "Irena dos Santos foi atingida enquanto atravessava a Terceira Avenida com a Rua 2.500 às 8h40 da manhã."
+},
+{
+    "id": 140,
+    "original": "-- Parece que o assassinato de civis iraquianos transformou-se em um fenômeno cotidiano e banal -- disse o presidente da Associação Iraquiana dos Direitos Humanos, Muayed al-Anbaki.\n",
+    "simplified": "O presidente da Associação Iraquiana dos Direitos Humanos, Muayed al-Anbaki, disse que matar civis iraquianos virou algo comum e sem importância."
+},
+{
+    "id": 141,
+    "original": "Colegas de mattson também revelaram novas evidências de que o consumo de vitaminas como suplemento alimentar e provenientes de vegetais seria capaz de prevenir o advento da doença, e mesmo de que as estatinas, hoje usadas para o combate ao colesterol na corrente sangüínea, também poderiam evitar o aparecimento do mal de Alzheimer.\n",
+    "simplified": "Colegas de Mattson descobriram que consumir vitaminas, tanto como suplementos quanto em vegetais, pode prevenir a doença de Alzheimer, assim como as estatinas, usadas contra o colesterol, também podem evitar essa doença."
+},
+{
+    "id": 142,
+    "original": "-- Os orientais por vezes carregam o sofrimento dos pais, do desemprego.\n",
+    "simplified": "Orientais às vezes sentem o peso da dor dos pais e da falta de trabalho."
+},
+{
+    "id": 143,
+    "original": "É improvável que a atual massa polar supere esta marca.\n",
+    "simplified": "A atual massa polar provavelmente não ultrapassará este limite."
+},
+{
+    "id": 144,
+    "original": "Nesta época em 2002, candidatos já estavam em campo.\n",
+    "simplified": "Nesta época em 2002, os candidatos já estavam em campanha."
+},
+{
+    "id": 145,
+    "original": "Os corredores normalmente ecoam apenas cantos dos monges beneditinos e os acordes da afinação do órgão.\n",
+    "simplified": "Normalmente, apenas os cantos dos monges beneditinos e os sons do órgão em afinação ecoam nos corredores."
+},
+{
+    "id": 146,
+    "original": "A carreira do tenor, no entanto, vai muito além da popularidade.\n",
+    "simplified": "O tenor tem muito mais a mostrar além de sua popularidade."
+},
+{
+    "id": 147,
+    "original": "Os fabricantes têm duas temporadas de definição de preços:\n",
+    "simplified": "Os fabricantes têm dois períodos em que definem os preços."
+},
+{
+    "id": 148,
+    "original": "No refeitório, cadeira de bronze com estofado em branco.\n",
+    "simplified": "No refeitório, cadeira de bronze com estofado em branco.\n\nFrase Simplificada: Na sala de jantar, uma cadeira de bronze com o assento acolchoado em cor branca."
+},
+{
+    "id": 149,
+    "original": "O procedimento de reparo será conduzido apenas por Robinson, para minimizar risco de novos danos à nave.\n",
+    "simplified": "Robinson será o único a fazer o reparo para evitar novos danos à nave."
+},
+{
+    "id": 150,
+    "original": "Também serão extraídas amostras de rocha e lava das profundezas, que poderão oferecer pistas sobre as condições climáticas na Terra ao longo de milhões de anos.\n",
+    "simplified": "Serão coletadas amostras de rocha e lava do fundo do mar, que podem revelar informações sobre o clima da Terra ao longo de milhões de anos."
+},
+{
+    "id": 151,
+    "original": "O resultado deverá contribuir para o desenvolvimento de tecidos humanos para uso terapêutico, dizem os autores.\n",
+    "simplified": "A pesquisa deve ajudar a criar tecidos humanos para tratamentos médicos, afirmam os autores."
+},
+{
+    "id": 152,
+    "original": "Ele afirmou ainda que o carro trafegava dentro da velocidade máxima permitida, 60 km / h.\n",
+    "simplified": "Ele disse que o carro estava dentro do limite de velocidade de 60 km/h."
+},
+{
+    "id": 153,
+    "original": "Apesar disso, cerca de 400 brasileiros devem desembarcar em Nairóbi nos próximos dias, segundo o Conselho Internacional do Fórum.\n",
+    "simplified": "Mesmo assim, nas próximas semanas, 400 brasileiros devem chegar a Nairóbi, segundo o Conselho Internacional do Fórum."
+},
+{
+    "id": 154,
+    "original": "A estrada que leva à fronteira com o Líbano segue a direção da orla.\n",
+    "simplified": "A estrada para a fronteira com o Líbano acompanha a linha da costa."
+},
+{
+    "id": 155,
+    "original": "Já bichos mais sensíveis, como pequenos primatas e répteis originários de regiões de clima quente, só resistem a temperaturas inferiores aos 12º C com aquecimento artificial, como calefação, lâmpadas e chapas quentes.\n",
+    "simplified": "Animais sensíveis, como pequenos primatas e répteis de climas quentes, precisam de aquecimento artificial para suportar temperaturas abaixo de 12o C, usando itens como calefação, lâmpadas e chapas quentes."
+},
+{
+    "id": 156,
+    "original": "Apesar do esforço da família em se manter unida, a mudança para Viamão deixou uma seqüela.\n",
+    "simplified": "Mesmo com o esforço da família para permanecer unida, a mudança para Viamão trouxe problemas."
+},
+{
+    "id": 157,
+    "original": "Um relógio digital do centro de Bagé, por exemplo, registrou 5,7 ºC pela manhã.\n",
+    "simplified": "Um relógio digital em Bagé marcou 5,7 °C na parte da manhã."
+},
+{
+    "id": 158,
+    "original": "Assim, ele terá para sempre um lugar para brincar e sonhar -- projeta Cardoso.\n",
+    "simplified": "Assim, ele terá sempre um lugar para brincar e sonhar, diz Cardoso."
+},
+{
+    "id": 159,
+    "original": "Não é pouca coisa, já que no mundo todo se conhecem só 42 espécies do fungo, quase todas restritas ao Sudeste Asiático.\n",
+    "simplified": "A liderança gaúcha em biodiesel é resultado da forte tradição no cultivo da soja, que é a principal matéria-prima do combustível, e também da prevalência da agricultura familiar, que é requisito para obter o selo social."
+},
+{
+    "id": 160,
+    "original": "-- Segundo nosso técnico, os eqüinos ficaram na linha de vôo das abelhas, de entrada e saída da colméia.\n",
+    "simplified": "Segundo nosso técnico, os cavalos ficaram na linha de voo das abelhas, próximo à entrada e saída da colméia."
+},
+{
+    "id": 161,
+    "original": "Nessa última safra, 2006/2007, os produtores seguraram mais o produto na expectativa de melhores preços.\n",
+    "simplified": "Na última colheita, de 2006 a 2007, os agricultores mantiveram mais a produção esperando preços melhores."
+},
+{
+    "id": 162,
+    "original": "Em Porto Alegre, os termômetros despencaram para 13,1º C.\n",
+    "simplified": "Em Porto Alegre, fez 13,1°C."
+},
+{
+    "id": 163,
+    "original": "Um dos exemplos que ele apresenta é o de um estudo feito em um subúrbio de Toronto, segundo o qual as pessoas \"plugadas\" em uma rede local conheciam três vezes mais vizinhos do que as não-conectadas.\n",
+    "simplified": "Ele usa um estudo de um subúrbio de Toronto como exemplo, onde as pessoas conectadas a uma rede local conheciam três vezes mais vizinhos do que as que não estavam conectadas."
+},
+{
+    "id": 164,
+    "original": "A partir de agora, ele terá à disposição quatro servidores federais para trabalhar na segurança e apoio pessoal, além de dois assessores, dois carros e motoristas.\n",
+    "simplified": "De agora em diante, ele contará com quatro funcionários do governo para cuidar da segurança e apoio pessoal, mais dois assessores, dois carros e motoristas."
+},
+{
+    "id": 165,
+    "original": "No sábado, os amantes da ufologia voltaram para casa sem nenhum registro especial.\n",
+    "simplified": "No sábado, os interessados em OVNIs não encontraram nada de extraordinário para registrar."
+},
+{
+    "id": 166,
+    "original": "A riqueza de artefatos de várias origens ali depositados pelas sucessivas levas de ocupantes do território português.\n",
+    "simplified": "A variedade de artefatos de diferentes origens deixados pelos diversos grupos que ocuparam o território português."
+},
+{
+    "id": 167,
+    "original": "O pesquisador, contudo, ainda não está convencido de que o vilão antártico seja o efeito estufa.\n",
+    "simplified": "O pesquisador ainda tem dúvidas se o efeito estufa é o grande culpado pelo problema antártico."
+},
+{
+    "id": 168,
+    "original": "Uma expedição que começa na próxima sexta-feira pretende romper, pela primeira vez, a crosta terrestre.\n",
+    "simplified": "Uma expedição vai começar na próxima sexta-feira com o objetivo de perfurar a crosta terrestre pela primeira vez."
+},
+{
+    "id": 169,
+    "original": "Para suportar a baixa temperatura, ganhou uma pequena coberta e está sempre ao lado de um aquecedor.\n",
+    "simplified": "Para aguentar o frio, ela usa uma coberta e fica perto do aquecedor."
+},
+{
+    "id": 170,
+    "original": "O trabalho de pesquisadores da USP está revelando uma série de novas espécies de um tipo todo especial de fungo:\n",
+    "simplified": "Os pesquisadores da USP estão descobrindo várias novas espécies de um tipo de fungo muito especial."
+},
+{
+    "id": 171,
+    "original": "O instrumento tem um nome indecifrável:\n",
+    "simplified": "O instrumento tem um nome difícil de entender."
+},
+{
+    "id": 172,
+    "original": "Opções não faltam.\n",
+    "simplified": "Há várias opções disponíveis."
+},
+{
+    "id": 173,
+    "original": "Na avaliação do Sindicom, seria \"operacionalmente impossível\" substituir todos os estoques a tempo.\n",
+    "simplified": "Para o Sindicom, é muito difícil trocar todo o estoque rapidamente."
+},
+{
+    "id": 174,
+    "original": "É ponto pacífico que todo diesel entregue pelas distribuidoras às revendas tenha de ser B2.\n",
+    "simplified": "É necessário que todo diesel vendido pelas distribuidoras às revendas contenha 2% de biodiesel."
+},
+{
+    "id": 175,
+    "original": "A admiração pelo cantor despertou declarações apaixonadas de artistas que trabalharam e conviveram com Pavarotti.\n",
+    "simplified": "Artistas que trabalharam e conviveram com Pavarotti fizeram declarações apaixonadas de admiração por ele."
+},
+{
+    "id": 176,
+    "original": "Não bastasse a desesperança, falta comida nos supermercados, um fenômeno contraditório diante da riqueza do governo com a exportação de petróleo.\n",
+    "simplified": "Além da desesperança, os supermercados estão sem comida, o que é um contraste com a riqueza que o governo obtém ao exportar petróleo."
+},
+{
+    "id": 177,
+    "original": "O alerta soava desde 1993, quando a média parou em 1,66 filho por família.\n",
+    "simplified": "O alerta começou em 1993, quando cada família passou a ter, em média, 1,66 filho."
+},
+{
+    "id": 178,
+    "original": "A boa é a conclusão de que se pode conter a gripe do frango.\n",
+    "simplified": "Simples: É positivo saber que podemos prevenir a gripe aviária."
+},
+{
+    "id": 179,
+    "original": "Seja como for, a DM43 e a DM64 parecem especificamente talhadas para neutralizar os principais efeitos do veneno das serpentes da família das viperídeas, entre as quais se incluem as jararacas.\n",
+    "simplified": "As proteínas DM43 e DM64 são eficazes contra o veneno de serpentes como as jararacas, pertencentes à família das viperídeas."
+},
+{
+    "id": 180,
+    "original": "Os resultados do trabalho, que tem como autores pesquisadores franceses e argentinos e o astrofísico brasileiro Irapuan Rodrigues, haviam sido noticiados pela Folha em março, antes de o estudo ser selecionado para publicação.\n",
+    "simplified": "Os resultados do trabalho, que incluem pesquisadores franceses, argentinos e o astrofísico brasileiro Irapuan Rodrigues, foram noticiados pela Folha em março, antes de serem selecionados para publicação."
+},
+{
+    "id": 181,
+    "original": "Um modelo testado em simulações muito detalhadas parece explicar como os planetas gigantes podem se formar mais rápido e mais vezes do que julgavam as teorias tradicionais.\n",
+    "simplified": "Um modelo de simulação detalhada parece mostrar como planetas gigantes se formam mais rápido e com mais frequência do que as teorias antigas sugeriam."
+},
+{
+    "id": 182,
+    "original": "A Casa tem em torno de 160 contratos para serem analisados.\n",
+    "simplified": "A Casa precisa analisar aproximadamente 160 contratos."
+},
+{
+    "id": 183,
+    "original": "Após quatro anos, uma pesquisa do Sesc e da Fundação de Apoio à Tecnologia e Ciência da Universidade Federal de Santa Maria mostrou que as ações tiveram ótimos resultados.\n",
+    "simplified": "Uma pesquisa do Sesc e da Fundação de Apoio à Tecnologia e Ciência da Universidade Federal de Santa Maria, após quatro anos, revelou que as ações foram muito bem-sucedidas."
+},
+{
+    "id": 184,
+    "original": "Diz a tradição que, ao receber o objeto, o católico deve orar junto à pessoa que o entregou.\n",
+    "simplified": "Ao receber o objeto, a tradição diz que o católico deve orar junto com a pessoa que o entregou."
+},
+{
+    "id": 185,
+    "original": "Ele é então implantado numa vaca, que serve como barriga de aluguel.\n",
+    "simplified": "Ele é colocado numa vaca que vai ser como uma mãe temporária."
+},
+{
+    "id": 186,
+    "original": "A fusão, feita com ajuda de um choque elétrico, faz com que o óvulo se comporte como se tivesse sido fertilizado, iniciando o processo de divisão celular e criando um embrião.\n",
+    "simplified": "O choque elétrico ajuda a fusão do óvulo, que começa a se dividir como se tivesse sido fertilizado, gerando um embrião."
+},
+{
+    "id": 187,
+    "original": "É para que outras crianças repitam o discurso de Maximiliano que a Secretaria Municipal do Meio Ambiente (SMAM) promoveu a atividade.\n",
+    "simplified": "A SMAM promoveu a atividade para incentivar outras crianças a repetirem o discurso de Maximiliano."
+},
+{
+    "id": 188,
+    "original": "Para desprestigiar o Papai Noel, tudo vale.\n",
+    "simplified": "Tudo é válido para diminuir a importância do Papai Noel."
+},
+{
+    "id": 189,
+    "original": "Já em 2006, foram registrados 24,9 óbitos a cada mil nascidos vivos.\n",
+    "simplified": "Em 2006, a taxa de mortalidade infantil foi de 24,9 mortes para cada mil nascidos vivos."
+},
+{
+    "id": 190,
+    "original": "Apesar disso, pesavam até 23% menos que seus companheiros.\n",
+    "simplified": "Apesar disso, eles pesavam até 23% menos do que os outros."
+},
+{
+    "id": 191,
+    "original": "Estamos recolhendo amostras de coprólitos [fezes fossilizadas] de duas cavernas em Israel com 40 mil anos, onde provavelmente Cro-Magnons [os primeiros humanos modernos] e neandertais viveram lado a lado, contou o pesquisador durante a reunião da Associação Americana para o Avanço da Ciência.\n",
+    "simplified": "Pesquisadores estão coletando fezes fossilizadas em cavernas de Israel com 40 mil anos onde Cro-Magnons e neandertais podem ter convivido, conforme explicou o cientista numa reunião científica americana."
+},
+{
+    "id": 192,
+    "original": "Como vês, não há ninguém lá.\n",
+    "simplified": "Não tem ninguém ali."
+},
+{
+    "id": 193,
+    "original": "Não foi à toa que o Planalto reabriu o balcão de negociações.\n",
+    "simplified": "O governo voltou a negociar por um motivo específico."
+},
+{
+    "id": 194,
+    "original": "Segundo gravações da caixa-preta do A320 da Tam, um dos manetes, correspondente ao motor direito, que estava com o reverso travado, teria ficado na posição de aceleração.\n",
+    "simplified": "Segundo a gravação da caixa-preta, um dos manetes do A320 da Tam, que estava com problema no reverso, ficou na posição de aceleração."
+},
+{
+    "id": 195,
+    "original": "Apesar do nome, Hymenoepimecis sp., o tal invasor de corpos é só uma vespa.\n",
+    "simplified": "Apesar do nome, Hymenoepimecis sp. é apenas uma vespa, não um invasor de corpos."
+},
+{
+    "id": 196,
+    "original": "Enquanto fiscais davam cabo das peças, outras 75 mil já se acumulavam nos depósitos da secretaria.\n",
+    "simplified": "Enquanto os fiscais destruíam as peças, mais 75 mil já estavam se acumulando nos depósitos da secretaria."
+},
+{
+    "id": 197,
+    "original": "Em 2005, dos 26.409 mortos em acidentes no país, 7.132 (27%) tinham entre 18 e 29 anos.\n",
+    "simplified": "Em 2005, quase um quarto das mortes por acidente no país foram de jovens entre 18 e 29 anos."
+},
+{
+    "id": 198,
+    "original": "-- Eu sei que a administração (Bush) não controla esse microfone -- descontrai Kerry.\n",
+    "simplified": "Kerry diz, de maneira descontraída, que sabe que a administração (Bush) não controla o microfone."
+},
+{
+    "id": 199,
+    "original": "A massa da proteína, então, pode ser calculada.\n",
+    "simplified": "Simples: Portanto, é possível calcular a massa da proteína."
+},
+{
+    "id": 200,
+    "original": "No Estado, além da UFPel, participam a Fundação Universidade Federal de Rio Grande e o Centro Universitário Univates.\n",
+    "simplified": "No Estado, junto com a UFPel, participam a Fundação Universidade Federal de Rio Grande e o Centro Universitário Univates."
+},
+{
+    "id": 201,
+    "original": "Para evitar um novo desgaste político, a administração federal não pretende influir, ao menos por enquanto, para que os senadores do PMDB contrários à CPMF sejam substituídos na CCJ.\n",
+    "simplified": "A administração federal quer evitar mais conflitos políticos e por isso não vai pressionar, pelo menos por agora, para trocar os senadores do PMDB que são contra a CPMF na CCJ."
+},
+{
+    "id": 202,
+    "original": "A chance de que um dos pedaços atingisse uma pessoa era mínima, mas autoridades de diversos países, inclusive a Agência Espacial Brasileira, estavam prontas para qualquer contingência.\n",
+    "simplified": "A chance de um pedaço atingir alguém era muito pequena, mas autoridades de vários países, incluindo a Agência Espacial Brasileira, estavam preparadas para qualquer problema."
+},
+{
+    "id": 203,
+    "original": "Há quem continue inabalável na defesa do presidente.\n",
+    "simplified": "Alguns continuam a apoiar firmemente o presidente."
+},
+{
+    "id": 204,
+    "original": "Para ser menos afetado pelo estresse, a melhor opção pode estar na companhia de gatos ou cachorros.\n",
+    "simplified": "Conviver com gatos ou cachorros pode ser a melhor maneira de lidar menos com o estresse."
+},
+{
+    "id": 205,
+    "original": "Para Ida Sano Martins, que estuda a fisiologia de venenos no Instituto Butantan, em São Paulo, a estratégia poderia vencer algumas limitações dos soros antiofídicos atuais.\n",
+    "simplified": "Para Ida Sano Martins, do Instituto Butantan em São Paulo, que pesquisa venenos, essa estratégia poderia superar algumas limitações dos soros antiofídicos atuais."
+},
+{
+    "id": 206,
+    "original": "Sua atividade física não diferiu significativamente em relação à dos camundongos normais.\n",
+    "simplified": "Sua atividade física foi semelhante à dos camundongos normais."
+},
+{
+    "id": 207,
+    "original": "A coordenação foi do arqueólogo português Francisco Alves, um dos pioneiros na área em Portugal e responsável pelos trabalhos no galeão Nossa Senhora dos Mártires, cujos achados foram a atração central do pavilhão de Portugal na exposição internacional de Lisboa em 1998, a Expo-98.\n",
+    "simplified": "O arqueólogo português Francisco Alves, que é um dos primeiros especialistas em Portugal e coordenou os trabalhos no galeão Nossa Senhora dos Mártires, liderou a coordenação. Os achados desse navio foram a principal atração no pavilhão de Portugal na Expo-98, em Lisboa."
+},
+{
+    "id": 208,
+    "original": "Foi o principal cientista ligado ao satélite Cobe (Cosmic Background Explorer), que em 1992 revelou flutuações de \"temperatura\" na radiação, na verdade, um eco do Big Bang, explosão que teria dado origem ao Universo.\n",
+    "simplified": "Ele foi o cientista-chave do satélite Cobe, que descobriu variações de temperatura na radiação, um vestígio do Big Bang, a explosão que deu início ao Universo."
+},
+{
+    "id": 209,
+    "original": "Na ponta do lápis, a vantagem em decorrência da mudança no imposto estadual ficou em R$ 0,07.\n",
+    "simplified": "Com a mudança no imposto estadual, houve uma vantagem de R$ 0,07 no final das contas."
+},
+{
+    "id": 210,
+    "original": "Se houver o consenso de que em uma ou outra sessão possa ocorrer um problema, teremos a sensibilidade de tratar individualmente -- destacou Pont.\n",
+    "simplified": "Se acontecer algum problema durante uma sessão, trataremos de forma individual -- destacou Pont."
+},
+{
+    "id": 211,
+    "original": "A Casa Branca teria dado instruções à delegação americana em Bali para evitar que o país seja responsabilizado pelo fracasso das negociações.\n",
+    "simplified": "A delegação americana em Bali recebeu instruções da Casa Branca para evitar que os EUA fossem culpados pelo fracasso nas negociações."
+},
+{
+    "id": 212,
+    "original": "Ainda ontem, o prefeito de Ribeirão, Gilberto Maggioni (PMN), assinou uma carta de intenção com a USP para colocar parte da frota da administração municipal movida a biodiesel, já a partir de junho.\n",
+    "simplified": "Ontem, o prefeito de Ribeirão, Gilberto Maggioni, assinou um acordo com a USP para usar biodiesel em parte da frota municipal a partir de junho."
+},
+{
+    "id": 213,
+    "original": "Algumas das inovações apresentadas pela organização no ano passado retornam nesta edição praticamente consolidadas:\n",
+    "simplified": "Algumas inovações da organização do ano passado voltam agora quase totalmente estabelecidas."
+},
+{
+    "id": 214,
+    "original": "Muitos pais são favoráveis à decisão da secretaria e argumentam que a ausência do bar garante que os filhos só comerão na escola o que é saudável.\n",
+    "simplified": "Muitos pais apoiam a decisão da secretaria e argumentam que a ausência do bar na escola faz com que os filhos comam apenas alimentos saudáveis."
+},
+{
+    "id": 215,
+    "original": "A exploração alheia não tem limites.\n",
+    "simplified": "A exploração dos outros não conhece limites."
+},
+{
+    "id": 216,
+    "original": "A iniciativa havia sofrido resistências na primeira vez em que tentou abordar o assunto, logo depois que assumiu a presidência do Senado, após a licença de Renan Calheiros (PMDB-AL).\n",
+    "simplified": "A iniciativa enfrentou resistência quando abordou o assunto pela primeira vez, após assumir a presidência do Senado, quando Renan Calheiros (PMDB-AL) estava de licença."
+},
+{
+    "id": 217,
+    "original": "Ele logo vem e recebe do garoto um carinho na bochecha e o mais agradecido dos sorrisos.\n",
+    "simplified": "Ele se aproxima rapidamente e ganha um afago na face e um sorriso de gratidão do garoto."
+},
+{
+    "id": 218,
+    "original": "Seria uma espécie de superpoder biônico.\n",
+    "simplified": "Seria como um superpoder tecnológico."
+},
+{
+    "id": 219,
+    "original": "Matos afirma que a aprovação da inconstitucionalidade não só impede a construção da nova mina, mas prejudica todo o setor carbonífero no Sul do Estado.\n",
+    "simplified": "Matos disse que a decisão de ser inconstitucional não só para de fazer a nova mina, mas também faz mal para todo o negócio de carvão no Sul do Estado."
+},
+{
+    "id": 220,
+    "original": "A Justiça Federal determinou que a Universidade Federal de Santa Catarina (UFSC) terá de criar vagas suplementares para atender ao sistema de cotas do vestibular 2008, que se encerrou na terça-feira.\n",
+    "simplified": "A Justiça Federal exigiu que a UFSC ofereça mais vagas para atender ao sistema de cotas no vestibular 2008."
+},
+{
+    "id": 221,
+    "original": "A dupla foi autuada por dano qualificado contra o patrimônio público.\n",
+    "simplified": "A dupla foi pega destruindo algo que pertence ao governo."
+},
+{
+    "id": 222,
+    "original": "Outros relatos sugerem que fungos do mesmo tipo podem ser encontrados no Tocantins e no Amazonas.\n",
+    "simplified": "Fungos semelhantes também podem ser achados no Tocantins e no Amazonas, segundo alguns relatos."
+},
+{
+    "id": 223,
+    "original": "Para evitar um choque térmico, os animais permanecem presos por pelo menos uma hora.\n",
+    "simplified": "Para não ter um choque de temperatura, os animais ficam seguros por uma hora."
+},
+{
+    "id": 224,
+    "original": "A população que vai às urnas neste domingo para decidir se o presidente Hugo Chávez poderá se reeleger indefinidamente nunca esteve tão dividida.\n",
+    "simplified": "A população que vota neste domingo sobre a reeleição indefinida do presidente Hugo Chávez está muito dividida."
+},
+{
+    "id": 225,
+    "original": "O projeto, desenvolvido pela USP de Ribeirão, consegue produzir o biodiesel a partir da mistura de óleo vegetal, incluindo o de soja, e etanol, álcool derivado da cana-de-açúcar.\n",
+    "simplified": "A USP de Ribeirão desenvolveu um projeto que produz biodiesel misturando óleo vegetal, como o de soja, com etanol feito de cana-de-açúcar."
+},
+{
+    "id": 226,
+    "original": "Por outro lado, diz Benjamin Wolozin, do Centro Médico da Universidade Loyola (Chicago, EUA), o local onde as moléculas de colesterol se abrigam na membrana é também a região na qual estão as enzimas (moléculas que aceleram reações químicas) responsáveis por produzir a beta-amilóide.\n",
+    "simplified": "Por outro lado, Benjamin Wolozin, do Centro Médico da Universidade Loyola em Chicago, nos EUA, aponta que as moléculas de colesterol e as enzimas que produzem a beta-amilóide estão localizadas na mesma região da membrana."
+},
+{
+    "id": 227,
+    "original": "A ativa envolvia responder a perguntas de matemática.\n",
+    "simplified": "A tarefa era responder perguntas de matemática."
+},
+{
+    "id": 228,
+    "original": "Para preparar o banquete, Breda contou com a ajuda de 120 confeiteiros mirins.\n",
+    "simplified": "Breda teve o auxílio de 120 jovens confeiteiros para preparar o banquete."
+},
+{
+    "id": 229,
+    "original": "Se a situação apertar, no entanto, a tática do Executivo será passar o rolo compressor:\n",
+    "simplified": "Se as coisas ficarem difíceis, o plano do governo será usar a força total:"
+},
+{
+    "id": 230,
+    "original": "Se recordes foram batidos na Campanha e na Região Metropolitana, o mesmo não aconteceu no Rio Grande do Sul como um todo.\n",
+    "simplified": "Apesar dos recordes na Campanha e na Região Metropolitana, não houve o mesmo resultado no Rio Grande do Sul em geral."
+},
+{
+    "id": 231,
+    "original": "Não houve confronto direto entre os dois grupos, mas alguns agricultores acusam um representante dos mineradores, não identificado, de agredir Gilmar Bonifácio Espíndola, o Gilmar Axé, um dos líderes do movimento dos moradores de Santa Cruz, que tirava fotos.\n",
+    "simplified": "Não houve briga direta, mas um agricultor disse que um minerador desconhecido agrediu Gilmar Axé, líder dos moradores de Santa Cruz, enquanto ele tirava fotos."
+},
+{
+    "id": 232,
+    "original": "Espanha, Itália e Alemanha estão bem abaixo dessa média.\n",
+    "simplified": "Espanha, Itália e Alemanha têm médias muito inferiores."
+},
+{
+    "id": 233,
+    "original": "Durante o ano, atua como professora em escolinhas de futebol para crianças, mas já conseguiu um professor para ficar em seu lugar durante o trabalho na Operação Golfinho.\n",
+    "simplified": "Ela é professora em escolas de futebol infantil durante o ano, mas arrumou um substituto para assumir enquanto ela trabalha na Operação Golfinho."
+},
+{
+    "id": 234,
+    "original": "Ele pesquisa uma vacina produzida em tomates contra o vírus respiratório sincicial, que ataca recém-nascidos.\n",
+    "simplified": "Ele está estudando uma vacina feita com tomates para combater um vírus que afeta bebês recém-nascidos."
+},
+{
+    "id": 235,
+    "original": "Sem iniciativas conjuntas, porém, garante ser impossível que o metrô de superfície solucione o problema.\n",
+    "simplified": "Se não houver iniciativas em conjunto, o metrô de superfície não poderá resolver o problema."
+},
+{
+    "id": 236,
+    "original": "Genes de uma linhagem de vírus da gripe de patos e de uma linhagem de vírus de porcos se misturaram, dando origem a um patógeno contra o qual seres humanos simplesmente não tinham defesa.\n",
+    "simplified": "Genes de vírus da gripe de patos e porcos se misturaram, criando um vírus ao qual humanos não tinham imunidade."
+},
+{
+    "id": 237,
+    "original": "Pesquisadores da Universidade de Michigan em Ann Arbor, nos Estados Unidos, sugerem que os olhos de asiáticos tendem a ver uma imagem no seu conjunto, prestando tanto atenção ao que está em primeiro plano quanto no fundo, enquanto os americanos demoram mais o olhar no objeto central de um quadro.\n",
+    "simplified": "Pesquisadores de Michigan afirmam que asiáticos veem o todo de uma imagem, focando tanto no objeto principal quanto no fundo, enquanto americanos focam mais no centro."
+},
+{
+    "id": 238,
+    "original": "-- O problema do Airbus é que os sidesticks e os manetes não dão nenhum feedback direto, ou seja, não informam ao piloto, pelo seu posicionamento, se um movimento pretendido foi executado ou não.\n",
+    "simplified": "O problema do Airbus é que os controles não mostram se o movimento que o piloto queria fazer aconteceu ou não."
+},
+{
+    "id": 239,
+    "original": "Com capacidade para 283 presos, abriga atualmente 541 condenados, quase o dobro do previsto.\n",
+    "simplified": "A prisão tem espaço para 283 pessoas, mas atualmente tem 541 presos, mais que o dobro do esperado."
+},
+{
+    "id": 240,
+    "original": "Os dados para as simulações de computador foram obtidos na Tailândia, um país do sudeste asiático que, além de estar vulnerável à doença, dispunha de um conjunto de estatísticas detalhado e adequado aos modelos.\n",
+    "simplified": "Os dados para simulações de computador foram coletados na Tailândia, país vulnerável à doença e com estatísticas detalhadas e adequadas para os modelos."
+},
+{
+    "id": 241,
+    "original": "Todo o regramento do desfile dá a entender que a comissão organizadora quer um desfile mais dócil.\n",
+    "simplified": "A comissão organizadora quer um desfile mais dócil, segundo as regras definidas."
+},
+{
+    "id": 242,
+    "original": "É essa essência que Luana quer passar para seu público.\n",
+    "simplified": "Luana deseja transmitir essa essência ao seu público."
+},
+{
+    "id": 243,
+    "original": "O grupo diz de saída que não tem nenhuma intenção de montar uma empresa para fazer espectrômetros em série.\n",
+    "simplified": "O grupo afirmou que não pretende criar uma empresa para fabricar espectrômetros em larga escala."
+},
+{
+    "id": 244,
+    "original": "A porcentagem de tecido adiposo (gordura) sobre o volume total do corpo dos bichos também diminuiu -- nos machos, em 44%;\n",
+    "simplified": "A quantidade de gordura em relação ao corpo todo dos animais diminuiu, especialmente nos machos, em 44%."
+},
+{
+    "id": 245,
+    "original": "Outro temor, quase xenófobo, é de que os europeus genuínos sejam suplantados pelas levas de imigrantes do Terceiro Mundo, de proles mais numerosas.\n",
+    "simplified": "Há um medo, quase como um preconceito, de que os europeus nativos sejam substituídos pelos imigrantes do Terceiro Mundo, que têm famílias maiores."
+},
+{
+    "id": 246,
+    "original": "Ontem pela manhã ocorreu a segunda caminhada espacial da missão.\n",
+    "simplified": "Ontem de manhã, os astronautas fizeram a segunda caminhada fora da nave espacial na missão."
+},
+{
+    "id": 247,
+    "original": "Esse, aliás, talvez seja o calcanhar-de-aquiles da proposta:\n",
+    "simplified": "Aliás, talvez este seja o ponto fraco da proposta."
+},
+{
+    "id": 248,
+    "original": "A taxa básica é mantida pelo Fed em 5,25% desde junho de 2006.\n",
+    "simplified": "A taxa básica de juros está no mesmo nível de 5,25% desde junho de 2006, conforme decisão do Fed."
+},
+{
+    "id": 249,
+    "original": "O primeiro resultado positivo dessa nova estratégia para estudos do material hereditário de seres vivos teve como objeto os resíduos tóxicos deixados por uma velha mina californiana.\n",
+    "simplified": "A primeira conquista positiva da nova estratégia de estudo do material genético ocorreu ao investigar os resíduos tóxicos de uma antiga mina na Califórnia."
+},
+{
+    "id": 250,
+    "original": "Dois ministros foram radicais pela fidelidade.\n",
+    "simplified": "Dois ministros foram extremamente a favor da fidelidade."
+},
+{
+    "id": 251,
+    "original": "-- É uma turbulência.\n",
+    "simplified": "-- É uma instabilidade."
+},
+{
+    "id": 252,
+    "original": "O Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis) aplicou, desde maio passado, multas de cerca de R$ 50 milhões a pelo menos 200 fazendeiros cujas terras estão às margens do Taquari.\n",
+    "simplified": "O Ibama multou 200 fazendeiros em R$ 50 milhões por propriedades próximas ao rio Taquari desde maio."
+},
+{
+    "id": 253,
+    "original": "O procedimento, primeira vez na história em que um astronauta se pôs embaixo do ônibus em órbita e fez reparos em seu escudo térmico, foi executado anteontem, pelas mãos do americano Stephen Robinson.\n",
+    "simplified": "Um astronauta americano chamado Stephen Robinson fez reparos no escudo térmico de um ônibus espacial enquanto estava em órbita, algo inédito na história."
+},
+{
+    "id": 254,
+    "original": "Inácio publicou em 2001 Deca e Zé Perri, livro em edição bilíngüe português-francês no qual ele registra os relatos do pai sobre as andanças do escritor pela Ilha de Santa Catarina.\n",
+    "simplified": "Inácio lançou um livro em português e francês em 2001, chamado Deca e Zé Perri, que conta as aventuras do seu pai na Ilha de Santa Catarina."
+},
+{
+    "id": 255,
+    "original": "Os fiéis atribuem às pílulas poderes milagrosos.\n",
+    "simplified": "Os fiéis acreditam que as pílulas realizam milagres."
+},
+{
+    "id": 256,
+    "original": "Seja um poodle ou um pitbull, um cocker spaniel ou um dinamarquês, o seu cachorro e os dos seus amigos têm uma origem comum:\n",
+    "simplified": "Independentemente de ser um poodle, um pitbull, um cocker spaniel ou um dinamarquês, todos os cães, incluindo o seu e os dos seus amigos, compartilham uma origem comum."
+},
+{
+    "id": 257,
+    "original": "Na Federação das Associações de Municípios do RS (Famurs) e na Secretaria Estadual de Educação (Sec), a preocupação reside em outro ponto.\n",
+    "simplified": "Na Famurs e na Sec, a preocupação é com outra questão."
+},
+{
+    "id": 258,
+    "original": "3,6 ºC.\n",
+    "simplified": "Frase complexa: A região do Rio Grande do Sul é líder na produção de biodiesel graças à tradição no cultivo da soja, principal matéria-prima deste combustível, e ao fato de predominar a agricultura familiar, que é um requisito para obter o selo social.\n\nFrase simples: O Rio Grande do Sul é líder em biodiesel por cultivar muito soja, que é a base desse combustível, e por ter muitas famílias trabalhando na agricultura, o que ajuda a ganhar um certificado especial."
+},
+{
+    "id": 259,
+    "original": "O ideal para uma pele artificial seria ser \"conformal\", segundo o jargão da engenharia, isto é, ela deveria ser capaz de se adequar de modo maleável à forma requisitada.\n",
+    "simplified": "O ideal para uma pele artificial seria ser adaptável, ou seja, ela deveria ser capaz de moldar-se de maneira flexível à forma desejada."
+},
+{
+    "id": 260,
+    "original": "É preciso debater urgentemente uma solução para isso.\n",
+    "simplified": "Precisamos urgentemente debater uma solução para isso."
+},
+{
+    "id": 261,
+    "original": "O achado foi apresentado por Mark Mattson, do Instituto Nacional do Envelhecimentos dos EUA, durante a 170ª Reunião Anual da AAAS (Associação Americana para o Avanço da Ciência), em Seattle, no noroeste dos Estados Unidos.\n",
+    "simplified": "Mark Mattson, do Instituto Nacional do Envelhecimento dos EUA, apresentou a descoberta na 170a Reunião Anual da AAAS em Seattle, nos EUA."
+},
+{
+    "id": 262,
+    "original": "Afirmou durante o 2º Congresso Latino-Americano de Paleontologia de Vertebrados, encerrado no fim de semana passado, no Rio de Janeiro.\n",
+    "simplified": "Disse durante o 2o Congresso Latino-Americano de Paleontologia de Vertebrados, que terminou no fim de semana passado, no Rio de Janeiro."
+},
+{
+    "id": 263,
+    "original": "Depois, com imagens do telescópio espacial Hubble, conseguiram determinar o rumo exato do astro, que está agora a pelo menos 6.000 anos-luz do Sol.\n",
+    "simplified": "Com imagens do Hubble, eles descobriram que o astro está a pelo menos 6.000 anos-luz do Sol."
+},
+{
+    "id": 264,
+    "original": "Os modelos antigos exigiam um tempo de formação de 1 milhão de anos, mas também sugeriam que não haveria gás suficiente durante todo esse período para dar origem a esses monstrengos gasosos.\n",
+    "simplified": "Modelos antigos indicavam que precisava de 1 milhão de anos para estrelas gigantes se formarem, mas havia dúvidas sobre ter gás suficiente para isso nesse período."
+},
+{
+    "id": 265,
+    "original": "O Santanaraptor pode ser a espécie que deu origem ao tiranossauro 68 milhões de anos mais tarde, explicou o geólogo.\n",
+    "simplified": "O Santanaraptor pode ser o ancestral do tiranossauro, que viveu 68 milhões de anos depois, explicou o geólogo."
+},
+{
+    "id": 266,
+    "original": "Clapham não prevê fórmulas mágicas para os sedentários.\n",
+    "simplified": "Clapham não acredita em soluções simples para pessoas que não praticam exercícios físicos."
+},
+{
+    "id": 267,
+    "original": "-- Foi essa a filosofia de fabricação de um avião adotada pela empresa e aceita pela autoridades aeronáuticas -- diz Hoffmann, lembrando que a Boeing, mesmo em seus modelos fly by wire, manteve um sistema que informa aos pilotos sobre o funcionamento da aeronave por meio do posicionamento físico dos manches e dos manetes.\n",
+    "simplified": "Hoffmann explica que a empresa adotou a filosofia de manter sistemas que informam os pilotos sobre o funcionamento do avião por meio do posicionamento dos controles físicos, mesmo em modelos modernos, e isso foi aceito pelas autoridades aeronáuticas."
+},
+{
+    "id": 268,
+    "original": "Entretanto, mesmo em ambientes mais complexos, deve ser possível ampliar [a técnica] para recuperar os genomas de espécies e linhagens não-cultivadas.\n",
+    "simplified": "Mesmo em ambientes complicados, a técnica pode ser melhorada para obter os genomas de espécies e linhagens que não podem ser cultivadas."
+},
+{
+    "id": 269,
+    "original": "Bioantropólogo da Universidade MacMaster, no Canadá, está prestes a investigar a relação entre neandertais e humanos modernos olhando não para seus crânios, mas para o que eles defecavam e para as moléculas que podem contar a história deles, ocultas ali dentro.\n",
+    "simplified": "Um bioantropólogo da Universidade MacMaster, no Canadá, vai estudar como os neandertais e os seres humanos modernos interagiram examinando as fezes deles e as moléculas que guardam histórias ocultas."
+},
+{
+    "id": 270,
+    "original": "As principais atrações do país convidado se dedicam a expor a cultura do país e à divulgação das obras japonesas traduzidas e editadas no Brasil.\n",
+    "simplified": "As principais atrações do país convidado focam em mostrar a cultura japonesa e promover os trabalhos japoneses que foram traduzidos e publicados no Brasil."
+},
+{
+    "id": 271,
+    "original": "É uma tradição arraigada na cultura do país.\n",
+    "simplified": "É um costume antigo e forte na cultura do país."
+},
+{
+    "id": 272,
+    "original": "Alimentos mais calóricos do que o habitual e reforço de cana-de-açúcar para herbívoros, como zebras, elefantes ou hipopótamos, são formas de garantir aquecimento natural aos animais mais resistentes ao frio.\n",
+    "simplified": "Frase Simples: Alimentos ricos em calorias e cana-de-açúcar são usados para manter aquecidos animais herbívoros resistentes ao frio, como zebras, elefantes e hipopótamos."
+},
+{
+    "id": 273,
+    "original": "-- Pois é, pessoal, o que eu lamento contar é que depois da festa a escola foi arrombada e roubada -- disse Emília, em tom de indignação e, sobretudo, de decepção.\n",
+    "simplified": "Emília, com indignação e decepção, contou que a escola foi arrombada e roubada após a festa."
+},
+{
+    "id": 274,
+    "original": "-- Fumava há mais de 40 anos.\n",
+    "simplified": "Ele fumava há mais de 40 anos."
+},
+{
+    "id": 275,
+    "original": "Para os paleontólogos, achar esse tipo de evidência equivale a acertar na loteria.\n",
+    "simplified": "Para os paleontólogos, encontrar esse tipo de evidência é como ganhar na loteria."
+},
+{
+    "id": 276,
+    "original": "Mas os resultados levaram os cientistas a chamar o próprio estudo de \"abordagem promissora\" contra a obesidade.\n",
+    "simplified": "A pesquisa mostrou resultados tão bons que os cientistas acreditam que ela pode ser uma forma eficaz de combater a obesidade."
+},
+{
+    "id": 277,
+    "original": "No ano passado, um grupo da Comissão de Energia Atômica da França havia anunciado a existência de um verdadeiro campo minado composto por centenas de milhares de buracos negros distribuídos ao redor da Via Láctea.\n",
+    "simplified": "No ano passado, um grupo de cientistas franceses revelou que há um campo minado com centenas de milhares de buracos negros em torno da Via Láctea."
+},
+{
+    "id": 278,
+    "original": "O estudo brasileiro, junto com outros dois, feitos na Alemanha e nos EUA, coloca a questão sob um prisma realista.\n",
+    "simplified": "A pesquisa brasileira, juntamente com outras duas realizadas na Alemanha e nos EUA, aborda a questão de forma realista."
+},
+{
+    "id": 279,
+    "original": "No momento crucial da história da Varig, os desentendimentos internos que se tornaram marca registrada da empresa viraram passado, pelo menos por um momento.\n",
+    "simplified": "Durante um momento crucial na história da Varig, os conflitos internos que eram uma característica da empresa foram deixados de lado, pelo menos temporariamente."
+},
+{
+    "id": 280,
+    "original": "Na política, a participação também será restrita.\n",
+    "simplified": "Na política, a participação será limitada."
+},
+{
+    "id": 281,
+    "original": "Quem trocou de sigla antes da data, porém, foi poupado.\n",
+    "simplified": "Quem mudou de partido antes do prazo ficou livre de consequências."
+},
+{
+    "id": 282,
+    "original": "A situação só não foi idêntica porque, prevenidos pela reaparição terrorista, muitos paulistanos resolveram pegar carona com vizinhos para ir ao serviço.\n",
+    "simplified": "Muitos paulistanos optaram por carona com vizinhos para ir ao trabalho, já que estavam atentos à reaparição terrorista."
+},
+{
+    "id": 283,
+    "original": "A conferência do Rio, na qual o mundo ouviu pela primeira vez falar em \"aquecimento global\", tem um espaço especial em suas recordações.\n",
+    "simplified": "A Conferência do Rio, onde o termo \"aquecimento global\" foi mencionado pela primeira vez, ocupa um lugar especial em suas lembranças."
+},
+{
+    "id": 284,
+    "original": "As cenas deverão ir ao ar na segunda quinzena de setembro.\n",
+    "simplified": "As cenas serão exibidas na segunda metade de setembro."
+},
+{
+    "id": 285,
+    "original": "O objetivo dos organizadores é conscientizar a população para os prejuízos do excesso de carros e refletir sobre alternativas de transporte.\n",
+    "simplified": "Os organizadores querem mostrar que ter muitos carros causa problemas e discutir outras formas de transporte."
+},
+{
+    "id": 286,
+    "original": "Já as chinesas e coreanas utilizam mais verbos e enfocam mais relações sociais , afirma ele.\n",
+    "simplified": "As empresas da China e da Coreia do Sul usam mais verbos e dão mais importância às relações sociais, de acordo com ele."
+},
+{
+    "id": 287,
+    "original": "Mais de 200 palestras integram a programação, muitas destinadas a usuários leigos em informática.\n",
+    "simplified": "Mais de 200 palestras estão na programação, várias para pessoas que não entendem de informática."
+},
+{
+    "id": 288,
+    "original": "A UE adota, desde junho de 1998, diretiva favorável ao patenteamento de genes.\n",
+    "simplified": "Desde junho de 1998, a UE tem uma diretiva que apoia o patenteamento de genes."
+},
+{
+    "id": 289,
+    "original": "Para Viana, este é um passo importante para dar mais transparência ao Legislativo.\n",
+    "simplified": "Viana acredita que isso aumenta a transparência do Legislativo."
+},
+{
+    "id": 290,
+    "original": "No dia 9 de novembro de 1989, ruiu a barreira que por quase três décadas dividiu a Alemanha.\n",
+    "simplified": "No dia 9 de novembro de 1989, a barreira que separou a Alemanha por quase trinta anos caiu."
+},
+{
+    "id": 291,
+    "original": "Quando entre os aprovados já existir algum do perfil de cotas, a UFSC não precisará repor vagas, pois já estará preenchido o que prevê o sistema.\n",
+    "simplified": "Se já houver cotistas entre os aprovados, a UFSC não precisa preencher mais vagas, porque já está atendendo à exigência do sistema."
+},
+{
+    "id": 292,
+    "original": "Nesse experimento, foram produzidos 35 embriões em seguida transferidos para 17 receptoras, as chamadas mães de aluguel.\n",
+    "simplified": "Nesse experimento, 35 embriões foram produzidos e colocados em 17 mães de aluguel."
+},
+{
+    "id": 293,
+    "original": "O termo foi muito popularizado na ficção graças ao livro \"Eu, Robo\" (1950), do escritor americano nascido na Rússia Isaac Asimov (1920-1992).\n",
+    "simplified": "O termo ganhou muita popularidade com o livro \"Eu, Robô\", escrito pelo americano Isaac Asimov, que nasceu na Rússia."
+},
+{
+    "id": 294,
+    "original": "A matéria ainda precisa passar pela Câmara dos Deputados e pela Presidência da República antes de entrar em vigor.\n",
+    "simplified": "A matéria precisa ser aprovada pela Câmara dos Deputados e pelo Presidente da República antes de começar a valer."
+},
+{
+    "id": 295,
+    "original": "De acordo com o deputado, houve um grande desrespeito por parte dos educadores.\n",
+    "simplified": "De acordo com o deputado, os educadores foram muito desrespeitosos."
+},
+{
+    "id": 296,
+    "original": "O que está em jogo não são apenas as reformas constitucionais patrocinadas por Chávez.\n",
+    "simplified": "O que está sendo discutido não são apenas as mudanças na Constituição propostas por Chávez."
+},
+{
+    "id": 297,
+    "original": "Um dos protótipos iniciais continha uma rede de 16 sensores de pressão por centímetros quadrado.\n",
+    "simplified": "Um dos primeiros protótipos tinha uma rede de 16 sensores de pressão por centímetro quadrado."
+},
+{
+    "id": 298,
+    "original": "Previsões indicam que haverá 14 milhões de italianos da gema a menos em 2050.\n",
+    "simplified": "A expectativa é que em 2050, a população italiana será 14 milhões menor."
+},
+{
+    "id": 299,
+    "original": "O zoneamento representa o primeiro passo na formatação de uma política florestal no Rio Grande do Sul.\n",
+    "simplified": "O zoneamento é o início para criar uma política florestal no Rio Grande do Sul."
+},
+{
+    "id": 300,
+    "original": "O médico da UFPA usa uma metáfora futebolística para explicar a variação no tempo de interrupção.\n",
+    "simplified": "O médico da UFPA usa uma comparação com o futebol para explicar por que o tempo de interrupção varia."
+},
+{
+    "id": 301,
+    "original": "Uma briga entre dois grupos rivais, no início da tarde de ontem, trouxe à tona o medo de uma rebelião no Presídio Regional de Passo Fundo, no norte do Estado.\n",
+    "simplified": "Uma discussão entre dois grupos inimigos, ontem de tarde, aumentou o temor de uma rebelião no Presídio Regional de Passo Fundo, no norte do estado."
+},
+{
+    "id": 302,
+    "original": "Seus termos são endossados pela OMS (Organização Mundial da Saúde).\n",
+    "simplified": "A Organização Mundial da Saúde apoia seus termos."
+},
+{
+    "id": 303,
+    "original": "É a segunda destruição ocorrida este ano na Capital.\n",
+    "simplified": "Esta é a segunda vez que algo foi destruído na Capital este ano."
+},
+{
+    "id": 304,
+    "original": "Estatísticas de março indicam que o roubo de carros é um crime resistente às ações policiais.\n",
+    "simplified": "As estatísticas de março mostram que o roubo de carros continua acontecendo apesar do trabalho da polícia."
+},
+{
+    "id": 305,
+    "original": "Existem no mercado vacinas para coronavírus de aves e cachorros.\n",
+    "simplified": "Há vacinas disponíveis no mercado contra o coronavírus para aves e cachorros."
+},
+{
+    "id": 306,
+    "original": "Eliane Beatriz Guth, que trabalha na panificadora, disse que não havia nenhum veículo estacionado em frente ao estabelecimento.\n",
+    "simplified": "Eliane Beatriz Guth, da panificadora, disse que não tinha nenhum carro parado na frente do estabelecimento."
+},
+{
+    "id": 307,
+    "original": "A boa notícia é que pesquisadores argentinos acharam o mais antigo mamífero com traços modernos da América do Sul, capaz de preencher uma lacuna de milhões de anos na história desses animais.\n",
+    "simplified": "A boa notícia é que pesquisadores argentinos descobriram um mamífero antigo da América do Sul com características modernas, o que ajuda a completar uma parte desconhecida de milhões de anos na história desses animais."
+},
+{
+    "id": 308,
+    "original": "O nosso foco é a pirataria e a venda ilegal de fogos de artifício -- diz Léo Antônio Bulling, diretor da Fiscalização da Smic.\n",
+    "simplified": "Nossa atenção está na pirataria e venda ilegal de fogos de artifício, afirma Léo Antônio Bulling, diretor da Fiscalização da Smic."
+},
+{
+    "id": 309,
+    "original": "Ele ressalta que o próximo trânsito ocorrerá somente em 9 de maio de 2016.\n",
+    "simplified": "Ele menciona que o próximo evento só acontecerá em 9 de maio de 2016."
+},
+{
+    "id": 310,
+    "original": "-- Duas famílias -- limitou-se a dizer, sussurrando para as monjas do outro lado da parede.\n",
+    "simplified": "Ela disse baixinho para as freiras do outro lado da parede que eram apenas duas famílias."
+},
+{
+    "id": 311,
+    "original": "Ontem ainda havia controvérsias sobre o tipo de exigência que seria feita no varejo.\n",
+    "simplified": "Ainda havia dúvidas ontem sobre as exigências que seriam feitas no comércio varejista."
+},
+{
+    "id": 312,
+    "original": "Cientistas britânicos detectaram, em adultos, a produção de células hepáticas a partir de células-tronco da medula óssea.\n",
+    "simplified": "Cientistas britânicos descobriram que adultos podem produzir células do fígado a partir de células-tronco da medula óssea."
+},
+{
+    "id": 313,
+    "original": "O objetivo é descobrir uma maneira de prever quando e onde os terremotos irão ocorrer a tempo de retirar pessoas das áreas afetadas.\n",
+    "simplified": "O objetivo é encontrar um jeito de saber antes quando e onde acontecerão terremotos para tirar as pessoas das áreas que serão atingidas."
+},
+{
+    "id": 314,
+    "original": "Nem sempre a explosão da supernova acontece de forma simétrica, explica Irapuan Rodrigues, brasileiro que trabalha na equipe do astrônomo argentino Felix Mirabel na França e é co-autor do estudo publicado na revista \"Astronomy & Astrophysics\" (www.edpsciences.com/aa/).\n",
+    "simplified": "O astrônomo brasileiro Irapuan Rodrigues, que trabalha com o argentino Felix Mirabel na França, explica que a explosão da supernova nem sempre é simétrica. Ele é co-autor de um estudo publicado na revista \"Astronomy & Astrophysics\"."
+},
+{
+    "id": 315,
+    "original": "Por trás da mortandade de jovens no trânsito -- como as seis vítimas registradas no estado ao longo do final de semana -- há um desafio para as campanhas de conscientização.\n",
+    "simplified": "A alta mortandade de jovens no trânsito, como os seis casos registrados no estado durante o final de semana, desafia as campanhas de conscientização."
+},
+{
+    "id": 316,
+    "original": "Esse método começou a ser introduzido no rol das formas de combater o vírus em 1999, quando começaram a aparecer variantes do HIV que já não eram mais sensíveis aos medicamentos existentes.\n",
+    "simplified": "A partir de 1999, esse método começou a ser usado contra o vírus, devido ao surgimento de variantes do HIV resistentes aos remédios disponíveis."
+},
+{
+    "id": 317,
+    "original": "As medidas de estresse eram o ritmo de batimento cardíaco e a pressão sanguínea.\n",
+    "simplified": "Os indicadores de estresse eram o ritmo cardíaco e a pressão arterial."
+},
+{
+    "id": 318,
+    "original": "As duas equipes de pesquisadores fizeram estudos semelhantes e divulgaram os resultados nas edições desta semana das revistas \"Nature\" (www.nature.com), que circula hoje, e \"Science\" (www.sciencemag.org), que sai publicada amanhã.\n",
+    "simplified": "Duas equipes de pesquisadores realizaram estudos parecidos e vão publicar os resultados em duas revistas importantes: \"Nature\", que será lançada hoje, e \"Science\", que será publicada amanhã."
+},
+{
+    "id": 319,
+    "original": "-- Acho que todos sentem muito frio, mesmo aqueles com pêlos, como o leão -- refletiu, enquanto observava a iguana.\n",
+    "simplified": "Refletiu que até os animais peludos, como o leão, devem sentir frio, ao ver a iguana."
+},
+{
+    "id": 320,
+    "original": "Entre Rio e Bali, o jovem ativista virou senador democrata e quase presidente da nação mais poderosa -- e poluidora -- do mundo.\n",
+    "simplified": "O jovem ativista que antes protestava em Rio e Bali tornou-se senador democrata e quase foi presidente do país mais poderoso e poluidor do mundo."
+},
+{
+    "id": 321,
+    "original": "-- O sinal estava amarelo, todos os outros veículos pararam, mas a viatura estava a mil e não conseguiu frear.\n",
+    "simplified": "Mesmo com o sinal amarelo, que fez todos os outros carros pararem, a viatura, que vinha em alta velocidade, não conseguiu frear a tempo."
+},
+{
+    "id": 322,
+    "original": "Agora, ele informa que um deles está atravessando a vastidão da galáxia a uma velocidade exorbitante, vindo direto para cá.\n",
+    "simplified": "Agora, ele conta que um desses objetos está se movendo muito rápido através da galáxia, vindo em nossa direção."
+},
+{
+    "id": 323,
+    "original": "Agora você pode explorar o espaço e flutuar por estrelas e constelações a partir do seu computador.\n",
+    "simplified": "Simples: Agora é possível navegar pelo espaço e ver estrelas e constelações usando o seu computador."
+},
+{
+    "id": 324,
+    "original": "O local permitirá que as pessoas entrem para contemplar de perto as aves.\n",
+    "simplified": "O local permitirá que as pessoas vejam as aves de perto."
+},
+{
+    "id": 325,
+    "original": "-- Quando tocar a sirene antiaérea, vá para o abrigo.\n",
+    "simplified": "Se ouvir a sirene antiaérea, entre no abrigo."
+},
+{
+    "id": 326,
+    "original": "Autoridades locais iniciaram ontem uma campanha de limpeza da cidade, para evitar mais contaminação.\n",
+    "simplified": "Ontem, autoridades começaram uma ação de limpeza na cidade para prevenir mais contaminações."
+},
+{
+    "id": 327,
+    "original": "Sob a orientação do pesquisador Ekkehard Hansen, ele desenvolve o projeto como parte de seu doutorado.\n",
+    "simplified": "Ele desenvolve o projeto como parte de seu doutorado, sob a orientação do pesquisador Ekkehard Hansen."
+},
+{
+    "id": 328,
+    "original": "Dali, seguiria para o Mercado Público, passaria por baixo da Hercílio Luz e, pela Avenida Beira-Mar Norte, iria até a Universidade Federal de Santa Catarina (UFSC).\n",
+    "simplified": "De lá, passaria pelo Mercado Público, pela Hercílio Luz, pela Avenida Beira-Mar Norte até chegar à UFSC."
+},
+{
+    "id": 329,
+    "original": "Mas agora terá de ampliar as vagas nos cursos para acrescentar quando necessário os 30%.\n",
+    "simplified": "Mas agora será necessário aumentar o número de vagas nos cursos para garantir os 30% adicionais quando precisar."
+},
+{
+    "id": 330,
+    "original": "A pesquisa foi divulgada na edição deste mês da revista \"Pesquisa Fapesp\" (revistapesquisa.fapesp. br).\n",
+    "simplified": "A pesquisa foi publicada na revista \"Pesquisa Fapesp\" deste mês."
+},
+{
+    "id": 331,
+    "original": "Esse acréscimo já tem a chancela da Associação Nacional dos Fabricantes de Veículos Automotores.\n",
+    "simplified": "A Associação Nacional dos Fabricantes de Veículos Automotores já aprovou esse aumento."
+},
+{
+    "id": 332,
+    "original": "Em outras regiões do globo, La Niña também fará suas estripulias.\n",
+    "simplified": "Em outras partes do mundo, La Niña também vai provocar mudanças climáticas."
+},
+{
+    "id": 333,
+    "original": "Ele recebeu também líderes tribais árabes sunitas, grupo étnico-religioso majoritário na província, no oeste do país, e o primeiro-ministro iraquiano, Nouri al-Maliki.\n",
+    "simplified": "Ele também se encontrou com líderes tribais árabes sunitas, que são a maioria na província do oeste do país, e com o primeiro-ministro iraquiano, Nouri al-Maliki."
+},
+{
+    "id": 334,
+    "original": "Os brasileiros voltaram a dar vexame no levantamento que compara habilidades em leitura, matemática e ciências de estudantes de 57 países.\n",
+    "simplified": "Estudantes brasileiros tiveram um desempenho ruim no teste que avalia habilidades de leitura, matemática e ciências entre alunos de 57 países."
+},
+{
+    "id": 335,
+    "original": "Outro aspecto importante é a preparação das quatro grandes usinas de biodiesel instaladas no estado para transformar capacidade instalada em produção efetiva, avalia Campos.\n",
+    "simplified": "Outra questão significativa é que as quatro grandes usinas de biodiesel no estado estão prontas para converter sua capacidade em produção real, de acordo com a avaliação de Campos."
+},
+{
+    "id": 336,
+    "original": "Há muita gente hoje voltando o interesse para o carvão.\n",
+    "simplified": "Atualmente, muitas pessoas estão redescobrindo o interesse no carvão."
+},
+{
+    "id": 337,
+    "original": "A musculação do dólar e a expectativa de maior preço dos grãos representam âncoras para enfrentar águas turbulentas.\n",
+    "simplified": "A força do dólar e a perspectiva de grãos mais caros são apoios para superar tempos difíceis."
+},
+{
+    "id": 338,
+    "original": "-- Ficam somente os jornalistas e os membros da delegação americana.\n",
+    "simplified": "Apenas jornalistas e membros da delegação americana permanecem."
+},
+{
+    "id": 339,
+    "original": "Os fragmentos do satélite italiano Bepposax mergulharam na noite de ontem no oceano Pacífico, deixando aliviados os mais de 30 países, inclusive o Brasil, que estavam sob risco de serem atingidos pelos destroços.\n",
+    "simplified": "Ontem à noite, os pedaços do satélite italiano Bepposax caíram no oceano Pacífico, o que aliviou mais de 30 países, incluindo o Brasil, que poderiam ter sido atingidos pelos destroços."
+},
+{
+    "id": 340,
+    "original": "Pode ser uma espécie de tapete sensível, por exemplo.\n",
+    "simplified": "É como um tapete que reage, por exemplo."
+},
+{
+    "id": 341,
+    "original": "A sorte dos cientistas liderados por Jillian Banfield, da Universidade da Califórnia em Berkeley, foi que a amostra de efluentes ácidos analisada tinha um pequeno número de organismos.\n",
+    "simplified": "Os cientistas liderados por Jillian Banfield tiveram sorte porque havia poucos organismos na amostra de efluentes ácidos que eles analisaram."
+},
+{
+    "id": 342,
+    "original": "Isso não deve afetar os planos da Petrobras no país, segundo a estatal brasileira, porque os contratos já estariam adequados à legislação.\n",
+    "simplified": "A Petrobras afirma que seus contratos já seguem as leis, então os planos da empresa no país não devem ser impactados."
+},
+{
+    "id": 343,
+    "original": "Como um todo, a operação de um Boeing é mais simples.\n",
+    "simplified": "Operar um Boeing é um processo mais simples de maneira geral."
+},
+{
+    "id": 344,
+    "original": "Segundo Steiner, os telescópios Gemini têm capacidade científica de observação e qualidade de imagem dez vezes superiores às de um telescópio espacial.\n",
+    "simplified": "Os telescópios Gemini veem dez vezes melhor que um telescópio espacial, segundo Steiner."
+},
+{
+    "id": 345,
+    "original": "Mais de dois anos depois de ser danificada, a Fonte Talavera aguarda pela restauração.\n",
+    "simplified": "A Fonte Talavera ainda espera por conserto depois de ser danificada há mais de dois anos."
+},
+{
+    "id": 346,
+    "original": "Serão ao todo 110 bancas na Área Geral, 29 na Área Infantil e Juvenil e 15 na Área Internacional.\n",
+    "simplified": "Serão 110 bancas na Área Geral, 29 na Área Infantil e Juvenil e 15 na Área Internacional."
+},
+{
+    "id": 347,
+    "original": "Um estudo publicado na edição de hoje da revista \"Science\" afirma que 1,75 bilhão de pessoas já enfrentam severa escassez de água no planeta.\n",
+    "simplified": "Um estudo na revista \"Science\" de hoje diz que 1,75 bilhão de pessoas já sofrem com falta grave de água."
+},
+{
+    "id": 348,
+    "original": "Com a oferta do uniforme, as escolas públicas poderão torná-lo obrigatório, o que eliminaria a roupa como um indicador de diferenças sociais nas escolas e não criaria constrangimento aos alunos mais pobres.\n",
+    "simplified": "Ao fornecer o uniforme, as escolas públicas podem fazer dele um item obrigatório, eliminando a roupa como um indicador de desigualdade social e evitando constrangimento para alunos de famílias mais pobres."
+},
+{
+    "id": 349,
+    "original": "Mesmo assim, apenas 10% daqueles que já se envolveram em acidentes se consideram responsáveis por reduzir a violência nas estradas.\n",
+    "simplified": "Mesmo tendo se envolvido em acidentes, apenas 10% acham que devem contribuir para reduzir a violência no trânsito."
+},
+{
+    "id": 350,
+    "original": "Drogas baseadas no UCP-3 teriam pouco em comum com os moderadores de apetite usados hoje.\n",
+    "simplified": "Drogas que usam o UCP-3 seriam bem diferentes dos remédios que controlam o apetite atuais."
+},
+{
+    "id": 351,
+    "original": "Em uma das fotos mostradas no julgamento, Diana está no banco traseiro do veículo e olha para trás, aparentemente para ver se o motorista havia despistado os paparazzi.\n",
+    "simplified": "Na foto do julgamento, Diana está no banco de trás do carro, olhando para trás, parecendo verificar se o motorista tinha enganado os paparazzi."
+},
+{
+    "id": 352,
+    "original": "Foi no Brasil que Kerry conheceu Tereza, sua mulher.\n",
+    "simplified": "Kerry conheceu Tereza, sua mulher, no Brasil."
+},
+{
+    "id": 353,
+    "original": "Percurso previsto vai do Bairro Barreiros, em São José, à UFSC.\n",
+    "simplified": "A rota planejada começa no Bairro Barreiros, em São José, e termina na UFSC."
+},
+{
+    "id": 354,
+    "original": "Munidas de telescópios e lunetas aos pés do mosteiro das irmãs beneditinas, em Rio Pardinho, interior de Santa Cruz do Sul, 50 pessoas se reuniram com um propósito:\n",
+    "simplified": "Perto do mosteiro das irmãs beneditinas em Rio Pardinho, interior de Santa Cruz do Sul, 50 pessoas se reuniram com um objetivo:"
+},
+{
+    "id": 355,
+    "original": "Essa decisão não altera a taxa básica de juro de curto prazo, que tem impacto mais direto sobre os juros que as instituições financeiras cobram de seus clientes.\n",
+    "simplified": "A decisão não afeta a taxa de juro básica de curto prazo, que influencia diretamente os juros cobrados pelos bancos dos clientes."
+},
+{
+    "id": 356,
+    "original": "Segundo pesquisadores que estudam a evolução do parasita, cujo nome oficial é \"coronavírus Urbani Sars-associado\", a mais nova dor de cabeça da humanidade parasitava algum animal, possivelmente uma ave, na China e, por alguma razão, \"pulou\" a barreira de espécies.\n",
+    "simplified": "Os pesquisadores que estudam o parasita \"coronavírus Urbani Sars-associado\" descobriram que ele antes parasitava um animal, talvez uma ave na China, e de alguma forma cruzou a barreira de espécies."
+},
+{
+    "id": 357,
+    "original": "O cientista político Paulo Moura observa que o envolvimento do governador Germano Rigotto e do senador Pedro Simon na briga pela candidatura própria do PMDB a presidente congelou as negociações no estado.\n",
+    "simplified": "O cientista político Paulo Moura aponta que as negociações no estado foram congeladas devido ao envolvimento do governador Germano Rigotto e do senador Pedro Simon na disputa pela candidatura do PMDB à presidência."
+},
+{
+    "id": 358,
+    "original": "Diferente como?,\n",
+    "simplified": "Frase complexa: Diferente como?\n\nFrase simples: Como é diferente?"
+},
+{
+    "id": 359,
+    "original": "Conforme a nutricionista Leila Tortelli, há duas recomendações importantes:\n",
+    "simplified": "A nutricionista Leila Tortelli destaca duas orientações essenciais."
+},
+{
+    "id": 360,
+    "original": "Sua tarefa consistirá em cortar arestas do material usado para preencher o vão entre as telhas térmicas da barriga do ônibus.\n",
+    "simplified": "Sua tarefa é cortar as sobras do material para encaixar nas frestas das telhas térmicas do assoalho do ônibus."
+},
+{
+    "id": 361,
+    "original": "A descoberta possibilitará que pessoas com dano no fígado usem as próprias células-tronco para produzir células hepáticas.\n",
+    "simplified": "A descoberta permitirá que pessoas com problemas no fígado usem suas próprias células-tronco para criar novas células do fígado."
+},
+{
+    "id": 362,
+    "original": "Finalmente, após dias de apreensão com problemas no veículo e uma histórica caminhada espacial de reparos, a agência espacial americana autorizou o ônibus espacial Discovery a enfrentar a turbulenta jornada que o separa da terra firme.\n",
+    "simplified": "Depois de dias de tensão com problemas no veículo e uma importante caminhada espacial para reparos, a agência espacial americana deu luz verde para que o ônibus espacial Discovery voltasse para o solo."
+},
+{
+    "id": 363,
+    "original": "Mas que ninguém pense que o objetivo do grupo da USP é produzí-los em série para atender ao projeto proteoma.\n",
+    "simplified": "O grupo da USP não pretende fabricar esses produtos em grande quantidade para o projeto proteoma."
+},
+{
+    "id": 364,
+    "original": "Prefeitura promete vigilância reforçada no Centro.\n",
+    "simplified": "Prefeitura vai aumentar a segurança no Centro."
+},
+{
+    "id": 365,
+    "original": "Mas, no Rio Grande do Sul, reconheço que ainda há poucos pontos.\n",
+    "simplified": "No Rio Grande do Sul, ainda existem poucos pontos a melhorar."
+},
+{
+    "id": 366,
+    "original": "Até mesmo o que está bem pode mudar de condição da noite para o dia, diz.\n",
+    "simplified": "Mesmo o que está bom pode mudar da noite para o dia, diz."
+},
+{
+    "id": 367,
+    "original": "Haverá um passeio ciclístico na Avenida Edvaldo Pereira Paiva.\n",
+    "simplified": "A Avenida Edvaldo Pereira Paiva receberá um passeio de bicicleta."
+},
+{
+    "id": 368,
+    "original": "Não satisfeita com a manipulação, ainda mata e devora sua anfitriã.\n",
+    "simplified": "Depois de manipular, ela ainda mata e come sua hospedeira."
+},
+{
+    "id": 369,
+    "original": "Num trabalho aprovado para publicação na revista científica \"PNAS\" (www.pnas.org), a equipe mostrou que o aparecimento da beta-amilóide induz um acúmulo anormal de colesterol e ceramida.\n",
+    "simplified": "A equipe publicou um artigo na revista \"PNAS\" onde demonstrou que a presença de beta-amilóide causa um acúmulo anormal de colesterol e ceramida."
+},
+{
+    "id": 370,
+    "original": "Quando começou a gritar, Riquelme disse:\n",
+    "simplified": "Quando começou a gritar, Riquelme disse:"
+},
+{
+    "id": 371,
+    "original": "E que, apesar da sua longa permanência nas Américas, a grande maioria dos cães do continente veio mesmo da Europa depois da \"descoberta\" de Cristóvão Colombo, em 1492.\n",
+    "simplified": "A maioria dos cães das Américas chegou da Europa após a descoberta de Cristóvão Colombo em 1492, apesar de estarem aqui por muito tempo."
+},
+{
+    "id": 372,
+    "original": "Para complicar ainda mais a situação dos militares dos EUA no Iraque, uma nova denúncia de massacre de civis por suas tropas veio à tona ontem.\n",
+    "simplified": "Os militares dos EUA no Iraque enfrentaram mais uma acusação de massacre de civis ontem."
+},
+{
+    "id": 373,
+    "original": "Portanto, jogos eletrônicos, robôs e bonecas falantes, sem a interatividade de quem os manuseia, não garantem a felicidade de ninguém.\n",
+    "simplified": "Jogos eletrônicos, robôs e bonecas falantes, mesmo sem alguém para brincar com eles, não fazem ninguém feliz."
+},
+{
+    "id": 374,
+    "original": "A expectativa é de que a nova companhia adote uma gestão moderna, com folha de salários mais enxuta, para vencer a crise em que se envolveu, com dívidas beirando R$ 9 bilhões.\n",
+    "simplified": "Espera-se que a nova empresa utilize uma gestão atualizada, com menos gastos em salários, para superar a crise que enfrenta, com dívidas próximas aos R$ 9 bilhões."
+},
+{
+    "id": 375,
+    "original": "Como se a lista de problemas de saúde causados pelos alimentos gordurosos já não fosse imensa, cientistas americanos acabam de adicionar a ela o dano ligado ao mal de Alzheimer, doença degenerativa do cérebro que mais afeta idosos pelo mundo.\n",
+    "simplified": "Alimentos gordurosos já causam muitos problemas de saúde, e agora cientistas americanos descobriram que eles também podem prejudicar o cérebro e contribuir para o Alzheimer, uma doença que atinge principalmente os idosos."
+},
+{
+    "id": 376,
+    "original": "Isso porque a Boeing utiliza um conceito que torna a operação de um avião mais simples e menos propícia a erros do piloto ou a mau funcionamento da aeronave.\n",
+    "simplified": "A Boeing usa um conceito que simplifica a operação do avião e reduz as chances de erros do piloto ou problemas técnicos."
+},
+{
+    "id": 377,
+    "original": "O reitor também preferiu não antecipar se a ação acarretará em reflexos sobre o calendário de divulgação do resultado do concurso que tradicionalmente é fornecido antes do final do ano.\n",
+    "simplified": "O reitor evitou falar sobre os impactos na data de divulgação do resultado do concurso, que costuma ser anunciado antes do final do ano."
+},
+{
+    "id": 378,
+    "original": "Quem não conseguir esgotar o armazenamento de diesel puro não pode misturar com o B2, porque o produto ficaria fora de especificação.\n",
+    "simplified": "Quem ainda tem diesel puro no tanque não deve misturar com o B2, pois o combustível não estará de acordo com as especificações."
+},
+{
+    "id": 379,
+    "original": "A prefeitura de Uruguaiana proibiu protestos no desfile estudantil de 7 de setembro.\n",
+    "simplified": "A prefeitura de Uruguaiana vetou manifestações durante o desfile escolar do Dia da Independência."
+},
+{
+    "id": 380,
+    "original": "Depois de um dia de intensas negociações nos bastidores e de muitos telefonemas entre as delegações e seus respectivos países, o clima dentro do plenário do centro de convenções, onde as delegações conversam, era tranqüilo, segundo um dos debatedores.\n",
+    "simplified": "Após negociações intensas nos bastidores e muitos telefonemas entre delegações e seus países, o clima no centro de convenções onde ocorrem as conversas estava tranquilo, disse um dos debatedores."
+},
+{
+    "id": 381,
+    "original": "A palavra robô, com o sentido empregado pelas pessoas hoje, surgiu em uma peça de 1920 do dramaturgo checo Karel Capek (1890-1938).\n",
+    "simplified": "A palavra robô, que as pessoas usam hoje, apareceu numa peça de 1920 do escritor checo Karel Capek."
+},
+{
+    "id": 382,
+    "original": "Acha que está na crista da onda e que este pijama foi desenhado pela Coca-Cola? \n",
+    "simplified": "Você pensa que está na moda e que este pijama foi criado pela Coca-Cola?"
+},
+{
+    "id": 383,
+    "original": "Sem espaço sob pontes e viadutos, moradores de rua transformam calçadas em dormitórios e latrinas.\n",
+    "simplified": "Moradores de rua ocupam calçadas para dormir e como banheiro devido à falta de espaço sob pontes e viadutos."
+},
+{
+    "id": 384,
+    "original": "Minutos antes do início da reunião, foi fechado o acordo que tornou viável a unificação da proposta do movimento Trabalhadores do Grupo Varig (TGV) com a da consultoria Alvarez & Marsal, contratada para conduzir o processo de recuperação judicial.\n",
+    "simplified": "O acordo que permitiu unificar a proposta do TGV com a da consultoria Alvarez & Marsal foi fechado logo antes da reunião começar."
+},
+{
+    "id": 385,
+    "original": "Para Greg Laden, da Universidade de Minnesota, e Richard Wrangham, da Universidade Harvard, raízes, tubérculos e outros Usos (sigla em inglês para \"órgãos subterrâneos de armazenamento\" das plantas) permitiram que os primeiros hominídeos, como são conhecidos os ancestrais do homem, saíssem da mata fechada e colonizassem ambientes abertos a partir de uns 6 milhões de anos atrás.\n",
+    "simplified": "Para Greg Laden, da Universidade de Minnesota, e Richard Wrangham, da Universidade Harvard, as raízes e tubérculos, conhecidos como órgãos subterrâneos de armazenamento das plantas, ajudaram os primeiros hominídeos, antepassados do homem, a deixar as florestas e viver em locais abertos cerca de 6 milhões de anos atrás."
+},
+{
+    "id": 386,
+    "original": "Crianças com sangramento na gengiva ganham um adesivo com a carinha vermelha.\n",
+    "simplified": "As crianças com sangramento na gengiva recebem um adesivo de carinha vermelha."
+},
+{
+    "id": 387,
+    "original": "Previsão é integração com sistema marítimo.\n",
+    "simplified": "A previsão é integrar-se ao sistema marítimo."
+},
+{
+    "id": 388,
+    "original": "Em vez de reduzir a ingestão de energia, aumentariam seu consumo pelo corpo -- o que, atualmente, é conseguido com o aumento de exercícios físicos.\n",
+    "simplified": "Se consumisse mais energia, o corpo usaria mais, como acontece quando fazemos mais exercícios físicos."
+},
+{
+    "id": 389,
+    "original": "Durante as tardes, alcançarão entre 22º C e 24º C.\n",
+    "simplified": "Durante as tardes, a temperatura chegará aos 22 ou 24 graus Celsius."
+},
+{
+    "id": 390,
+    "original": "Além de Collor, atualmente, os ex-presidentes José Sarney, Itamar Franco e Fernando Henrique Cardoso têm direito a esses benefícios.\n",
+    "simplified": "Além de Collor, os ex-presidentes Sarney, Itamar Franco e Fernando Henrique Cardoso também recebem esses benefícios."
+},
+{
+    "id": 391,
+    "original": "Ao vasculhar o sangue dos animais em busca das moléculas responsáveis pela resistência, Perales e seus colegas chegaram a duas substâncias, conhecidas como DM43 e DM64.\n",
+    "simplified": "Perales e seus colegas descobriram duas substâncias, DM43 e DM64, no sangue de animais que mostram resistência."
+},
+{
+    "id": 392,
+    "original": "Sem perceber o enxame, apearam de seus cavalos para checar o veículo.\n",
+    "simplified": "Desmontaram dos cavalos sem notar o enxame para verificar o veículo."
+},
+{
+    "id": 393,
+    "original": "O magistrado estabeleceu que a universidade deverá criar vagas suplementares em cada curso até atingir o percentual de cada grupo e não limitando, por exemplo, 70% de vagas aos que não entram no sistema de cotas e 30% aos do sistema de cotas.\n",
+    "simplified": "O juiz determinou que a universidade deve aumentar o número de vagas em cada curso para garantir que haja a porcentagem correta de alunos que entram pelo sistema de cotas, sem limitar o total de vagas para alunos que não estão nesse sistema."
+},
+{
+    "id": 394,
+    "original": "A larva induz quimicamente a aranha a modificar o formato da própria teia para que o casulo da vespa possa se desenvolver.\n",
+    "simplified": "A larva faz com que a aranha mude a forma da teia para que a vespa possa usar como casulo."
+},
+{
+    "id": 395,
+    "original": "Depois do primeiro segundo, os americanos olharam mais para o objeto central do que para o fundo durante 600 milissegundos, enquanto isso só aconteceu por 40 milissegundos com os chineses , disse à Folha Richard Nisbett, do Departamento de Psicologia da universidade.\n",
+    "simplified": "Após um breve momento, os americanos concentraram mais sua atenção no objeto central por cerca de meio segundo, enquanto os chineses fizeram isso por apenas quarenta milésimos de segundo, conforme explicou Richard Nisbett, do Departamento de Psicologia da universidade, à Folha."
+},
+{
+    "id": 396,
+    "original": "A votação sobre a inconstitucionalidade de um artigo de uma lei municipal de Içara atraiu ontem para o Tribunal de Justiça, em Florianópolis, cerca de 600 mineradores e 50 habitantes das comunidades de Santa Cruz, Espigão e Esplanada, de Içara, mas foi adiada para fevereiro do ano que vem.\n",
+    "simplified": "A votação sobre um artigo controverso de uma lei de Içara, que deveria ocorrer ontem em Florianópolis, foi adiada para fevereiro de 2024, apesar da presença de cerca de 600 mineradores e 50 moradores de Santa Cruz, Espigão e Esplanada."
+},
+{
+    "id": 397,
+    "original": "Outro que recebeu elogios foi o centroavante Ronaldo.\n",
+    "simplified": "Ronaldo, o centroavante, também foi elogiado."
+},
+{
+    "id": 398,
+    "original": "Os relatórios indicam aumento de 150% no número de infectados na Europa Oriental e na Ásia Central.\n",
+    "simplified": "Os relatórios mostram que o número de infectados na Europa Oriental e na Ásia Central aumentou 150%."
+},
+{
+    "id": 399,
+    "original": "E deverão ser atualizadas com o tempo, informou a empresa.\n",
+    "simplified": "A empresa informou que essas informações precisarão ser atualizadas ao longo do tempo."
+},
+{
+    "id": 400,
+    "original": "O homem bonachão, dizem seus opositores, \"segue o odor do dinheiro\" e \"explora seus duendes e os submete a situações de trabalho subumanas\".\n",
+    "simplified": "Seus opositores criticam o homem, que é conhecido por ser amável e amigável, dizendo que ele segue o dinheiro e explora seus empregados em condições de trabalho ruins."
+},
+{
+    "id": 401,
+    "original": "O sol se põe no mar, à esquerda, ensombrecendo as montanhas do norte de Israel, à direita.\n",
+    "simplified": "O sol se põe no horizonte, escurecendo as montanhas ao norte de Israel."
+},
+{
+    "id": 402,
+    "original": "Três (A. tucuri, A. uriri e A. blakei) foram achadas no Pará, outras três (A. Kitae, A. lamellatus e A. carranca) em Tocantins e na Bahia.\n",
+    "simplified": "Três espécies foram encontradas no Pará, outras três foram descobertas em Tocantins e na Bahia."
+},
+{
+    "id": 403,
+    "original": "Para a Secretaria Municipal do Meio Ambiente (Smam), freqüentadores da Redenção não devem se assustar com a morte do cavalo provocada pelo ataque de abelhas.\n",
+    "simplified": "A morte do cavalo na Redenção, causada pelo ataque de abelhas, não deve surpreender os visitantes, segundo a Secretaria Municipal do Meio Ambiente (Smam)."
+},
+{
+    "id": 404,
+    "original": "Quem é contra diz que os cães sujam a praia e colocam em risco a saúde dos veranistas.\n",
+    "simplified": "Quem é contra os cães na praia alega que eles sujam o ambiente e podem prejudicar a saúde dos turistas."
+},
+{
+    "id": 405,
+    "original": "-- Não sou contra nenhum tipo de manifestação, mas acho que na Semana da Pátria temos de ensinar aos alunos a ter amor pelo país onde eles vivem e não incitar protestos -- avalia.\n",
+    "simplified": "O avaliador não é contrário a manifestações, mas acredita que durante a Semana da Pátria devemos ensinar aos alunos a amar o país em que vivem em vez de incentivar protestos."
+},
+{
+    "id": 406,
+    "original": "-- Conheço todo mundo aqui -- conta, segurando firme a faixa preta nas mãos, pouco antes da cerimônia.\n",
+    "simplified": "\"Eu conheço todos aqui\", diz enquanto segura firmemente a faixa preta antes da cerimônia."
+},
+{
+    "id": 407,
+    "original": "A descrição do único dente, um molar inferior, foi submetida para publicação numa revista científica, mas os dados preliminares sugerem que o animal pode tanto ter sido um placentário (como humanos, cães ou baleias) quanto um marsupial (como os cangurus, que carregam seus filhotes numa bolsa).\n",
+    "simplified": "A descrição do único dente encontrado, um molar inferior, foi enviada para publicação em uma revista científica. Embora ainda não se tenha certeza, os dados iniciais indicam que o animal poderia ser tanto um placentário, como os seres humanos ou cães, quanto um marsupial, como os cangurus."
+},
+{
+    "id": 408,
+    "original": "Algumas particularidades dessa última ocorrência, porém, fizeram com que a direção ficasse ainda mais pesarosa.\n",
+    "simplified": "Algumas características específicas dessa situação mais recente aumentaram ainda mais a tristeza da direção."
+},
+{
+    "id": 409,
+    "original": "A cada dia, cerca de 150 mil veículos passam pelas pontes Pedro Ivo e Colombo Salles.\n",
+    "simplified": "Todos os dias, aproximadamente 150 mil veículos atravessam as pontes Pedro Ivo e Colombo Salles."
+},
+{
+    "id": 410,
+    "original": "O Parque Estadual Turístico do Alto Ribeira, em Iporanga (SP) e uma área de mata ciliar no município de Costa Rica, Mato Grosso do Sul.\n",
+    "simplified": "O Parque Estadual Turístico do Alto Ribeira, localizado em Iporanga (SP), e uma área de mata ciliar no município de Costa Rica, Mato Grosso do Sul, são exemplos de preservação ambiental."
+},
+{
+    "id": 411,
+    "original": "A queda de espuma levou a Nasa a imediatamente suspender novos vôos até que fizesse mais reformulações do tanque, mas a preocupação mais imediata era com o Discovery.\n",
+    "simplified": "A queda de espuma fez a Nasa parar novos voos imediatamente, para reformular o tanque, com a preocupação maior sendo com a segurança do Discovery."
+},
+{
+    "id": 412,
+    "original": "É por isso que em quase todo prédio de vias como José do Patrocínio, Lima e Silva, Venâncio Aires e Getúlio Vargas grades separam passeios de espaços condominiais -- criando uma estética antimendigo na cidade.\n",
+    "simplified": "Por isso, quase todos os prédios de ruas como José do Patrocínio, Lima e Silva, Venâncio Aires e Getúlio Vargas têm grades que separam as calçadas dos espaços privados, o que dá à cidade um aspecto que parece ser contra os mendigos."
+},
+{
+    "id": 413,
+    "original": "A segunda sugestão de modificação diz respeito ao veto de pesquisas com células-tronco embrionárias humanas e com clonagem terapêutica.\n",
+    "simplified": "A segunda sugestão é sobre proibir pesquisas com células-tronco embrionárias humanas e com clonagem terapêutica."
+},
+{
+    "id": 414,
+    "original": "O consórcio europeu acreditava que só a mais moderna tecnologia seria capaz de fazer a diferença e estabelecer uma vantagem competitiva.\n",
+    "simplified": "O consórcio europeu pensava que apenas a tecnologia mais moderna poderia destacá-los e garantir uma vantagem competitiva."
+},
+{
+    "id": 415,
+    "original": "A ficção científica americana na forma de livros ou de filmes é fascinada por robôs, mas na prática são japoneses os que mais usam esses auxiliares automatizados do ser humano seja na indústria, seja em residências.\n",
+    "simplified": "A ficção científica americana, seja em livros ou filmes, adora robôs, mas no mundo real são os japoneses que mais usam essas máquinas na indústria e em casa."
+},
+{
+    "id": 416,
+    "original": "A Sema (Secretaria do Meio Ambiente de Mato Grosso do Sul) informou que defende a dragagem e estuda a contratação de uma empresa para o serviço.\n",
+    "simplified": "A Secretaria do Meio Ambiente de Mato Grosso do Sul (Sema) declarou que apoia a dragagem e está considerando contratar uma empresa para realizar o serviço."
+},
+{
+    "id": 417,
+    "original": "Os jornalistas esperavam do democrata algum ataque a Bush e sua política (ou falta de) ambiental.\n",
+    "simplified": "Os jornalistas aguardavam que o democrata criticasse a política (ou a falta de) ambiental de Bush."
+},
+{
+    "id": 418,
+    "original": "A Venezuela na encruzilhada.\n",
+    "simplified": "Venezuela em situação delicada."
+},
+{
+    "id": 419,
+    "original": "O ministro Carlos Ayres Britto, seguido pelo ministro Marco Aurélio Mello, foram os únicos a defender a perda imediata de todos os mandatos de deputados que mudaram de partido na atual legislatura.\n",
+    "simplified": "Os únicos que defenderam a perda imediata de todos os mandatos dos deputados que trocaram de partido na atual legislatura foram o ministro Carlos Ayres Britto e o ministro Marco Aurélio Mello."
+},
+{
+    "id": 420,
+    "original": "Segundo ele, a segunda forma de escrita se trata de uma \"deformação popular\" que torna a sonoridade da palavra mais agradável e familiar.\n",
+    "simplified": "Ele disse que a segunda maneira de escrever é uma \"deformação popular\" que deixa a palavra mais bonita e familiar de ouvir."
+},
+{
+    "id": 421,
+    "original": "E desta vez foram além do que havia sido reportado no ano passado, além de pressão, os semicondutores orgânicos puderam detectar temperatura com precisão.\n",
+    "simplified": "Desta vez, além da pressão, os semicondutores orgânicos conseguiram detectar temperatura com precisão, indo além do que foi relatado no ano passado."
+},
+{
+    "id": 422,
+    "original": "Ela foi descoberta em 1965, depois de ter sido prevista pelo modelo do Big Bang criado pelo russo-americano George Gamow.\n",
+    "simplified": "Ela foi prevista pelo modelo do Big Bang criado pelo russo-americano George Gamow e descoberta em 1965."
+},
+{
+    "id": 423,
+    "original": "Em 2003, os alunos do Brasil alcançaram, em média, 403 pontos nos testes.\n",
+    "simplified": "Em 2003, os alunos brasileiros conseguiram uma média de 403 pontos nos exames."
+},
+{
+    "id": 424,
+    "original": "O ministro Roberto Rodrigues (Agricultura) anunciou ontem o nascimento da bezerra Vitoriosa.\n",
+    "simplified": "O ministro da Agricultura, Roberto Rodrigues, anunciou ontem o nascimento da bezerra Vitoriosa."
+},
+{
+    "id": 425,
+    "original": "Para a merenda escolar, é elaborado um cardápio padrão.\n",
+    "simplified": "Um cardápio padrão é criado para a merenda escolar."
+},
+{
+    "id": 426,
+    "original": "O foco principal da resistência vem dos próprios estudantes:\n",
+    "simplified": "Os próprios estudantes são o foco principal da resistência."
+},
+{
+    "id": 427,
+    "original": "-- É difícil parar com a depredação.\n",
+    "simplified": "É complicado cessar a vandalização."
+},
+{
+    "id": 428,
+    "original": "As perfurações serão feitas na Fossa de Nankai, junto à costa japonesa, no Oceano Pacífico, onde a crosta é relativamente fina.\n",
+    "simplified": "As perfurações ocorrerão na Fossa de Nankai, perto da costa do Japão no Pacífico, onde o solo é mais fino."
+},
+{
+    "id": 429,
+    "original": "Naquele país, a ave é considerada uma praga.\n",
+    "simplified": "Naquele país, consideram a ave como uma praga."
+},
+{
+    "id": 430,
+    "original": "O toque de requinte a esses aposentos austeros é conferido por flores.\n",
+    "simplified": "As flores dão um toque especial a esses quartos simples."
+},
+{
+    "id": 431,
+    "original": "Valternei Réus, advogado do movimento, disse que a região é de agricultores e que a atividade será comprometida caso a mina seja instalada.\n",
+    "simplified": "Valternei Réus, que representa o movimento dos agricultores, afirmou que a atividade agrícola será prejudicada se a mina for construída."
+},
+{
+    "id": 432,
+    "original": "Para ele, Israel é um \"Estado artificial\" que não pode continuar a existir.\n",
+    "simplified": "Ele considera que Israel é um \"Estado artificial\" que não deve continuar a existir."
+},
+{
+    "id": 433,
+    "original": "Um equivalente europeu está na Alemanha, aguardando o mesmo fim.\n",
+    "simplified": "Na Alemanha, espera-se o mesmo destino para um equivalente europeu."
+},
+{
+    "id": 434,
+    "original": "Para quem busca conhecimento técnico sobre aplicações de código aberto, há oficinas práticas de tecnologias.\n",
+    "simplified": "Se você quer aprender sobre o uso de código aberto, há workshops práticos disponíveis."
+},
+{
+    "id": 435,
+    "original": "Para os militares a coisa acabou não sendo lá muito útil, mas os dados se tornaram um prato cheio para os astrônomos.\n",
+    "simplified": "Embora não tenha sido muito útil para os militares, os dados se mostraram muito valiosos para os astrônomos."
+},
+{
+    "id": 436,
+    "original": "Atualmente, o único meio seguro de aferir sua presença é observar astros próximos que estejam sob influência de sua gravidade.\n",
+    "simplified": "Para verificar sua presença, deve-se olhar estrelas próximas que são afetadas pela sua gravidade."
+},
+{
+    "id": 437,
+    "original": "Os números gerais da internet apontam o mesmo fenômeno, diz Ellman.\n",
+    "simplified": "Ellman afirma que os dados totais da internet mostram o mesmo fenômeno."
+},
+{
+    "id": 438,
+    "original": "Seis das nove aranhas descobertas pelo grupo do Butantan e do Goeldi são desse grupo de \"folgadas\".\n",
+    "simplified": "Seis das nove aranhas descobertas pelo grupo do Butantan e do Goeldi pertencem ao grupo das \"folgadas\"."
+},
+{
+    "id": 439,
+    "original": "-- Nessa hora tem que ser herói, tem que ser herói -- repetia, cortando a rédea e tentando incentivar os demais.\n",
+    "simplified": "Ele repetia \"tem que ser herói, tem que ser herói\", cortando a rédea e incentivando os outros."
+},
+{
+    "id": 440,
+    "original": "Somadas, as indústrias do Rio Grande do Sul teriam capacidade para atender a quase metade do abastecimento nacional previsto para 2008, de 840 milhões de litros.\n",
+    "simplified": "As indústrias gaúchas poderiam suprir quase metade da demanda nacional de biodiesel para 2008, que é de 840 milhões de litros."
+},
+{
+    "id": 441,
+    "original": "Alunos de quatro colégios públicos da Capital discutiram idéias, colocaram luvas e afundaram as mãos nos ingredientes.\n",
+    "simplified": "Estudantes de quatro escolas públicas da cidade trocaram ideias, vestiram luvas e misturaram os ingredientes com as mãos."
+},
+{
+    "id": 442,
+    "original": "Cálculos iniciais do ministério apontam que o programa nacional do biodiesel pode representar uma economia anual de R$ 1,8 bilhão de litros de diesel importado pelo Brasil e gerar 200 mil empregos no campo.\n",
+    "simplified": "O programa nacional do biodiesel pode economizar 1,8 bilhões de litros de diesel importado e criar 200 mil empregos rurais por ano, segundo estimativas iniciais do ministério."
+},
+{
+    "id": 443,
+    "original": "Desde o dia 24 de outubro, a escola foi interditada pelo Corpo de Bombeiros e pela Defesa Civil.\n",
+    "simplified": "A escola foi fechada pelo Corpo de Bombeiros e pela Defesa Civil no dia 24 de outubro."
+},
+{
+    "id": 444,
+    "original": "Afinal, a chance de enfrentar a reprovação de alguém é menor.\n",
+    "simplified": "Afinal, é menos provável que você seja reprovado por alguém."
+},
+{
+    "id": 445,
+    "original": "Foi a 60ª caminhada espacial conduzida em conexão com a construção e manutenção da estação.\n",
+    "simplified": "Foi a 60a vez que astronautas saíram da estação para construí-la e cuidar dela."
+},
+{
+    "id": 446,
+    "original": "Os cientistas ainda não sabem exatamente qual o papel do PB2, mas ele parece codificar uma enzima responsável pela indução de um número maior de partículas virais nas células infectadas.\n",
+    "simplified": "Os cientistas não têm certeza do que o PB2 faz, mas parece que ele ajuda a criar mais vírus dentro das células infectadas."
+},
+{
+    "id": 447,
+    "original": "De acordo com novas análises em seres humanos, o colesterol e a ceramida, ambas moléculas de gordura, impulsionam a morte de células nervosas que caracteriza a doença.\n",
+    "simplified": "Estudos recentes em humanos mostraram que o colesterol e a ceramida, que são tipos de gorduras, contribuem para a morte de células nervosas típica da doença."
+},
+{
+    "id": 448,
+    "original": "Foi a primeira ação de política monetária entre as reuniões do Comitê de Mercado Aberto da instituição (equivalente ao Comitê de Política Monetária do Banco Central no Brasil) desde os ataques às torres gêmeas em setembro de 2001.\n",
+    "simplified": "Foi a primeira vez que o banco alterou a política monetária fora de suas reuniões regulares desde os ataques de 11 de setembro de 2001."
+},
+{
+    "id": 449,
+    "original": "Em um edifício de 16 apartamentos no centro de Passo Fundo, há mais de dois anos o costume se repete.\n",
+    "simplified": "Em um prédio com 16 apartamentos no centro de Passo Fundo, há mais de dois anos que a mesma coisa acontece."
+},
+{
+    "id": 450,
+    "original": "A projeção dos cientistas para o ano 2025 é que 3,3 bilhões de pessoas não tenham mais água para irrigação, a atividade humana que mais consome o líquido.\n",
+    "simplified": "Os cientistas prevêem que, até 2025, 3,3 bilhões de pessoas podem ficar sem água suficiente para irrigação, a atividade que mais usa água."
+},
+{
+    "id": 451,
+    "original": "Desde a invasão do país, em 2003, pouco mais de 3 mil já perderam a vida.\n",
+    "simplified": "Mais de 3 mil pessoas perderam a vida desde que o país foi invadido em 2003."
+},
+{
+    "id": 452,
+    "original": "Ele foi atacado quando entregava correspondência numa residência na Vila São Borja, bairro Sarandi.\n",
+    "simplified": "Ele foi atacado enquanto entregava cartas em uma casa na Vila São Borja, em Sarandi."
+},
+{
+    "id": 453,
+    "original": "A ação foi impetrada pelo ex-deputado federal gaúcho Waldomiro Fioravante (PT).\n",
+    "simplified": "O ex-deputado federal gaúcho Waldomiro Fioravante (PT) iniciou a ação."
+},
+{
+    "id": 454,
+    "original": "Cientistas do Centro de Estudos de Saclay, na França, parecem ter encontrado o primeiro indício de que a Via Láctea esteja cercada por um verdadeiro campo minado de buracos negros, cerca de 1 milhão ao todo, eles estimam.\n",
+    "simplified": "Cientistas franceses do Centro de Estudos de Saclay sugerem que a Via Láctea pode estar rodeada por cerca de 1 milhão de buracos negros."
+},
+{
+    "id": 455,
+    "original": "Com o propósito de atender às demandas das comunidades onde opera, o grupo mantém canais permanentes de interatividade em seus veículos.\n",
+    "simplified": "Para atender às necessidades das comunidades locais, o grupo mantém canais de interação constantes em suas plataformas."
+},
+{
+    "id": 456,
+    "original": "Um dos caminhos seria sua superestimulação.\n",
+    "simplified": "Um dos jeitos seria estimular demais."
+},
+{
+    "id": 457,
+    "original": "Quando pediu para ingressar à reserva da Aeronáutica, menos de um mês após completar a missão no espaço, muita gente pensou que o tempo e o dinheiro investidos pelo governo na formação e na viagem do astronauta haviam sido desperdiçados.\n",
+    "simplified": "Após retornar do espaço e pedir para se aposentar da Aeronáutica, muitos acharam que o governo gastou dinheiro à toa na formação e viagem do astronauta."
+},
+{
+    "id": 458,
+    "original": "Ele afirmou que dieta e exercícios devem continuar a protagonizar tratamentos para emagrecer.\n",
+    "simplified": "Ele disse que dieta e exercícios devem ser os principais tratamentos para perder peso."
+},
+{
+    "id": 459,
+    "original": "A UFSC vai recorrer da decisão e pode entrar ainda hoje com recurso no Tribunal Regional Federal da 4ª Região, em Porto Alegre.\n",
+    "simplified": "A UFSC pretende contestar a decisão e pode apresentar um recurso ainda hoje no Tribunal Regional Federal da 4a Região, localizado em Porto Alegre."
+},
+{
+    "id": 460,
+    "original": "Se a amostra a ser analisada contiver milhares de organismos diferentes, há uma dificuldade natural de recompor o quebra-cabeças após a leitura das seqüências de DNA.\n",
+    "simplified": "Se a amostra tiver muitos tipos de organismos diferentes, é complicado montar o quebra-cabeça depois de ler as sequências de DNA."
+},
+{
+    "id": 461,
+    "original": "O impacto no Brasil foi forte:\n",
+    "simplified": "O impacto no Brasil foi forte."
+},
+{
+    "id": 462,
+    "original": "Mães americanas tendem a usar mais substantivos, e a usar mais objetos ao brincar com seus filhos pequenos.\n",
+    "simplified": "Mães americanas utilizam mais substantivos e brinquedos ao interagir com seus filhos pequenos."
+},
+{
+    "id": 463,
+    "original": "Além de \"morar\" no halo, aparentemente, ele também \"nasceu\" lá, dizem os cientistas.\n",
+    "simplified": "Os cientistas afirmam que, além de viver no halo, ele também teria nascido nesse local."
+},
+{
+    "id": 464,
+    "original": "E, desses, 60% confessaram ter aprendido a guiar com os próprios pais.\n",
+    "simplified": "Entre as razões da liderança dos gaúchos, está a tradição no plantio de soja, matéria-prima principal do biodiesel, e o forte uso de agricultura familiar, que é necessário para obter o selo social.\n\nE 60% disseram que aprenderam a dirigir com seus pais."
+},
+{
+    "id": 465,
+    "original": "O real recuperou toda a desvalorização sofrida ante o dólar na quinta-feira, quando os investidores tiveram um dia de pânico.\n",
+    "simplified": "O real voltou ao valor anterior após a queda de quinta-feira, quando os investidores estavam preocupados."
+},
+{
+    "id": 466,
+    "original": "Por marketing estático entenda-se a venda do nome do estádio, a comercialização das placas de publicidade e de espaços na sua fachada.\n",
+    "simplified": "A venda do nome do estádio, a publicidade em placas e a utilização de espaços na sua fachada fazem parte do marketing estático."
+},
+{
+    "id": 467,
+    "original": "E com um detalhe holywoodiano:\n",
+    "simplified": "Entre as razões para o Rio Grande do Sul estar na liderança, está o fato de a soja, principal ingrediente do biodiesel, ser uma cultura tradicional na região, além da predominância de pequenas propriedades familiares, que é um critério para obter o selo social."
+},
+{
+    "id": 468,
+    "original": "Em 13 anos, esse número pode chegar a 230 mil e tornará a circulação na cidade inviável, acredita o presidente do Conselho Regional de Engenharia e Arquitetura em Santa Catarina, Raul Zucatto.\n",
+    "simplified": "Em 13 anos, podem surgir 230 mil novos veículos, o que tornará o trânsito na cidade impossível, segundo o presidente do Conselho Regional de Engenharia e Arquitetura de Santa Catarina, Raul Zucatto."
+},
+{
+    "id": 469,
+    "original": "E com a voz baixinha, quase em segredo, Carlos Eduardo confidência o desejo de que o irmão David lembre disso e volte para casa.\n",
+    "simplified": "Em tom baixo, quase em segredo, Carlos Eduardo revela ao irmão David o desejo de que ele se lembre e volte para casa."
+},
+{
+    "id": 470,
+    "original": "O negócio ainda precisa ser aprovado pelos acionistas da Submarino.\n",
+    "simplified": "Os acionistas da Submarino ainda precisam aprovar o negócio."
+},
+{
+    "id": 471,
+    "original": "Esses eram os autores que os bibliotecários do mosteiro acomodavam na estante do Papa ontem à tarde, quando a reportagem de Zero Hora conseguiu acesso a um dos espaços mais protegidos nesta visita:\n",
+    "simplified": "Os autores que os bibliotecários do mosteiro colocavam na estante do Papa foram vistos pela reportagem de Zero Hora ontem à tarde, durante uma visita a um dos espaços mais protegidos."
+},
+{
+    "id": 472,
+    "original": "Após vários adiamentos, o julgamento do mérito da questão foi postergado novamente, agora para fevereiro.\n",
+    "simplified": "O julgamento foi adiado novamente, desta vez para fevereiro, depois de várias outras alterações."
+},
+{
+    "id": 473,
+    "original": "O menino come a merenda oferecida pela Escola Municipal Moacyr Ramos Martins com gosto e aprendeu a saborear frutas e legumes, sempre tão difíceis de serem incorporados a seu cardápio.\n",
+    "simplified": "O menino come com prazer a merenda da Escola Municipal Moacyr Ramos Martins e agora gosta de frutas e legumes, que antes eram difíceis de ele comer."
+},
+{
+    "id": 474,
+    "original": "O técnico Parreira valorizou o empenho demonstrado pelo jogador no amistoso de ontem.\n",
+    "simplified": "O técnico Parreira destacou a dedicação que o jogador mostrou na partida de ontem."
+},
+{
+    "id": 475,
+    "original": "Os agricultores de Santa Cruz, comunidade que fica em Içara, vieram em um.\n",
+    "simplified": "Agricultores da comunidade de Santa Cruz, localizada em Içara, vieram em um evento."
+},
+{
+    "id": 476,
+    "original": "O estudo estará numa edição futura do periódico científico \"Journal of Human Evolution\" (www.sciencedirect.com/science/journal/ 00472484).\n",
+    "simplified": "A pesquisa será publicada em uma edição futura da revista científica \"Journal of Human Evolution\", disponível em www.sciencedirect.com/science/journal/ 00472484."
+},
+{
+    "id": 477,
+    "original": "No Uruguai, não é proibido comercializar nem comprar as aves.\n",
+    "simplified": "No Uruguai, não é proibido vender nem adquirir aves."
+},
+{
+    "id": 478,
+    "original": "Assim, seu filho estará protegido do risco da paralisia infantil.\n",
+    "simplified": "Seu filho ficará protegido da paralisia infantil com isso."
+},
+{
+    "id": 479,
+    "original": "Por severa escassez de água potável, entende-se, segundo a ONU, o uso de mais de 40% das reservas do líquido disponíveis em uma região para consumo industrial, doméstico e agrícola.\n",
+    "simplified": "A ONU considera que uma região está com grave falta de água potável se mais de 40% de suas reservas forem usadas para indústria, casa e agricultura."
+},
+{
+    "id": 480,
+    "original": "Pesquisadores da fiocruz (Fundação Oswaldo Cruz) identificaram duas moléculas no sangue dos gambás que têm essa função antiofídica e esperam utilizá-las não apenas para auxiliar quem sofre acidentes com cobras, mas também para tratar doenças humanas, como câncer e osteoartrite.\n",
+    "simplified": "Pesquisadores da Fiocruz descobriram duas moléculas no sangue dos gambás que podem ajudar não só quem é picado por cobras, mas também podem ser usadas no tratamento de doenças como câncer e osteoartrite."
+},
+{
+    "id": 481,
+    "original": "Isso pode azeitar as engrenagens do pólo metalmecânico da Serra.\n",
+    "simplified": "Isso pode melhorar o funcionamento do setor metalmecânico da Serra."
+},
+{
+    "id": 482,
+    "original": "Aguarda definição da Casa Civil da Presidência.\n",
+    "simplified": "Está esperando a Casa Civil da Presidência decidir."
+},
+{
+    "id": 483,
+    "original": "Todos os 35 estudados já não respondiam mais aos tratamentos convencionais quando foram escalados para a pesquisa.\n",
+    "simplified": "Frase Simples: Os 35 estudados participaram da pesquisa porque não responderam mais aos tratamentos tradicionais."
+},
+{
+    "id": 484,
+    "original": "Perguntado se o protocolo de Kyoto será ratificado no caso da eleição de um democrata para a presidência em 2008, Kerry surpreendeu.\n",
+    "simplified": "Perguntado se os Estados Unidos ratificariam o Protocolo de Kyoto se um democrata fosse eleito presidente em 2008, Kerry respondeu de maneira surpreendente."
+},
+{
+    "id": 485,
+    "original": "Veste terno azul e gravata cor-de-rosa impecáveis, mas chega com um andar desengonçado.\n",
+    "simplified": "Ele veste um terno azul e gravata rosa impecáveis, mas tem um jeito desajeitado de andar."
+},
+{
+    "id": 486,
+    "original": "O excêntrico Pampas Safari, onde o contato com animais selvagens é mais próximo do que em zoológicos tradicionais, comemorará seu aniversário com uma programação especial.\n",
+    "simplified": "O Pampas Safari, um lugar onde os visitantes podem ver animais selvagens bem de perto, vai fazer uma festa de aniversário com atividades especiais."
+},
+{
+    "id": 487,
+    "original": "Segundo a dermatologista Lyane Minuzzi, cães na areia são um risco para os veranistas.\n",
+    "simplified": "Cães na areia são um perigo para os turistas de verão, segundo a dermatologista Lyane Minuzzi."
+},
+{
+    "id": 488,
+    "original": "Atleta da Sogipa é o primeiro portador da síndrome de Down a receber a graduação máxima no Rio Grande do Sul.\n",
+    "simplified": "Um atleta da Sogipa, com síndrome de Down, é o primeiro a alcançar o grau máximo no Rio Grande do Sul."
+},
+{
+    "id": 489,
+    "original": "A mais nova versão cinematográfica do filme tem o ator Will Smith no papel principal.\n",
+    "simplified": "Will Smith é o ator principal na nova versão do filme."
+},
+{
+    "id": 490,
+    "original": "Tudo o que sobrou dele foram as patas e partes da cauda e da bacia, mas os pesquisadores conseguiram estimar que o bicho fosse um filhote de 1,5 metro de altura.\n",
+    "simplified": "Os pesquisadores encontraram patas e partes da cauda e da bacia, e estimaram que o animal era um filhote com 1,5 metro de altura."
+},
+{
+    "id": 491,
+    "original": "Blitze, barreiras e operações em profusão foram insuficientes para conter um crescimento de 11,12% em relação a março de 2006.\n",
+    "simplified": "Mesmo com muitas operações, blitze e barreiras, o aumento em relação a março de 2006 foi de 11,12%."
+},
+{
+    "id": 492,
+    "original": "Graças ao novo sistema de inspeção da nave, foi possível detectar o fenômeno no espaço.\n",
+    "simplified": "Com o novo sistema de inspeção da nave, descobriram o fenômeno no espaço."
+},
+{
+    "id": 493,
+    "original": "A equipe não tem planos futuros de clonagem no momento.\n",
+    "simplified": "A equipe não planeja fazer clonagem agora."
+},
+{
+    "id": 494,
+    "original": "Entre os danos ambientais, ele cita a percolação (perda de água superficial), a fratura de rochas que pode causar rachaduras nas casas e a poluição do ar, devido à suspensão de partículas.\n",
+    "simplified": "Ele menciona como danos ambientais a perda de água da superfície, a quebra de rochas que pode provocar rachaduras em casas e a poluição do ar por causa de partículas suspensas."
+},
+{
+    "id": 495,
+    "original": "A técnica é basicamente a mesma que fez com que a empresa americana Celera pudesse, de forma incomodamente célere, obter uma seqüência mais ou menos completa de todo o DNA humano.\n",
+    "simplified": "A técnica é igual à usada pela empresa americana Celera para obter rapidamente uma sequência completa do DNA humano."
+},
+{
+    "id": 496,
+    "original": "Nos dicionários, o nome da planta está como macela.\n",
+    "simplified": "No dicionário, o nome da planta é macela."
+},
+{
+    "id": 497,
+    "original": "Não foi à toa que ele lembrou o caos que se transformou a cidade de Sucre depois que o amigo Evo Morales conseguiu aprovar uma reforma que incluiu, claro, a reeleição ilimitada do presidente.\n",
+    "simplified": "Não foi por acaso que ele se recordou do caos que se instalou em Sucre após a aprovação da reforma promovida pelo amigo Evo Morales, que permitiu a reeleição ilimitada do presidente."
+},
+{
+    "id": 498,
+    "original": "A procuradoria jurídica da instituição foi acionada, segundo o reitor Lucio Botelho.\n",
+    "simplified": "O reitor Lucio Botelho confirmou que a procuradoria jurídica da instituição foi chamada."
+},
+{
+    "id": 499,
+    "original": "-- Sou curioso para conhecer esta região faz tempo.\n",
+    "simplified": "Faz tempo que quero conhecer essa região."
+},
+{
+    "id": 500,
+    "original": "Trata-se do mais antigo mamífero sul-americano do Paleoceno, o período geológico que marca o começo do \"reinado\" de seu grupo no planeta, logo depois da extinção dos dinossauros, há 65 milhões de anos.\n",
+    "simplified": "Esta é a criatura mamífera mais antiga da América do Sul do período Paleoceno, que começou logo após os dinossauros serem extintos, há 65 milhões de anos."
+},
+{
+    "id": 501,
+    "original": "A principal tarefa agendada será instalar uma plataforma de armazenamento do lado de fora da estação.\n",
+    "simplified": "A instalação de uma plataforma de armazenamento externo está na lista de tarefas prioritárias."
+},
+{
+    "id": 502,
+    "original": "Vários especialistas acreditam que o banco central americano voltará a agir, dessa vez para reduzir a taxa básica, caso o nervosismo dos investidores predomine nos próximos dias.\n",
+    "simplified": "Se o nervosismo dos investidores continuar, muitos especialistas esperam que o banco central dos Estados Unidos diminua a taxa de juros básica novamente."
+},
+{
+    "id": 503,
+    "original": "Do outro lado do balcão, quem ensaia um brinde à crise são os produtores de vinho.\n",
+    "simplified": "Os produtores de vinho estão comemorando a crise."
+},
+{
+    "id": 504,
+    "original": "Os vidros quebrados de uma estação ferroviária lembram um dos primeiros ataques mortíferos do Hezbollah nesta crise:\n",
+    "simplified": "Os vidros quebrados da estação ferroviária são um lembrete do primeiro ataque mortal do Hezbollah nesta crise."
+},
+{
+    "id": 505,
+    "original": "A Google, que recebe currículos em seu estande, trouxe 10 engenheiros do seu centro de desenvolvimento em Belo Horizonte (MG) para conversar com interessados em trabalhar na companhia.\n",
+    "simplified": "A Google, que está recrutando candidatos em seu estande, trouxe 10 engenheiros de Belo Horizonte (MG) para falar com quem quer trabalhar na empresa."
+},
+{
+    "id": 506,
+    "original": "Uma alteração num único gene é capaz de transformar um vírus inofensivo no agente causador de uma gripe mortal.\n",
+    "simplified": "Um gene só pode fazer um vírus seguro virar causa de uma gripe perigosa."
+},
+{
+    "id": 507,
+    "original": "Não há ar-condicionado ou calefação.\n",
+    "simplified": "A liderança gaúcha se deve à experiência em plantar soja, a base do biodiesel, e ao foco na agricultura familiar, que garante o selo social.\n\n \n\nFrase complexa: Não há ar-condicionado ou calefação.\n\n \n\nFrase simples: Não tem ar-condicionado nem calefação."
+},
+{
+    "id": 508,
+    "original": "As marcas aparecem em árvores caídas, em um buraco no meio da rua.\n",
+    "simplified": "As marcas são encontradas em árvores derrubadas e em buracos nas vias públicas."
+},
+{
+    "id": 509,
+    "original": "Em volta do buraco negro está orbitando uma estrela subgigante bastante comum.\n",
+    "simplified": "Uma estrela subgigante comum está orbitando ao redor de um buraco negro."
+},
+{
+    "id": 510,
+    "original": "Há pouco mais de um ano, ele estava orbitando no espaço.\n",
+    "simplified": "Complexa: Há pouco mais de um ano, ele estava orbitando no espaço.\nSimples: Um ano atrás, ele estava girando ao redor da Terra no espaço."
+},
+{
+    "id": 511,
+    "original": "O vírus causador da pneumonia asiática deve entrar, ao lado do HIV, do Ebola e da febre amarela, para a enorme galeria dos patógenos assassinos que saíram da natureza e atingiram seres humanos.\n",
+    "simplified": "O vírus da pneumonia asiática, junto com HIV, Ebola e febre amarela, é mais um patógeno que saiu da natureza para afetar humanos."
+},
+{
+    "id": 512,
+    "original": "Bernardi tinha Denise Kempf como vice.\n",
+    "simplified": "Bernardi tinha Denise Kempf como sua vice-presidente."
+},
+{
+    "id": 513,
+    "original": "Apesar da rapidez do processo, os pesquisadores descobriram como cultivar o G. Viridilucens em laboratório e verificaram que ele pode funcionar como uma espécie de sensor de poluição.\n",
+    "simplified": "Os pesquisadores aprenderam a cultivar o G. Viridilucens em laboratório e perceberam que ele pode ser usado para detectar poluição, mesmo com a rapidez do processo."
+},
+{
+    "id": 514,
+    "original": "Comportamento semelhante tiveram outros mercados de capitais no mundo.\n",
+    "simplified": "Outros mercados de capitais ao redor do mundo agiram da mesma maneira."
+},
+{
+    "id": 515,
+    "original": "Sem saber, o aracnídeo está providenciando o suporte perfeito para o casulo da parasita.\n",
+    "simplified": "O aracnídeo está criando um local ideal para o casulo da parasita, sem ter consciência disso."
+},
+{
+    "id": 516,
+    "original": "Com o Sky, o Google espera transformar milhões de internautas em astrônomos amadores.\n",
+    "simplified": "Com o Sky, o Google quer tornar milhões de usuários da internet em astrônomos amadores."
+},
+{
+    "id": 517,
+    "original": "Outro companheiro de palco, José Carreras, o definiu como \"uma das maiores vozes da história\".\n",
+    "simplified": "José Carreras disse que ele é uma das melhores vozes de todos os tempos."
+},
+{
+    "id": 518,
+    "original": "Mas esse não será o único a passar por análise antes que o clube decida erguer sua nova casa, após quase 53 anos no Olímpico.\n",
+    "simplified": "Antes de construir sua nova sede, após quase 53 anos no Olímpico, o clube também analisará outros locais."
+},
+{
+    "id": 519,
+    "original": "E um dos astros \"parece ter um sinal de que tenha sido ' chutado ' para fora da galáxia\", diz Irapuan Rodrigues, pesquisador brasileiro do grupo, que pela primeira vez publica na \"Nature\".\n",
+    "simplified": "O pesquisador brasileiro Irapuan Rodrigues, que pela primeira vez publicou na revista \"Nature\", afirmou que um dos astros parece ter sido \"chutado\" para fora da galáxia."
+},
+{
+    "id": 520,
+    "original": "Esqueça as machadinhas de pedra, a invenção do fogo ou o primeiro jogo de futebol.\n",
+    "simplified": "Esqueça as ferramentas de pedra, o fogo ou a primeira partida de futebol."
+},
+{
+    "id": 521,
+    "original": "Outra forma para combater o crime deverá contar com a ajuda de ladrões de carro.\n",
+    "simplified": "Outra maneira de combater o crime será pedir ajuda a ladrões de carro."
+},
+{
+    "id": 522,
+    "original": "-- O zoneamento mostrará que procedimentos devem ser tomados em cada área -- explica.\n",
+    "simplified": "O zoneamento indicará as ações necessárias em cada região, diz ele."
+},
+{
+    "id": 523,
+    "original": "Também foram anotados os erros nas perguntas de matemática e a impressão inicial dos participantes sobre os testes, se \"ameaçadores\" ou só \"desafiadores\".\n",
+    "simplified": "Também foram observados os erros nos problemas de matemática e como os participantes viram os testes, se \"ameaçadores\" ou apenas \"desafiadores\"."
+},
+{
+    "id": 524,
+    "original": "Oliveira comentou que se o ICMS não tivesse sido reduzido, os consumidores estariam pagando ainda mais.\n",
+    "simplified": "Oliveira disse que, sem a redução do ICMS, os consumidores pagariam mais caro."
+},
+{
+    "id": 525,
+    "original": "Francelino Grando e Roberto Rodrigues chegaram ao evento de Ribeirão num microônibus movido a biodiesel.\n",
+    "simplified": "Francelino Grando e Roberto Rodrigues chegaram ao evento de Ribeirão usando um microônibus que funciona com biodiesel."
+},
+{
+    "id": 526,
+    "original": "A informação foi, naturalmente, primeiro dada aos astronautas.\n",
+    "simplified": "Os astronautas foram os primeiros a receber a informação."
+},
+{
+    "id": 527,
+    "original": "O objeto em questão, um sistema duplo composto por um buraco negro sendo orbitado por uma estrela anã, já havia sido detectado desde o ano passado, mas só agora os cientistas puderam se assegurar de que ele não pertencia ao disco galáctico.\n",
+    "simplified": "O sistema duplo, com um buraco negro e uma estrela anã, já havia sido descoberto no ano passado, mas só agora os cientistas confirmaram que ele está fora do disco galáctico."
+},
+{
+    "id": 528,
+    "original": "Até mesmo os pequenos que não receberam a primeira dose da imunização, ocorrida em junho, ou aqueles que fizeram outras vacinas em clínicas particulares podem comparecer nos postos neste sábado.\n",
+    "simplified": "Crianças que perderam a primeira dose de imunização em junho ou que receberam outras vacinas em clínicas particulares podem ir aos postos neste sábado."
+},
+{
+    "id": 529,
+    "original": "Bloqueio atmosférico fez frente fria estacionar no RS.\n",
+    "simplified": "Um fenômeno chamado bloqueio atmosférico impediu que uma frente fria se movesse, ficando parada no Rio Grande do Sul."
+},
+{
+    "id": 530,
+    "original": "Foram votos vencidos.\n",
+    "simplified": "A região gaúcha lidera devido à tradição no cultivo da soja, principal ingrediente do biodiesel, e à predominância da agricultura familiar, necessária para obter o selo social.\n\n \n\nFrase complexa: Foram votos vencidos.\n \n\nFrase Simples: Foram votos derrotados."
+},
+{
+    "id": 531,
+    "original": "Até o final da tarde de ontem, já eram 48 pessoas com sintomas de dengue no município.\n",
+    "simplified": "Ontem, à tarde, 48 pessoas apresentaram sintomas de dengue na cidade."
+},
+{
+    "id": 532,
+    "original": "Esses corpos medidos em metros são interessantes cientificamente, mas não oferecem absolutamente nenhum perigo aos humanos, diz Robert Jedicke, da Universidade do Arizona, escolhido pela \"Nature\" para comentar o estudo.\n",
+    "simplified": "Esses corpos que medimos em metros são importantes para a ciência, mas não ameaçam os seres humanos, segundo Robert Jedicke, da Universidade do Arizona, que foi selecionado pela \"Nature\" para comentar a pesquisa."
+},
+{
+    "id": 533,
+    "original": "Aparentemente, o fator principal para seu aparecimento é o acúmulo da proteína beta-amilóide nos neurônios (células nervosas), em geral de pessoas idosas.\n",
+    "simplified": "Parece que a principal razão para isso é o acúmulo da proteína beta-amilóide nos neurônios, comum em pessoas mais velhas."
+},
+{
+    "id": 534,
+    "original": "Apesar de estudada de forma intensa no mundo todo, a moléstia tem um mecanismo de ação ainda pouco compreendido.\n",
+    "simplified": "A doença, embora estudada intensamente em todo o mundo, ainda tem um mecanismo de ação pouco compreendido."
+},
+{
+    "id": 535,
+    "original": "Ninhais que eram ocupados há 650 anos sumiram, contou David Vaughan à Folha.\n",
+    "simplified": "David Vaughan disse à Folha que os ninhos que existiam há 650 anos desapareceram."
+},
+{
+    "id": 536,
+    "original": "O resultado é que parte do material foi recuperado com a ajuda de denúncias à polícia.\n",
+    "simplified": "Graças a denúncias à polícia, uma parte do material foi recuperada."
+},
+{
+    "id": 537,
+    "original": "Aos poucos, recupera a forma, depois de mais de um mês e meio fora do futebol por causa de contusão muscular na coxa direita:\n",
+    "simplified": "Gradualmente, volta à forma após mais de um mês e meio afastado do futebol devido a uma lesão muscular na coxa direita."
+},
+{
+    "id": 538,
+    "original": "Flexibilidade.\n",
+    "simplified": "A liderança do Rio Grande do Sul em biodiesel se deve à tradição no plantio de soja e à predominância da agricultura familiar, que é essencial para obter o selo social."
+},
+{
+    "id": 539,
+    "original": "Os brasileiros marcaram 370 pontos em matemática, 14 a mais do que na sondagem de 2003.\n",
+    "simplified": "Os brasileiros pontuaram 370 em matemática, um aumento de 14 pontos desde 2003."
+},
+{
+    "id": 540,
+    "original": "Quando o rio arromba [abre um canal e a água invade a planície], não volta mais para o leito na época da seca, porque o leito está mais alto que o campo , explica.\n",
+    "simplified": "Quando o rio abre um canal e invade a planície, ele não volta mais para o leito na época da seca porque o leito está mais alto que o campo, explica."
+},
+{
+    "id": 541,
+    "original": "O que chamou a atenção das autoridades foi o aumento no número de ataques em relação aos outros anos.\n",
+    "simplified": "As autoridades notaram um aumento nos ataques comparado com anos anteriores."
+},
+{
+    "id": 542,
+    "original": "Com base em relatos de moradores e muita paciência na coleta, a equipe chegou aos cogumelos em dois locais:\n",
+    "simplified": "A equipe encontrou cogumelos em dois locais diferentes com a ajuda dos moradores e muita paciência na coleta."
+},
+{
+    "id": 543,
+    "original": "Na noite em que a teia fica pronta, a larva irrompe do corpo da aranha, matando-a.\n",
+    "simplified": "Quando a teia fica pronta, a larva sai do corpo da aranha e a mata."
+},
+{
+    "id": 544,
+    "original": "Um lado inteiro, de três apartamentos, está no chão.\n",
+    "simplified": "Três apartamentos de um lado inteiro caíram."
+},
+{
+    "id": 545,
+    "original": "O premier classificou o episódio de \"crime horrível\".\n",
+    "simplified": "O primeiro-ministro chamou o acontecimento de \"crime terrível\"."
+},
+{
+    "id": 546,
+    "original": "Quando isso ocorre, chama-se de conjunção inferior.\n",
+    "simplified": "Quando o Mercúrio está entre o Sol e a Terra, é chamado de conjunção inferior."
+},
+{
+    "id": 547,
+    "original": "Foi um pedaço desses que, ao colidir com uma das asas do Columbia, levou à sua destruição.\n",
+    "simplified": "Um desses pedaços bateu em uma das asas do Columbia, causando sua destruição."
+},
+{
+    "id": 548,
+    "original": "Mais rodadas de estudos e a conclusão:\n",
+    "simplified": "Mais rodadas de estudos e a conclusão resultante."
+},
+{
+    "id": 549,
+    "original": "Relator de um dos processos, o ministro Celso de Mello deixou duas brechas que dão aos parlamentares que mudaram de legenda a possibilidade de continuar nos cargos mesmo com a mudança.\n",
+    "simplified": "O ministro Celso de Mello, ao relatar um dos processos, criou duas oportunidades para os parlamentares que trocaram de partido permanecerem em seus cargos apesar da mudança."
+},
+{
+    "id": 550,
+    "original": "Ganhamos a vida trabalhando na sinaleira.\n",
+    "simplified": "Nós ganhamos a vida trabalhando na sinaleira."
+},
+{
+    "id": 551,
+    "original": "O documento faz duas reivindicações.\n",
+    "simplified": "O documento tem duas exigências."
+},
+{
+    "id": 552,
+    "original": "O Maldi feito pelo grupo do LIP (Laboratório de Instrumentação e Partículas), do Instituto de Física, também financiado pela Fapesp, saiu bem mais em conta:\n",
+    "simplified": "O Maldi criado pela equipe do LIP, do Instituto de Física, e apoiado pela Fapesp, custou bem menos do que o esperado."
+},
+{
+    "id": 553,
+    "original": "E ressaltou que a economia brasileira é sólida.\n",
+    "simplified": "E destacou a solidez da economia brasileira."
+},
+{
+    "id": 554,
+    "original": "A batida resultou em fratura de vértebras cervicais, próximas à nuca.\n",
+    "simplified": "A batida provocou uma fratura nas vértebras do pescoço, perto da nuca."
+},
+{
+    "id": 555,
+    "original": "Mas não abre mão da companhia dos dois poodles.\n",
+    "simplified": "Mas ela não deixa de ter a companhia dos dois poodles."
+},
+{
+    "id": 556,
+    "original": "Os Duarte podem ser classificados cachorreiros natos.\n",
+    "simplified": "A família Duarte tem um amor natural por cachorros."
+},
+{
+    "id": 557,
+    "original": "Isso quer dizer que os camundongos transgênicos reduziram a gordura de seu corpo, em relação à massa muscular, sem fazer ginástica.\n",
+    "simplified": "Os camundongos transgênicos perderam mais gordura em comparação à massa muscular, mesmo sem praticar exercícios físicos."
+},
+{
+    "id": 558,
+    "original": "Isso serviu de estopim para a concorrência de preços.\n",
+    "simplified": "Isso provocou uma disputa de preços."
+},
+{
+    "id": 559,
+    "original": "Ficando cada vez mais compacta, a estrela chega a um ponto em que a força da gravidade em sua superfície é tão grande que nem a luz, viajando a 300 mil quilômetros por segundo, é capaz de escapar dela.\n",
+    "simplified": "À medida que a estrela encolhe, a gravidade em sua superfície fica tão forte que nem mesmo a luz pode escapar, mesmo viajando a 300 mil quilômetros por segundo."
+},
+{
+    "id": 560,
+    "original": "Agora os cientistas já agarram um punhado deles de uma vez e trabalham em todos ao mesmo tempo.\n",
+    "simplified": "Agora os cientistas podem trabalhar em muitos desses projetos ao mesmo tempo."
+},
+{
+    "id": 561,
+    "original": "Diferentemente de outros pleitos, as legendas este ano são obrigadas a driblar novas regras eleitorais, desgaste da imagem da classe política e projetos nacionais envolvendo líderes gaúchos.\n",
+    "simplified": "Este ano, as legendas precisam superar novas regras eleitorais, a imagem desgastada dos políticos e os projetos nacionais que incluem líderes gaúchos, ao contrário de outros pleitos."
+},
+{
+    "id": 562,
+    "original": "Os estudos envolveram análise do DNA de uma estrutura das células, as mitocôndrias, que é transmitido apenas pelas mães.\n",
+    "simplified": "As pesquisas estudaram o DNA nas mitocôndrias das células, que é passado apenas das mães para os filhos."
+},
+{
+    "id": 563,
+    "original": "-- Tivemos uma melhora na média devido a um programa de prevenção que implementamos, com os carteiros fazendo o levantamento de riscos.\n",
+    "simplified": "Implementamos um programa de prevenção que melhorou a média, com os carteiros avaliando os riscos."
+},
+{
+    "id": 564,
+    "original": "Mas para os donos de postos a regra está clara:\n",
+    "simplified": "Para os donos de postos, a regra é clara."
+},
+{
+    "id": 565,
+    "original": "Mas já passou pelo crivo da Lojas Americanas, controladora da Americanas.\n",
+    "simplified": "Mas já foi aprovado pela Lojas Americanas, que é a dona da Americanas."
+},
+{
+    "id": 566,
+    "original": "Inversamente proporcional à irritação da religiosa, estava a dona de uma banquinha em frente ao mosteiro.\n",
+    "simplified": "A dona de uma banquinha em frente ao mosteiro se mostrava calma, enquanto a religiosa estava irritada."
+},
+{
+    "id": 567,
+    "original": "-- Puniram com um rigor que não se vê em outros casos -- acredita.\n",
+    "simplified": "Ele acredita que o rigor da punição aplicada é incomum quando comparado a outros casos."
+},
+{
+    "id": 568,
+    "original": "Outros pensavam em como soltar as amarras do animal sem se ferir.\n",
+    "simplified": "Outros pensavam em como soltar o animal sem se machucar."
+},
+{
+    "id": 569,
+    "original": "As espécies que usavam geleiras para se abrigar e procriar começaram a diminuir na região, enquanto os pinguins acostumados a mar aberto colonizaram a península.\n",
+    "simplified": "Os animais que se protegiam e criavam nas geleiras começaram a sumir, enquanto os pinguins que gostam do mar sem gelo chegaram e tomaram conta da região."
+},
+{
+    "id": 570,
+    "original": "Do ponto de vista operacional, isso faz uma diferença enorme, tranquilizadora, explica Hoffmann.\n",
+    "simplified": "Operacionalmente, isso faz uma grande e tranquilizadora diferença, segundo Hoffmann."
+},
+{
+    "id": 571,
+    "original": "No Estado, o La Niña cria um cenário diferente daquele que transtorna a rotina dos gaúchos nos últimos dias:\n",
+    "simplified": "No Estado, o La Niña causa um fenômeno que altera a rotina dos gaúchos nos últimos dias."
+},
+{
+    "id": 572,
+    "original": "Agora, se sou socialista, isso ainda não sei.\n",
+    "simplified": "Ainda estou incerto se sou socialista."
+},
+{
+    "id": 573,
+    "original": "Tanto o pai, Leandro, quanto a mãe, Élia Cristina, levantam da cama junto com o sol para trabalhar como segurança e empregada doméstica em Porto Alegre.\n",
+    "simplified": "Tanto o pai quanto a mãe acordam cedo para trabalhar como segurança e empregada doméstica em Porto Alegre."
+},
+{
+    "id": 574,
+    "original": "A Universidade de Tóquio desenvolveu uma pele artificial para robôs que imita uma parcela significativa das qualidades e capacidades da pele humana normal.\n",
+    "simplified": "A Universidade de Tóquio criou uma pele artificial para robôs que replica várias qualidades e funções da pele humana natural."
+},
+{
+    "id": 575,
+    "original": "Os recursos tecnológicos devem ser revezados com leituras na viagem.\n",
+    "simplified": "Os tecnológicos devem ser usados junto com livros na viagem."
+},
+{
+    "id": 576,
+    "original": "Quase uma celebridade na Sogipa, o judoca não se cansa de distribuir acenos.\n",
+    "simplified": "Na Sogipa, o judoca, quase uma celebridade, continua a acenar para todos."
+},
+{
+    "id": 577,
+    "original": "A longa sucessão de discursos, porém, fez muitos abandonarem o local.\n",
+    "simplified": "A sequência interminável de discursos fez muitas pessoas desistirem e saírem do local."
+},
+{
+    "id": 578,
+    "original": "Estudos baseados em modelos de computador, publicados nos dois principais periódicos científicos do planeta, indicam que diagnóstico rápido, quarentena de doentes e tratamento em massa com antivirais seriam capazes de impedir algo semelhante ao que aconteceu com a chamada gripe espanhola, logo depois da Primeira Guerra Mundial.\n",
+    "simplified": "Estudos feitos por computador, publicados nos maiores jornais de ciência do mundo, mostram que testar rápido, isolar quem está doente e tratar muitos com remédios contra vírus podem evitar uma pandemia como a da gripe espanhola após a Primeira Guerra Mundial."
+},
+{
+    "id": 579,
+    "original": "Seis parlamentares brasileiros irão ao evento.\n",
+    "simplified": "Seis deputados brasileiros vão participar do evento."
+},
+{
+    "id": 580,
+    "original": "A migração se intensificou recentemente com o fechamento do espaço de cinco pontes ao longo da Avenida Ipiranga, tradicionalmente habitadas por moradores de rua.\n",
+    "simplified": "A migração aumentou recentemente após o fechamento de cinco pontes na Avenida Ipiranga, que antes eram abrigo de moradores de rua."
+},
+{
+    "id": 581,
+    "original": "Pelo menos é o que afirma uma forte campanha espanhola que quer \"Um Natal sem Papai Noel\".\n",
+    "simplified": "Uma campanha espanhola destaca a importância de um Natal sem Papai Noel."
+},
+{
+    "id": 582,
+    "original": "Comprovou-se que o regime mais breve basta, na maioria dos casos, para impedir a contaminação.\n",
+    "simplified": "A pesquisa mostrou que um período curto de tratamento já é suficiente para evitar a infecção na maioria das vezes."
+},
+{
+    "id": 583,
+    "original": "Chamadas de aranhas-cavalgadoras, ganharam esse nome por um bom motivo:\n",
+    "simplified": "Chamadas de aranhas-cavalgadoras, elas receberam esse nome por um bom motivo:"
+},
+{
+    "id": 584,
+    "original": "No ano passado, existiam 352,2 mil robôs industriais no Japão, contra 121,3 mil nos EUA e 266,1 mil nos países da União Européia, o chega a um total de quase 1 milhão em todo os países do mundo.\n",
+    "simplified": "No Japão, havia 352,2 mil robôs industriais ano passado, enquanto nos EUA havia 121,3 mil e nos países da União Europeia, 266,1 mil, totalizando quase 1 milhão de robôs no mundo."
+},
+{
+    "id": 585,
+    "original": "Depois, havia diferenças que indicavam que as raças hoje comuns na América têm mais em comum com cães trazidos pelos colonos europeus.\n",
+    "simplified": "As raças de cães comuns na América atualmente compartilham mais semelhanças com aqueles trazidos pelos colonos europeus."
+},
+{
+    "id": 586,
+    "original": "Durante os últimos oito anos, uma rede de satélites do Departamento de Defesa dos EUA tem monitorado a atmosfera terrestre com o objetivo de detectar explosões, obviamente na tentativa de monitorar o uso de armamento nuclear ao redor do globo.\n",
+    "simplified": "Uma rede de satélites do Departamento de Defesa dos EUA monitora a atmosfera terrestre há oito anos para detectar explosões e monitorar o uso de armas nucleares pelo mundo."
+},
+{
+    "id": 587,
+    "original": "Os ministérios da Agricultura e da Ciência e Tecnologia defenderam ontem o uso da soja transgênica na produção do biodiesel para abastecer parte da frota nacional de veículos.\n",
+    "simplified": "Ontem, os ministérios da Agricultura e da Ciência e Tecnologia apoiaram o uso de soja transgênica no biodiesel para abastecer parte dos veículos do país."
+},
+{
+    "id": 588,
+    "original": "Instituições financeiras nacionais notaram que há precaução dos investidores contra possíveis surpresas no final de semana.\n",
+    "simplified": "Bancos brasileiros perceberam que os investidores estão cautelosos com eventuais acontecimentos inesperados durante o fim de semana."
+},
+{
+    "id": 589,
+    "original": "Mesmo supondo o pior, que o vírus da gripe do frango possa ser transmitido de pessoa a pessoa, seria possível conter um surto da doença antes que ela se transforme em uma epidemia de proporções letais e mundiais.\n",
+    "simplified": "Mesmo que o vírus da gripe do frango passe de pessoa para pessoa, é possível controlar a doença antes que vire uma epidemia global e mortal."
+},
+{
+    "id": 590,
+    "original": "De repente, os faróis do carro iluminam o que sobrou de um prédio residencial de três andares.\n",
+    "simplified": "Os faróis do carro iluminaram um prédio residencial de três andares que estava quase destruído."
+},
+{
+    "id": 591,
+    "original": "-- O tempo da maturação da macela coincide com a Páscoa, daí esse fenômeno -- explica o bispo.\n",
+    "simplified": "-- A época em que a macela amadurece coincide com a Páscoa, e isso explica o fenômeno -- disse o bispo."
+},
+{
+    "id": 592,
+    "original": "O público manteve o clima eleitoral ao cantar músicas de campanhas do petista.\n",
+    "simplified": "O público manteve o clima eleitoral ao cantar músicas do candidato do PT."
+},
+{
+    "id": 593,
+    "original": "Para os analistas políticos, a indecisão eleitoral de 2006 é fruto de uma confluência de fatores.\n",
+    "simplified": "Os analistas políticos dizem que a indecisão nas eleições de 2006 resultou de vários fatores juntos."
+},
+{
+    "id": 594,
+    "original": "Inácio sabe também que Saint-Exupéry ficou no alojamento para os pilotos no aeródromo do Campeche nas três primeiras vezes que pousou por ali, mas depois passou a hospedar-se no Hotel La Porta, no Centro da cidade.\n",
+    "simplified": "Inácio sabe que Saint-Exupéry se hospedou no alojamento dos pilotos no aeródromo do Campeche nas primeiras vezes que pousou lá, mas depois passou a ficar no Hotel La Porta, no Centro."
+},
+{
+    "id": 595,
+    "original": "Collor diz que vai morar em apartamento funcional.\n",
+    "simplified": "Collor afirmou que pretende se mudar para um apartamento funcional."
+},
+{
+    "id": 596,
+    "original": "Hoje, se um médico propuser isso ao paciente, ele não tem medo, sabe que não vai morrer amanhã , diz Matos.\n",
+    "simplified": "Se um médico sugerir isso hoje, o paciente não fica com medo, pois sabe que não vai morrer amanhã, diz Matos."
+},
+{
+    "id": 597,
+    "original": "Uma diferença fundamental entre as duas opções é que o consórcio que for comprar só a parte doméstica precisa ter participação de uma empresa aérea.\n",
+    "simplified": "A principal diferença entre as opções é que, se for comprar apenas a parte doméstica, o consórcio deve incluir uma companhia aérea."
+},
+{
+    "id": 598,
+    "original": "O artista fará o molde original em gesso, antes da fundição.\n",
+    "simplified": "O artista criará um molde de gesso antes de fazer a fundição."
+},
+{
+    "id": 599,
+    "original": "Para completar a exploração, ela devora sua ex-hospedeira.\n",
+    "simplified": "Ela devora sua ex-hospedeira para terminar a exploração."
+},
+{
+    "id": 600,
+    "original": "Ele foi achado em meio a sedimentos de origem marinha:\n",
+    "simplified": "Ele foi encontrado entre restos de seres vivos que morreram no mar."
+},
+{
+    "id": 601,
+    "original": "-- A cada três meses, ele (Mercúrio) passa entre a Terra e o Sol.\n",
+    "simplified": "Frase Simples: Mercúrio passa entre a Terra e o Sol a cada três meses."
+},
+{
+    "id": 602,
+    "original": "Apartir daí, o sistema automático faz o resto.\n",
+    "simplified": "A partir daí, o sistema automático continua o trabalho."
+},
+{
+    "id": 603,
+    "original": "Cobriu cidades como Santa Maria, Santo Ângelo e Pelotas, segundo a Central de Meteorologia.\n",
+    "simplified": "Cidades como Santa Maria, Santo Ângelo e Pelotas foram cobertas, de acordo com a Central de Meteorologia."
+},
+{
+    "id": 604,
+    "original": "Isso porque, além de medir luz, o telescópio mede calor, por meio de radiação infravermelha.\n",
+    "simplified": "O telescópio não só mede luz, mas também calor, usando radiação infravermelha."
+},
+{
+    "id": 605,
+    "original": "-- Já pedi para a fundição soldar para nunca mais sair.\n",
+    "simplified": "Pedi para soldar na fundição para que nunca mais saia."
+},
+{
+    "id": 606,
+    "original": "Luciano Pavarotti foi o mais pop dos tenores.\n",
+    "simplified": "Luciano Pavarotti foi o tenor mais popular."
+}]
