@@ -1,8 +1,31 @@
 import json
+from pathlib import Path
+import tempfile
 from easse.sari import corpus_sari
 from easse.bleu import corpus_bleu
 from bert_score import score
 
+
+def get_temp_filepath(create=False):
+    global TEMP_DIR
+    temp_filepath = Path(tempfile.mkstemp()[1])
+    if TEMP_DIR is not None:
+        temp_filepath.unlink()
+        temp_filepath = TEMP_DIR / temp_filepath.name
+        temp_filepath.touch(exist_ok=False)
+    if not create:
+        temp_filepath.unlink()
+    return temp_filepath
+
+def write_lines(lines, filepath=None):
+    if filepath is None:
+        filepath = get_temp_filepath()
+    filepath = Path(filepath)
+    filepath.parent.mkdir(parents=True, exist_ok=True)
+    with filepath.open('w', encoding='utf-8') as f:
+        for line in lines:
+            f.write(line + '\n')
+    return filepath
 
 def get_outputs_unchanged(simples, sources):
     assert len(simples)==len(sources)
