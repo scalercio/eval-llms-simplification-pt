@@ -37,9 +37,57 @@ def get_outputs_unchanged(simples, sources):
     return count*100/len(simples)
 
 
+def create_unique_vector(source, ref):
+    """
+    Create a vector of tuples (source[i], ref[i]), removing repetitions.
+
+    Args:
+        source (list of str): List of source strings.
+        ref (list of str): List of reference strings.
+        simplification (list of str): List of simplified strings (not used directly).
+
+    Returns:
+        tuple: A vector with unique tuples and a list of eliminated indices.
+    """
+    if not (len(source) == len(ref)):
+        raise ValueError("The lists must have the same size.")
+
+    unique_vector = []
+    eliminated_indices = []
+    seen_tuples = set()
+
+    for i, (src, reference) in enumerate(zip(source, ref)):
+        current_tuple = (src, reference)
+        if current_tuple not in seen_tuples:
+            unique_vector.append(current_tuple)
+            seen_tuples.add(current_tuple)
+        else:
+            eliminated_indices.append(i)
+
+    return unique_vector, eliminated_indices
+
+def remove_indexes(vector, indexes):
+    """
+    Removes elements from a vector based on a list of indices.
+
+    Args:
+        vector (list): Original vector.
+        indexes (list of int): Indices of elements to be removed.
+
+    Returns:
+        list: Vector without the specified elements.
+    """
+    return [item for i, item in enumerate(vector) if i not in indexes]
+
 def calculate_metrics(model_name, ref_path, tipo_ex, seeds, sentences, dataset):
     with open(ref_path, 'r', encoding='utf-8') as f:
         ref_seq = f.readlines()
+    
+    _ , indexes = create_unique_vector(sentences, ref_seq)
+    if 'public_simple_language' in dataset:
+        print(len(indexes))
+        sentences = remove_indexes(sentences, indexes)
+        ref_seq = remove_indexes(ref_seq, indexes)
     
     all_sentences = []
     ref_final = []
@@ -56,9 +104,10 @@ def calculate_metrics(model_name, ref_path, tipo_ex, seeds, sentences, dataset):
             with open(simplified_file) as f3:
                 data=json.load(f3)
 
-            for sentence_dict in data:
-                #print(sentence_dict['simplified'])
-                all_sentences.append(sentence_dict['simplified'])
+            for i, sentence_dict in enumerate(data):
+                if i not in indexes or 'public_simple_language' not in dataset:
+                    #print(sentence_dict['simplified'])
+                    all_sentences.append(sentence_dict['simplified'])
     
     assert len(ref_final) == len(all_sentences)
     assert len(all_sentences) == len(src_final)

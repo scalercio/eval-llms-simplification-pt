@@ -11,6 +11,7 @@ from src.config import get_openai_api_key, get_maritaca_api_key
 from src.utils import calculate_metrics
 import re
 import openai
+#import cohere
 
 # Função para remover caracteres de substituição Unicode inválidos
 def remove_invalid_unicode(text):
@@ -168,12 +169,36 @@ def request_maritaca_api(endpoint, original, prompt, max_tokens, temp, topp, eng
         
     return remove_invalid_unicode(content)
 
+def request_cohere_api(endpoint, original, prompt, max_tokens, temp, topp, engine, seed):
+    co = cohere.ClientV2(YOUR_KEY)
+    response = co.chat(
+        model=engine,
+        max_tokens=max_tokens,
+        temperature = temp,
+        seed = seed,
+        p=topp,
+        messages=[
+            {
+                "role": "system",
+                "content": "Você é um assistente simplificador de textos."
+            },
+            {
+                "role": "user",
+                "content": f"{prompt} \n\nFrase complexa: {original} \n\n Frase Simples: \n\n",
+            }
+        ]
+    )
+    #print(response.message.content[0].text)
+    return response.message.content[0].text
+
 def generate_examples_one_by_one(endpoint, originals, prompt, ofile, max_len, temp, topp, engine, seed):
     id = 1
     with open(ofile, 'a', encoding='utf-8') as f:
         for original in originals[:-1]:
             if 'sabia' in engine:
                 simpler = request_maritaca_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
+            elif 'command-r' in engine:
+                simpler = request_cohere_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
             else:
                 simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
             #print(simpler)
@@ -185,6 +210,8 @@ def generate_examples_one_by_one(endpoint, originals, prompt, ofile, max_len, te
         original = originals[-1]
         if 'sabia' in engine:
             simpler = request_maritaca_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
+        elif 'command-r' in engine:
+                simpler = request_cohere_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
         else:
             simpler = request_openai_api(endpoint, original, prompt, max_len, temp, topp, engine, seed)
             #print(simpler)
@@ -270,7 +297,9 @@ def main(endpoint, input_file_path, reference_path, dataset):
     if 'openai' in endpoint:
         model_name = open_ai_model
     elif 'maritaca' in endpoint:
-        model_name = 'sabia-2-small'
+        model_name = 'sabia-3'
+    elif 'cohere' in endpoint:
+        model_name = 'command-r-08-2024'
     else:
         model_name = get_model_name_from_endpoint(endpoint + 'models')
     print(model_name.split("/")[-1])
