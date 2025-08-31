@@ -52,41 +52,56 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
     #)
 
     # JSON payload com o prompt criado dinamicamente
-    payload = {
-        "model": engine,
-        "messages": [
-            {
-                "role": "system",
-                "content": "Você é um assistente simplificador de textos."
-            },
-            {
-                "role": "user",
-                "content": f"{prompt} \n\nFrase complexa: {original} \n\n Frase Simples: \n\n",
-            }
-        ],
-        "response_format": {
-            "type": "json_schema",
-            "json_schema": {
-                "name": "simplification_response",
-                "strict": True  ,
-                "schema": {
-                    "type": "object",
-                    "properties": {
-                        "simplified_phrase": {
-                            "type": "string"
-                        }
-                    },
-                    "additionalProperties": False,
-                    "required": ["simplified_phrase"]
+    if 'o1-mini' in engine:
+        payload = {
+            "model": engine,
+            "messages": [
+                {
+                    "role": "user",
+                    "content": f"{prompt} \n\nFrase complexa: {original} \n\n Frase Simples: \n\n",
                 }
-            }
-        },
-        "temperature": temp,
-        "max_tokens": max_tokens,
-        "top_p": topp,
-        "seed": seed,
-        "stream": False
-    }
+            ],
+            "temperature": temp,
+            "max_completion_tokens": max_tokens,
+            "seed": seed,
+            "stream": False
+        }
+    else:
+        payload = {
+            "model": engine,
+            "messages": [
+                {
+                    "role": "system",
+                    "content": "Você é um assistente simplificador de textos."
+                },
+                {
+                    "role": "user",
+                    "content": f"{prompt} \n\nFrase complexa: {original} \n\n Frase Simples: \n\n",
+                }
+            ],
+            "response_format": {
+                "type": "json_schema",
+                "json_schema": {
+                    "name": "simplification_response",
+                    "strict": True  ,
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "simplified_phrase": {
+                                "type": "string"
+                            }
+                        },
+                        "additionalProperties": False,
+                        "required": ["simplified_phrase"]
+                    }
+                }
+            },
+            "temperature": temp,
+            "max_tokens": max_tokens,
+            "top_p": topp,
+            "seed": seed,
+            "stream": False
+        }
 
     # Cabeçalhos da requisição
     headers = {
@@ -102,6 +117,9 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
         data = response.json()
         #print(type(data)) #<class 'dict'>
         content = data['choices'][0]['message']['content'].strip()
+        if 'o1-mini' in engine:
+            #print(content)
+            return content
         #print(content) #<class 'str'>
         if content[-1] not in '}':
             content = content[:-1]+'}'
@@ -116,6 +134,7 @@ def request_openai_api(endpoint, original, prompt, max_tokens, temp, topp, engin
         #print(json_object['simplified_phrase'])
         return remove_invalid_unicode(json_object.get("simplified_phrase", ""))
     else:
+        #print(response.json())
         return {"error": f"Request failed with status code {response.status_code}"}
 
 def request_maritaca_api(endpoint, original, prompt, max_tokens, temp, topp, engine, seed):
