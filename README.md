@@ -1,7 +1,7 @@
-# evaluation-llms-portuguese-simplification API Application
+# eval-llms-simplification-pt API Application
 Evaluation of Large Language Models for Portuguese Sentence Simplification
 
-This application makes requests to an endpoint with a prompt to generate jokes.
+This application makes requests to an endpoint with a prompt to simplify sentences.
 
 ## Requirements
 
@@ -13,8 +13,8 @@ This application makes requests to an endpoint with a prompt to generate jokes.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/scalercio/evaluation-llms-portuguese-simplification
-   cd evaluation-llms-portuguese-simplification
+   git clone https://github.com/scalercio/eval-llms-simplification-pt
+   cd eval-llms-simplification-pt
 
 ## Execute
 
